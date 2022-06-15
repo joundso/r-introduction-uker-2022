@@ -8,14 +8,11 @@
 
 ## Folders:
 !/R
-/R/*
+/R/**
 !/R/*.R
 
 !/Rmd
-/Rmd/*
-!/Rmd/*.Rmd
-!/Rmd/*.md
-!/Rmd/gh_files/*
+
 
 !/.github
 /.github/*
