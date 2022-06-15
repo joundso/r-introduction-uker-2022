@@ -1,0 +1,29 @@
+/*
+/*/
+
+!/.gitignore
+!/NEWS.md
+!/README.md
+!/r-introduction-uker-2022.Rproj
+
+## Folders:
+!/R
+/R/*
+!/R/*.R
+
+!/Rmd
+/Rmd/*
+!/Rmd/*.Rmd
+!/Rmd/*.md
+!/Rmd/gh_files/*
+
+!/.github
+/.github/*
+!/.github/workflows/
+/.github/workflows/*
+!/.github/workflows/*.yml
+
+
+## Ignore all log-related files:
+**/*[Ll]og*
+**/*.log
