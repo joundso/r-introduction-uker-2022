@@ -1,33 +1,60 @@
 01 Overview
 ================
 
-## GitHub Documents
-
-This is an R Markdown format used for publishing markdown documents to
-GitHub. When you click the **Knit** button all R code chunks are run and
-a markdown file (.md) suitable for publishing to GitHub is generated.
-
-## Including Code
-
-You can include R code in the document as follows:
+## R-Syntax
 
 ``` r
-summary(cars)
+test <- 10
+if (test > 5) {
+  print("variable 'test' is greater than 5")
+} else{
+  print("variable 'test' is smaller or equal to 5")
+}
 ```
 
-    ##      speed           dist       
-    ##  Min.   : 4.0   Min.   :  2.00  
-    ##  1st Qu.:12.0   1st Qu.: 26.00  
-    ##  Median :15.0   Median : 36.00  
-    ##  Mean   :15.4   Mean   : 42.98  
-    ##  3rd Qu.:19.0   3rd Qu.: 56.00  
-    ##  Max.   :25.0   Max.   :120.00
+    ## [1] "variable 'test' is greater than 5"
 
-## Including Plots
+## Basic parameters
+
+``` r
+(7 + 5)/2
+```
+
+    ## [1] 6
+
+``` r
+# This is a comment
+
+5 ** 2 # Notation for powers
+```
+
+    ## [1] 25
+
+``` r
+## ^ is the same like **:
+5 ^ 2
+```
+
+    ## [1] 25
+
+``` r
+cos(0) # Function call with parameter 0
+```
+
+    ## [1] 1
+
+``` r
+c(FALSE,TRUE,FALSE,TRUE) | c(FALSE,FALSE,TRUE,TRUE)
+```
+
+    ## [1] FALSE  TRUE  TRUE  TRUE
+
+## Plots
 
 You can also embed plots, for example:
 
-![](01_overview_files/figure-gfm/pressure-1.png)<!-- -->
+``` r
+plot(pressure)
+```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to
-prevent printing of the R code that generated the plot.
+![](01_overview_files/figure-gfm/pressure-1.png)<!-- -->

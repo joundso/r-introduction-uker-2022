@@ -7,24 +7,41 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## GitHub Documents
+## R-Syntax
 
-This is an R Markdown format used for publishing markdown documents to GitHub. When you click the **Knit** button all R code chunks are run and a markdown file (.md) suitable for publishing to GitHub is generated.
-
-## Including Code
-
-You can include R code in the document as follows:
 
 ```{r cars}
-summary(cars)
+test <- 10
+if (test > 5) {
+  print("variable 'test' is greater than 5")
+} else{
+  print("variable 'test' is smaller or equal to 5")
+}
 ```
 
-## Including Plots
+## Basic parameters
+
+```{r}
+(7 + 5)/2
+
+# This is a comment
+
+5 ** 2 # Notation for powers
+
+## ^ is the same like **:
+5 ^ 2
+
+cos(0) # Function call with parameter 0
+
+c(FALSE,TRUE,FALSE,TRUE) | c(FALSE,FALSE,TRUE,TRUE)
+
+```
+
+
+## Plots
 
 You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
+```{r pressure}
 plot(pressure)
 ```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

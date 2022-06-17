@@ -1,0 +1,36 @@
+---
+title: "02 Data structures"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Adressing lists
+
+
+```{r lists}
+mein.erster.patient <- list(
+  Nachname = "Meier",
+  Vorname = "Walter",
+  Alter = 47,
+  getestet = FALSE
+)
+mein.erster.patient$Alter <- mein.erster.patient$Alter + 1
+mein.erster.patient[c("Anrede", "Nachname")] <- c("Herr", "Schmidt")
+
+## Using ONE square bracket returns a sub-LIST:
+mein.erster.patient["Vorname"]
+
+## Using TWO square brackets returns the acutal value in its original data type:
+mein.erster.patient[["Vorname"]]
+
+str(mein.erster.patient["Vorname"])
+str(mein.erster.patient[["Vorname"]])
+
+mein.erster.patient
+
+
+```
+

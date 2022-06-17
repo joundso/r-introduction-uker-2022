@@ -1,0 +1,20 @@
+---
+title: "R Introduction"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+:bulb: This repo holds additional material for the local introduction to R at University Hospital Erlangen (UKER). Partly German.
+
+## Documents
+
+- [01 Overview](./Rmd/01_overview.md)
+- [02 Data structures](./Rmd/02_data_structures.md)
+<!-- - [03 Programming hints](./Rmd/03_programming_hints.md) -->
+<!-- - [04 Prediction models](./Rmd/04_prediction_models.md) -->
+<!-- - [05 Reproducible Analyses](./Rmd/05_reproducible_analyses.md) -->
+- [05 Reproducible Analyses](./R/05_reproducible_analyses.R)
+

@@ -4,6 +4,7 @@
 !/.gitignore
 !/NEWS.md
 !/README.md
+!/README.Rmd
 !/r-introduction-uker-2022.Rproj
 
 ## Folders:
@@ -12,6 +13,10 @@
 !/R/*.R
 
 !/Rmd
+
+!/data
+/data/**
+!/data/synthetic_data.csv
 
 
 !/.github
