@@ -44,7 +44,7 @@ create_synthetic_dataset <- function() {
       x = 0:1,
       size = size,
       replace = TRUE,
-      prob = c(0.97, 0.03)
+      prob = c(0.8, 0.2)
     ),
     "malformations" = sample(
       x = 0:1,
@@ -96,7 +96,8 @@ create_synthetic_dataset <- function() {
   missing_vals <- c(
     weight_kg = .2 * size,
     height_cm = .2 * size,
-    pulm_art_hypertension = .5 * size,
+    malformations = .1 * size,
+    pulm_art_hypertension = .1 * size,
     year_of_admission = 1
   )
 

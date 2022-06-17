@@ -1,321 +1,321 @@
 patient_id,PLZ,blood_group,age_at_admission_years,n_previous_admissions,diagnosis,deceased,malformations,chromosomal,pulm_art_hypertension,sex,height_cm,year_of_admission,weight_kg,bmi
 PSEU1,95143,B Rhesus positiv,39,0,Back pain,0,1,0,0,m,183,2014,78.39,23.41
-PSEU2,93506,A Rhesus positiv,47,4,Hypertension,0,0,0,,m,135,2013,41.55,22.8
-PSEU3,95086,A Rhesus positiv,59,0,Hypertension,0,1,1,,m,56,2015,,
+PSEU2,93506,A Rhesus positiv,47,4,Hypertension,1,0,0,0,m,135,2013,41.55,22.8
+PSEU3,95086,A Rhesus positiv,59,0,Hypertension,0,1,1,0,m,56,2015,,
 PSEU4,33858,0 Rhesus positiv,40,3,Lipid metabolism,0,0,0,0,f,115,2010,,
 PSEU5,8301,0 Rhesus positiv,63,0,Hypertension,0,0,0,0,m,76,2020,10.26,17.76
-PSEU6,5942,B Rhesus negativ,54,0,Hypertension,0,0,1,,f,109,2011,28.19,23.73
+PSEU6,5942,B Rhesus negativ,54,0,Hypertension,0,0,1,0,f,109,2011,28.19,23.73
 PSEU7,41529,0 Rhesus negativ,67,0,Flu,0,0,0,,f,219,2019,,
-PSEU8,17168,A Rhesus positiv,40,0,Hypertension,0,0,0,,f,174,2012,88.54,29.24
-PSEU9,66023,0 Rhesus positiv,50,0,Hypertension,0,0,0,,f,73,2017,13.39,25.13
+PSEU8,17168,A Rhesus positiv,40,0,Hypertension,0,,0,0,f,174,2012,88.54,29.24
+PSEU9,66023,0 Rhesus positiv,50,0,Hypertension,1,,0,,f,73,2017,13.39,25.13
 PSEU10,12175,A Rhesus positiv,38,2,Hypertension,0,0,0,0,m,123,2020,32.81,21.69
 PSEU11,44468,0 Rhesus positiv,51,0,Lipid metabolism,0,0,0,0,f,162,2013,61.27,23.35
-PSEU12,92083,B Rhesus negativ,27,2,Hypertension,0,0,0,0,m,136,2016,40.65,21.98
-PSEU13,87138,0 Rhesus positiv,42,0,Lipid metabolism,0,1,0,,m,86,2019,18.72,25.31
-PSEU14,43387,A Rhesus positiv,49,0,Hypertension,0,0,1,,f,107,2010,24.19,21.13
+PSEU12,92083,B Rhesus negativ,27,2,Hypertension,1,0,0,0,m,136,2016,40.65,21.98
+PSEU13,87138,0 Rhesus positiv,42,0,Lipid metabolism,0,1,0,0,m,86,2019,18.72,25.31
+PSEU14,43387,A Rhesus positiv,49,0,Hypertension,0,0,1,0,f,107,2010,24.19,21.13
 PSEU15,66674,A Rhesus positiv,71,1,Hypertension,0,0,0,0,f,181,2011,73.15,22.33
 PSEU16,84894,AB Rhesus positiv,84,0,Hypertension,0,0,0,0,f,140,2018,25.75,13.14
 PSEU17,15415,B Rhesus positiv,40,0,Hypertension,0,0,0,0,m,159,2010,,
 PSEU18,79149,0 Rhesus positiv,22,0,Hypertension,0,0,0,0,f,140,2015,,
-PSEU19,49039,A Rhesus positiv,64,1,Hypertension,0,0,0,,m,,2011,127.91,
-PSEU20,29283,0 Rhesus positiv,43,0,Hypertension,0,0,0,,m,69,2015,12.37,25.98
-PSEU21,27531,A Rhesus negativ,55,0,Back pain,0,0,0,,f,192,2014,83.42,22.63
+PSEU19,49039,A Rhesus positiv,64,1,Hypertension,0,0,0,0,m,,2011,127.91,
+PSEU20,29283,0 Rhesus positiv,43,0,Hypertension,1,0,0,0,m,69,2015,12.37,25.98
+PSEU21,27531,A Rhesus negativ,55,0,Back pain,1,0,0,0,f,192,2014,83.42,22.63
 PSEU22,88906,B Rhesus positiv,17,0,Hypertension,0,0,0,0,m,,2014,54.21,
-PSEU23,81343,A Rhesus positiv,42,0,Hypertension,0,0,0,,m,144,2010,44.1,21.27
+PSEU23,81343,A Rhesus positiv,42,0,Hypertension,0,0,0,0,m,144,2010,44.1,21.27
 PSEU24,54974,0 Rhesus positiv,48,0,Back pain,0,0,0,0,f,,2016,8.44,
-PSEU25,48097,0 Rhesus positiv,44,2,Hypertension,0,0,0,,f,163,2013,40.01,15.06
+PSEU25,48097,0 Rhesus positiv,44,2,Hypertension,0,,0,0,f,163,2013,40.01,15.06
 PSEU26,25696,0 Rhesus positiv,35,1,Flu,0,0,1,0,f,,2011,,
 PSEU27,75670,A Rhesus negativ,80,0,Hypertension,0,0,0,0,m,169,2014,61.23,21.44
 PSEU28,48911,A Rhesus negativ,48,0,Hypertension,0,0,0,,f,200,2016,83.28,20.82
 PSEU29,87145,A Rhesus positiv,63,2,Hypertension,0,0,1,0,m,62,2020,,
 PSEU30,50815,0 Rhesus positiv,67,1,Hypertension,0,0,0,0,f,191,2014,102.31,28.04
 PSEU31,71811,0 Rhesus positiv,59,3,Back pain,0,0,0,0,m,112,2018,24.73,19.71
-PSEU32,93011,0 Rhesus positiv,86,3,Back pain,0,0,1,,m,85,2013,12.27,16.98
-PSEU33,20954,0 Rhesus positiv,50,1,Flu,0,0,0,0,f,78,,14.71,24.18
-PSEU34,88700,0 Rhesus positiv,34,0,Hypertension,0,0,0,,m,179,2010,,
+PSEU32,93011,0 Rhesus positiv,86,3,Back pain,1,,1,0,m,85,2013,12.27,16.98
+PSEU33,20954,0 Rhesus positiv,50,1,Flu,0,0,0,0,f,78,2010,14.71,24.18
+PSEU34,88700,0 Rhesus positiv,34,0,Hypertension,0,,0,,m,179,2010,,
 PSEU35,42330,0 Rhesus positiv,54,0,Back pain,0,0,0,0,f,120,2018,36.71,25.49
 PSEU36,67903,A Rhesus positiv,68,0,Hypertension,0,0,0,,m,,2016,22.24,
 PSEU37,62176,A Rhesus positiv,57,1,Hypertension,0,0,0,0,m,,2020,72.61,
-PSEU38,51181,0 Rhesus positiv,30,0,Hypertension,0,0,1,,f,141,2018,,
-PSEU39,60545,0 Rhesus positiv,53,0,Hypertension,0,1,0,,f,162,2013,,
+PSEU38,51181,0 Rhesus positiv,30,0,Hypertension,1,,1,0,f,141,2018,,
+PSEU39,60545,0 Rhesus positiv,53,0,Hypertension,0,1,0,0,f,162,2013,,
 PSEU40,22058,0 Rhesus positiv,58,0,Hypertension,0,1,0,0,m,,2020,34.06,
 PSEU41,28844,A Rhesus positiv,57,2,Hypertension,0,0,0,0,m,199,2011,97.56,24.64
 PSEU42,3900,0 Rhesus positiv,41,1,Back pain,0,0,0,0,f,,2020,4.07,
-PSEU43,22490,0 Rhesus positiv,43,0,Back pain,0,0,0,,f,,2018,5.81,
+PSEU43,22490,0 Rhesus positiv,43,0,Back pain,0,0,0,0,f,,2018,5.81,
 PSEU44,83767,A Rhesus negativ,45,0,Hypertension,0,0,0,0,m,,2011,33.86,
 PSEU45,59484,0 Rhesus positiv,24,2,Hypertension,0,0,0,0,m,56,2010,,
 PSEU46,65439,AB Rhesus positiv,38,0,Hypertension,0,0,0,,m,176,2012,74.68,24.11
-PSEU47,13752,B Rhesus positiv,25,2,Hypertension,0,0,0,,m,,2017,63.91,
-PSEU48,85727,A Rhesus positiv,57,0,Hypertension,0,0,1,,f,145,2017,43.45,20.67
+PSEU47,13752,B Rhesus positiv,25,2,Hypertension,0,0,0,0,m,,2017,63.91,
+PSEU48,85727,A Rhesus positiv,57,0,Hypertension,0,0,1,0,f,145,2017,43.45,20.67
 PSEU49,9986,A Rhesus positiv,36,2,Back pain,0,0,0,0,m,169,2017,39.61,13.87
 PSEU50,85020,AB Rhesus positiv,24,0,Hypertension,0,0,1,0,m,93,2019,8.27,9.56
 PSEU51,62461,0 Rhesus positiv,101,0,Hypertension,0,0,1,0,f,210,2013,,
 PSEU52,37017,A Rhesus positiv,68,0,Hypertension,0,1,0,0,m,150,2020,38.56,17.14
 PSEU53,87035,0 Rhesus positiv,41,0,Flu,0,0,0,0,f,,2016,14.11,
 PSEU54,57481,0 Rhesus positiv,34,0,Back pain,0,0,1,,m,208,2020,82.83,19.15
-PSEU55,44874,B Rhesus positiv,44,0,Hypertension,0,0,0,,f,88,2016,11.18,14.44
-PSEU56,13887,AB Rhesus negativ,76,0,Back pain,0,0,0,0,m,169,2010,48.41,16.95
-PSEU57,36155,0 Rhesus positiv,50,0,Hypertension,0,0,1,,f,196,2019,66.32,17.26
+PSEU55,44874,B Rhesus positiv,44,0,Hypertension,0,0,0,0,f,88,2016,11.18,14.44
+PSEU56,13887,AB Rhesus negativ,76,0,Back pain,1,0,0,0,m,169,2010,48.41,16.95
+PSEU57,36155,0 Rhesus positiv,50,0,Hypertension,0,0,1,0,f,196,2019,66.32,17.26
 PSEU58,50798,A Rhesus positiv,40,2,Hypertension,0,0,0,0,m,,2014,27.07,
 PSEU59,88879,0 Rhesus positiv,48,2,Flu,0,1,0,0,f,108,2014,22.6,19.38
 PSEU60,21037,A Rhesus positiv,81,0,Hypertension,0,0,0,0,m,92,2017,,
-PSEU61,39049,A Rhesus positiv,45,0,Hypertension,0,0,0,,m,,2013,16.89,
-PSEU62,98607,0 Rhesus positiv,49,0,Lipid metabolism,0,0,0,,f,,2014,76.18,
+PSEU61,39049,A Rhesus positiv,45,0,Hypertension,0,0,0,0,m,,2013,16.89,
+PSEU62,98607,0 Rhesus positiv,49,0,Lipid metabolism,0,0,0,0,f,,2014,76.18,
 PSEU63,67008,0 Rhesus positiv,25,0,Hypertension,0,0,1,,m,135,2010,,
 PSEU64,77703,A Rhesus positiv,37,0,Hypertension,0,0,0,0,m,54,2013,5.27,18.07
 PSEU65,46746,A Rhesus positiv,23,0,Hypertension,0,0,1,0,f,103,2017,26.09,24.59
 PSEU66,97362,A Rhesus positiv,31,0,Hypertension,0,1,0,0,m,53,2015,4.76,16.95
 PSEU67,4271,0 Rhesus positiv,43,0,Hypertension,0,0,0,0,m,122,2019,,
-PSEU68,50340,A Rhesus positiv,66,0,Back pain,0,0,0,,f,113,2017,28.78,22.54
+PSEU68,50340,A Rhesus positiv,66,0,Back pain,1,0,0,0,f,113,2017,28.78,22.54
 PSEU69,17089,0 Rhesus positiv,74,4,Back pain,0,0,0,0,f,75,2015,11.38,20.23
-PSEU70,50173,A Rhesus positiv,50,1,Flu,0,0,0,0,m,201,2011,82.3,20.37
+PSEU70,50173,A Rhesus positiv,50,1,Flu,1,0,0,0,m,201,2011,82.3,20.37
 PSEU71,22034,0 Rhesus positiv,57,0,Hypertension,0,0,0,,f,58,2017,6.03,17.93
 PSEU72,28336,B Rhesus positiv,51,1,Hypertension,0,0,0,0,m,184,2013,89.96,26.57
-PSEU73,36421,0 Rhesus positiv,29,0,Back pain,0,1,0,,f,103,2015,17.06,16.08
-PSEU74,70341,A Rhesus positiv,52,0,Hypertension,0,0,0,0,f,,2014,,
+PSEU73,36421,0 Rhesus positiv,29,0,Back pain,0,,0,0,f,103,2015,17.06,16.08
+PSEU74,70341,A Rhesus positiv,52,0,Hypertension,1,0,0,0,f,,2014,,
 PSEU75,9217,A Rhesus positiv,15,0,Hypertension,0,0,0,0,f,81,2020,15.57,23.73
-PSEU76,63586,B Rhesus positiv,31,0,Hypertension,0,1,0,,f,108,2012,31.7,27.18
-PSEU77,94110,A Rhesus positiv,76,1,Back pain,0,0,0,,f,137,2016,54.34,28.95
+PSEU76,63586,B Rhesus positiv,31,0,Hypertension,1,1,0,0,f,108,2012,31.7,27.18
+PSEU77,94110,A Rhesus positiv,76,1,Back pain,0,0,0,0,f,137,2016,54.34,28.95
 PSEU78,23467,0 Rhesus positiv,56,0,Hypertension,0,0,1,0,f,205,2018,84.14,20.02
-PSEU79,26990,B Rhesus positiv,71,2,Back pain,0,0,0,0,f,,2010,10.11,
+PSEU79,26990,B Rhesus positiv,71,2,Back pain,1,0,0,0,f,,2010,10.11,
 PSEU80,86567,0 Rhesus positiv,46,0,Back pain,0,0,0,0,f,133,2014,18.5,10.46
 PSEU81,85950,0 Rhesus positiv,40,0,Hypertension,0,0,0,1,m,137,2016,41.79,22.27
-PSEU82,48168,B Rhesus positiv,50,0,Hypertension,0,0,0,,m,163,2017,63.41,23.87
+PSEU82,48168,B Rhesus positiv,50,0,Hypertension,0,,0,0,m,163,2017,63.41,23.87
 PSEU83,27417,A Rhesus positiv,106,1,Hypertension,0,0,0,0,f,97,2011,27.51,29.24
 PSEU84,50132,0 Rhesus positiv,37,1,Hypertension,0,1,0,0,m,215,2010,125.21,27.09
-PSEU85,66610,B Rhesus positiv,56,0,Back pain,0,0,0,,f,68,2020,12.25,26.49
+PSEU85,66610,B Rhesus positiv,56,0,Back pain,1,0,0,0,f,68,2020,12.25,26.49
 PSEU86,64073,B Rhesus positiv,44,0,Hypertension,0,0,0,0,m,55,2012,5.14,16.99
 PSEU87,6606,A Rhesus positiv,12,0,Hypertension,0,0,0,0,m,51,2010,,
-PSEU88,68316,0 Rhesus positiv,60,0,Hypertension,0,0,0,0,m,77,2011,10.63,17.93
+PSEU88,68316,0 Rhesus positiv,60,0,Hypertension,1,0,0,0,m,77,2011,10.63,17.93
 PSEU89,23832,0 Rhesus positiv,22,0,Lipid metabolism,0,0,0,0,f,70,2012,11.93,24.35
 PSEU90,89638,0 Rhesus positiv,76,0,Back pain,0,0,0,0,m,128,2012,22.5,13.73
-PSEU91,50989,B Rhesus positiv,43,2,Back pain,0,0,0,0,m,62,2011,,
+PSEU91,50989,B Rhesus positiv,43,2,Back pain,1,0,0,0,m,62,2011,,
 PSEU92,27564,AB Rhesus positiv,66,2,Back pain,0,0,0,0,f,182,2020,70.17,21.18
-PSEU93,80754,A Rhesus positiv,61,0,Hypertension,0,0,0,,m,217,2017,97.09,20.62
-PSEU94,42646,0 Rhesus positiv,51,1,Hypertension,0,0,0,,f,211,2010,104.02,23.36
+PSEU93,80754,A Rhesus positiv,61,0,Hypertension,0,0,0,0,m,217,2017,97.09,20.62
+PSEU94,42646,0 Rhesus positiv,51,1,Hypertension,0,0,0,0,f,211,2010,104.02,23.36
 PSEU95,75445,A Rhesus positiv,53,0,Hypertension,0,0,0,0,m,,2016,57.84,
 PSEU96,28131,0 Rhesus positiv,48,0,Hypertension,0,0,0,0,f,141,2014,43.03,21.64
 PSEU97,74586,0 Rhesus negativ,70,0,Hypertension,0,0,0,0,f,,2013,28.21,
-PSEU98,94160,0 Rhesus positiv,52,0,Hypertension,0,0,1,,f,,2020,15.83,
-PSEU99,77076,0 Rhesus positiv,33,2,Hypertension,0,0,0,,m,176,2016,,
-PSEU100,42931,A Rhesus positiv,72,0,Hypertension,0,0,0,,f,74,2016,16.38,29.91
+PSEU98,94160,0 Rhesus positiv,52,0,Hypertension,0,,1,0,f,,2020,15.83,
+PSEU99,77076,0 Rhesus positiv,33,2,Hypertension,0,0,0,0,m,176,2016,,
+PSEU100,42931,A Rhesus positiv,72,0,Hypertension,1,0,0,0,f,74,2016,16.38,29.91
 PSEU101,99550,A Rhesus positiv,26,1,Back pain,0,0,0,0,m,103,2010,27.26,25.7
 PSEU102,27019,0 Rhesus positiv,66,2,Back pain,0,0,0,0,m,157,2017,50.69,20.56
-PSEU103,60588,0 Rhesus positiv,18,0,Hypertension,0,0,0,,m,,2018,12.71,
-PSEU104,37751,0 Rhesus positiv,65,0,Hypertension,0,0,0,,m,63,2020,9.04,22.78
-PSEU105,18759,B Rhesus negativ,27,0,Hypertension,0,0,0,,f,110,2012,24.42,20.18
-PSEU106,27409,0 Rhesus positiv,61,2,Hypertension,0,0,1,0,m,100,2011,21.76,21.76
+PSEU103,60588,0 Rhesus positiv,18,0,Hypertension,1,,0,0,m,,2018,12.71,
+PSEU104,37751,0 Rhesus positiv,65,0,Hypertension,0,0,0,0,m,63,2020,9.04,22.78
+PSEU105,18759,B Rhesus negativ,27,0,Hypertension,0,0,0,0,f,110,2012,24.42,20.18
+PSEU106,27409,0 Rhesus positiv,61,2,Hypertension,1,0,1,0,m,100,2011,21.76,21.76
 PSEU107,58482,B Rhesus positiv,56,0,Back pain,0,0,0,0,f,127,2011,24.54,15.21
 PSEU108,20771,AB Rhesus positiv,59,1,Hypertension,0,0,0,,m,200,2016,70.1,17.52
-PSEU109,36295,0 Rhesus positiv,46,1,Hypertension,0,0,1,,m,50,2016,3.79,15.16
-PSEU110,74173,A Rhesus positiv,56,1,Hypertension,0,0,1,,f,160,2020,79.97,31.24
+PSEU109,36295,0 Rhesus positiv,46,1,Hypertension,0,0,1,0,m,50,2016,3.79,15.16
+PSEU110,74173,A Rhesus positiv,56,1,Hypertension,0,0,1,0,f,160,2020,79.97,31.24
 PSEU111,85543,AB Rhesus negativ,59,1,Hypertension,0,0,0,0,m,102,2011,21.05,20.23
 PSEU112,95234,0 Rhesus positiv,52,0,Back pain,0,0,0,0,f,136,2016,45.89,24.81
-PSEU113,41477,A Rhesus positiv,49,0,Hypertension,0,0,0,,m,79,2016,17.02,27.27
-PSEU114,70916,A Rhesus positiv,74,0,Hypertension,0,0,0,,m,208,2011,,
-PSEU115,98775,A Rhesus positiv,35,4,Hypertension,0,0,0,,m,218,2020,,
+PSEU113,41477,A Rhesus positiv,49,0,Hypertension,0,0,0,0,m,79,2016,17.02,27.27
+PSEU114,70916,A Rhesus positiv,74,0,Hypertension,0,,0,0,m,208,2011,,
+PSEU115,98775,A Rhesus positiv,35,4,Hypertension,1,0,0,0,m,218,2020,,
 PSEU116,39375,B Rhesus positiv,63,0,Hypertension,0,0,0,0,f,217,2016,105.24,22.35
 PSEU117,19104,B Rhesus positiv,55,0,Hypertension,0,0,0,0,f,67,2020,8.05,17.93
 PSEU118,29306,0 Rhesus negativ,74,1,Flu,0,0,0,0,m,126,2019,29.57,18.63
-PSEU119,57377,0 Rhesus positiv,36,0,Lipid metabolism,0,0,0,,m,68,2018,8.63,18.66
-PSEU120,70580,AB Rhesus negativ,67,3,Hypertension,0,0,0,,m,104,2012,24.39,22.55
-PSEU121,90530,B Rhesus positiv,47,0,Hypertension,0,0,0,,f,65,2019,,
+PSEU119,57377,0 Rhesus positiv,36,0,Lipid metabolism,0,,0,0,m,68,2018,8.63,18.66
+PSEU120,70580,AB Rhesus negativ,67,3,Hypertension,1,0,0,0,m,104,2012,24.39,22.55
+PSEU121,90530,B Rhesus positiv,47,0,Hypertension,0,0,0,0,f,65,2019,,
 PSEU122,91891,A Rhesus positiv,43,0,Hypertension,0,0,0,,m,89,2012,17.92,22.62
 PSEU123,89355,A Rhesus positiv,24,0,Lipid metabolism,0,0,1,0,f,76,2014,15.83,27.41
 PSEU124,59521,A Rhesus negativ,47,1,Hypertension,0,0,0,0,m,109,2020,16.25,13.68
-PSEU125,12147,AB Rhesus positiv,85,2,Hypertension,0,0,0,,f,151,2018,53.75,23.57
-PSEU126,45863,A Rhesus positiv,59,2,Back pain,0,0,0,,m,154,2017,,
+PSEU125,12147,AB Rhesus positiv,85,2,Hypertension,0,0,0,0,f,151,2018,53.75,23.57
+PSEU126,45863,A Rhesus positiv,59,2,Back pain,0,0,0,0,m,154,2017,,
 PSEU127,40715,0 Rhesus positiv,46,1,Hypertension,0,0,0,0,f,72,2019,8.28,15.97
-PSEU128,66365,A Rhesus positiv,26,2,Back pain,0,1,0,,m,58,2016,5.4,16.05
-PSEU129,9757,0 Rhesus positiv,56,1,Hypertension,0,1,0,,m,50,2019,7.4,29.6
+PSEU128,66365,A Rhesus positiv,26,2,Back pain,0,1,0,0,m,58,2016,5.4,16.05
+PSEU129,9757,0 Rhesus positiv,56,1,Hypertension,0,,0,0,m,50,2019,7.4,29.6
 PSEU130,92654,A Rhesus positiv,61,0,Lipid metabolism,0,0,0,0,f,89,2018,10.01,12.64
 PSEU131,49845,AB Rhesus positiv,51,3,Back pain,0,0,0,0,f,193,2014,75.34,20.23
 PSEU132,63283,0 Rhesus positiv,22,0,Hypertension,0,0,1,0,f,159,2011,43.06,17.03
 PSEU133,45526,0 Rhesus positiv,59,0,Back pain,0,1,0,0,m,157,2013,55.49,22.51
 PSEU134,40215,0 Rhesus positiv,35,0,Lipid metabolism,0,0,0,0,f,,2012,42.84,
-PSEU135,54345,A Rhesus positiv,57,2,Hypertension,0,0,0,,m,111,2015,,
-PSEU136,16725,0 Rhesus negativ,44,0,Back pain,0,0,0,,m,,2010,79.22,
-PSEU137,28729,A Rhesus positiv,27,0,Hypertension,0,0,0,,f,159,2012,49.21,19.47
-PSEU138,81703,A Rhesus positiv,44,1,Lipid metabolism,0,0,0,,f,174,2012,79.44,26.24
+PSEU135,54345,A Rhesus positiv,57,2,Hypertension,0,,0,0,m,111,2015,,
+PSEU136,16725,0 Rhesus negativ,44,0,Back pain,1,0,0,,m,,2010,79.22,
+PSEU137,28729,A Rhesus positiv,27,0,Hypertension,0,0,0,0,f,159,2012,49.21,19.47
+PSEU138,81703,A Rhesus positiv,44,1,Lipid metabolism,1,0,0,0,f,174,2012,79.44,26.24
 PSEU139,47613,A Rhesus positiv,59,0,Back pain,0,0,0,0,f,139,2014,53.57,27.73
-PSEU140,44193,0 Rhesus negativ,45,1,Flu,0,0,0,,m,201,2016,134.61,33.32
-PSEU141,42424,0 Rhesus positiv,52,0,Hypertension,0,1,0,0,m,86,2010,15.97,21.59
+PSEU140,44193,0 Rhesus negativ,45,1,Flu,0,0,0,0,m,201,2016,134.61,33.32
+PSEU141,42424,0 Rhesus positiv,52,0,Hypertension,1,1,0,0,m,86,2010,15.97,21.59
 PSEU142,80310,A Rhesus positiv,64,2,Hypertension,0,0,1,,f,167,2014,19.44,6.97
 PSEU143,4326,A Rhesus positiv,37,0,Hypertension,0,0,0,0,f,196,2012,94.63,24.63
 PSEU144,86710,0 Rhesus positiv,44,0,Hypertension,0,0,0,0,m,190,2019,89.04,24.66
-PSEU145,34690,0 Rhesus positiv,65,0,Back pain,0,0,1,,m,66,2013,6.96,15.98
+PSEU145,34690,0 Rhesus positiv,65,0,Back pain,0,0,1,0,m,66,2013,6.96,15.98
 PSEU146,35434,0 Rhesus positiv,88,2,Hypertension,0,0,0,0,f,193,2020,102.7,27.57
-PSEU147,9169,A Rhesus positiv,49,0,Lipid metabolism,0,0,0,,f,173,2014,74.53,24.9
-PSEU148,59210,0 Rhesus positiv,74,0,Hypertension,0,0,0,,m,201,2019,,
-PSEU149,47454,0 Rhesus negativ,63,0,Hypertension,0,0,0,,f,204,2010,67.63,16.25
+PSEU147,9169,A Rhesus positiv,49,0,Lipid metabolism,0,0,0,0,f,173,2014,74.53,24.9
+PSEU148,59210,0 Rhesus positiv,74,0,Hypertension,0,,0,0,m,201,2019,,
+PSEU149,47454,0 Rhesus negativ,63,0,Hypertension,0,0,0,0,f,204,2010,67.63,16.25
 PSEU150,8184,A Rhesus positiv,35,0,Hypertension,0,0,0,,f,79,2011,13.45,21.55
-PSEU151,15009,B Rhesus positiv,56,0,Back pain,0,0,0,,m,52,2015,,
+PSEU151,15009,B Rhesus positiv,56,0,Back pain,1,0,0,0,m,52,2015,,
 PSEU152,29471,0 Rhesus negativ,7,0,Hypertension,0,0,0,,f,136,2019,,
-PSEU153,30947,A Rhesus negativ,52,0,Hypertension,0,0,0,,m,52,2017,6.27,23.19
+PSEU153,30947,A Rhesus negativ,52,0,Hypertension,0,,0,,m,52,2017,6.27,23.19
 PSEU154,29417,A Rhesus positiv,27,1,Hypertension,0,0,0,,m,66,2015,8.27,18.99
 PSEU155,24841,0 Rhesus positiv,46,0,Hypertension,0,0,0,0,m,84,2019,15.64,22.17
 PSEU156,611,A Rhesus negativ,61,0,Flu,0,1,0,0,m,68,2019,5.49,11.87
-PSEU157,17992,A Rhesus positiv,53,0,Hypertension,0,0,0,,f,158,2020,,
-PSEU158,75206,B Rhesus positiv,56,0,Hypertension,0,0,0,0,m,140,2011,50.17,25.6
+PSEU157,17992,A Rhesus positiv,53,0,Hypertension,0,,0,0,f,158,2020,,
+PSEU158,75206,B Rhesus positiv,56,0,Hypertension,1,0,0,0,m,140,2011,50.17,25.6
 PSEU159,32600,A Rhesus positiv,69,0,Flu,0,0,1,0,f,,2012,,
 PSEU160,43716,A Rhesus positiv,32,0,Hypertension,0,0,0,,m,75,2020,11.93,21.21
-PSEU161,88522,B Rhesus positiv,75,0,Flu,0,0,0,,f,163,2018,,
-PSEU162,22714,A Rhesus positiv,56,0,Hypertension,0,0,0,,m,,2014,119.81,
-PSEU163,74493,A Rhesus positiv,77,0,Hypertension,0,0,0,,m,173,2015,66.61,22.26
+PSEU161,88522,B Rhesus positiv,75,0,Flu,0,0,0,0,f,163,2018,,
+PSEU162,22714,A Rhesus positiv,56,0,Hypertension,1,0,0,0,m,,2014,119.81,
+PSEU163,74493,A Rhesus positiv,77,0,Hypertension,0,0,0,0,m,173,2015,66.61,22.26
 PSEU164,69991,0 Rhesus negativ,89,1,Hypertension,0,0,1,,f,93,2018,22.56,26.08
-PSEU165,35696,A Rhesus positiv,44,1,Back pain,0,1,0,,m,126,2010,28.14,17.72
-PSEU166,25010,0 Rhesus positiv,73,0,Hypertension,0,0,0,,f,,2015,130.03,
-PSEU167,94912,A Rhesus positiv,52,3,Back pain,0,0,0,,m,116,2011,,
-PSEU168,35110,0 Rhesus positiv,36,1,Back pain,0,0,0,0,f,164,2017,53.03,19.72
-PSEU169,19361,0 Rhesus positiv,44,3,Back pain,0,0,0,,f,,2010,69.05,
-PSEU170,41709,A Rhesus positiv,62,0,Hypertension,0,0,0,,m,93,2011,21.17,24.48
+PSEU165,35696,A Rhesus positiv,44,1,Back pain,0,1,0,0,m,126,2010,28.14,17.72
+PSEU166,25010,0 Rhesus positiv,73,0,Hypertension,0,0,0,0,f,,2015,130.03,
+PSEU167,94912,A Rhesus positiv,52,3,Back pain,0,0,0,0,m,116,2011,,
+PSEU168,35110,0 Rhesus positiv,36,1,Back pain,1,0,0,0,f,164,2017,53.03,19.72
+PSEU169,19361,0 Rhesus positiv,44,3,Back pain,0,,0,0,f,,2010,69.05,
+PSEU170,41709,A Rhesus positiv,62,0,Hypertension,1,0,0,0,m,93,2011,21.17,24.48
 PSEU171,52718,A Rhesus positiv,52,0,Hypertension,1,0,0,0,m,146,2014,26.56,12.46
 PSEU172,15106,A Rhesus positiv,49,0,Hypertension,0,0,0,0,m,,2011,,
-PSEU173,82358,A Rhesus positiv,42,0,Back pain,0,1,0,,m,,2018,51.75,
-PSEU174,83553,A Rhesus positiv,22,1,Hypertension,0,0,1,,m,,2011,25.89,
+PSEU173,82358,A Rhesus positiv,42,0,Back pain,0,1,0,0,m,,2018,51.75,
+PSEU174,83553,A Rhesus positiv,22,1,Hypertension,0,0,1,0,m,,2011,25.89,
 PSEU175,14953,0 Rhesus positiv,56,1,Hypertension,0,0,1,0,m,,2012,82.15,
-PSEU176,33885,0 Rhesus positiv,45,1,Flu,0,0,0,,f,,2011,10.94,
-PSEU177,42545,0 Rhesus negativ,77,0,Hypertension,0,0,0,,f,220,2019,123,25.41
+PSEU176,33885,0 Rhesus positiv,45,1,Flu,0,0,0,0,f,,2011,10.94,
+PSEU177,42545,0 Rhesus negativ,77,0,Hypertension,0,0,0,0,f,220,2019,123,25.41
 PSEU178,43759,0 Rhesus positiv,64,0,Hypertension,0,0,0,0,m,217,2011,110.98,23.57
 PSEU179,56809,0 Rhesus positiv,65,1,Hypertension,0,0,0,,m,,2014,,
-PSEU180,55626,0 Rhesus negativ,11,0,Hypertension,0,0,0,,m,,2017,29.7,
+PSEU180,55626,0 Rhesus negativ,11,0,Hypertension,0,0,0,0,m,,2017,29.7,
 PSEU181,29625,A Rhesus positiv,55,0,Hypertension,0,0,0,0,m,159,2018,,
-PSEU182,12679,0 Rhesus positiv,68,0,Hypertension,0,0,0,,f,99,2020,27.61,28.17
-PSEU183,81338,0 Rhesus negativ,55,0,Back pain,0,0,1,,m,101,2012,29.78,29.19
-PSEU184,13126,0 Rhesus positiv,35,0,Hypertension,0,0,0,,f,164,2015,53.5,19.89
-PSEU185,28348,B Rhesus positiv,54,0,Flu,0,1,0,,m,161,2016,,
-PSEU186,84685,0 Rhesus positiv,72,1,Back pain,0,0,0,,m,,2017,31.63,
+PSEU182,12679,0 Rhesus positiv,68,0,Hypertension,0,0,0,0,f,99,2020,27.61,28.17
+PSEU183,81338,0 Rhesus negativ,55,0,Back pain,0,0,1,0,m,101,2012,29.78,29.19
+PSEU184,13126,0 Rhesus positiv,35,0,Hypertension,0,,0,0,f,164,2015,53.5,19.89
+PSEU185,28348,B Rhesus positiv,54,0,Flu,0,1,0,0,m,161,2016,,
+PSEU186,84685,0 Rhesus positiv,72,1,Back pain,0,0,0,1,m,,2017,31.63,
 PSEU187,44532,B Rhesus positiv,34,0,Hypertension,0,0,0,0,m,146,2016,,
 PSEU188,53115,0 Rhesus positiv,51,3,Back pain,0,0,0,0,m,153,2018,68.39,29.22
-PSEU189,10767,A Rhesus negativ,13,0,Back pain,0,0,0,,f,118,2012,34.87,25.04
-PSEU190,31303,0 Rhesus positiv,26,1,Hypertension,0,0,0,,m,,2018,128.88,
-PSEU191,22486,A Rhesus positiv,49,0,Back pain,0,0,0,0,f,120,2016,28.98,20.12
-PSEU192,43445,B Rhesus positiv,30,0,Back pain,0,0,0,,f,112,2010,23.25,18.53
-PSEU193,98472,0 Rhesus negativ,67,0,Back pain,0,0,1,,f,,2012,109.87,
+PSEU189,10767,A Rhesus negativ,13,0,Back pain,0,0,0,0,f,118,2012,34.87,25.04
+PSEU190,31303,0 Rhesus positiv,26,1,Hypertension,1,0,0,0,m,,2018,128.88,
+PSEU191,22486,A Rhesus positiv,49,0,Back pain,1,0,0,0,f,120,2016,28.98,20.12
+PSEU192,43445,B Rhesus positiv,30,0,Back pain,0,0,0,0,f,112,2010,23.25,18.53
+PSEU193,98472,0 Rhesus negativ,67,0,Back pain,0,,1,0,f,,2012,109.87,
 PSEU194,15499,B Rhesus positiv,15,0,Hypertension,0,1,1,0,m,147,2018,47.74,22.09
 PSEU195,50446,0 Rhesus positiv,46,2,Hypertension,0,0,0,0,m,89,2012,18.4,23.23
-PSEU196,14153,A Rhesus negativ,41,0,Hypertension,0,0,1,,m,78,2018,14.67,24.11
+PSEU196,14153,A Rhesus negativ,41,0,Hypertension,0,0,1,0,m,78,2018,14.67,24.11
 PSEU197,59474,A Rhesus positiv,70,2,Hypertension,0,0,1,0,m,53,2010,5.98,21.29
-PSEU198,43999,A Rhesus positiv,31,0,Flu,0,1,0,,f,53,2018,8.78,31.26
+PSEU198,43999,A Rhesus positiv,31,0,Flu,0,1,0,0,f,53,2018,8.78,31.26
 PSEU199,12448,B Rhesus positiv,54,1,Hypertension,0,0,0,0,m,174,2019,57.16,18.88
 PSEU200,77198,0 Rhesus positiv,50,1,Hypertension,0,0,1,0,f,134,2014,35.67,19.87
 PSEU201,72786,A Rhesus positiv,15,1,Hypertension,0,0,0,0,m,,2016,76.08,
 PSEU202,51379,AB Rhesus positiv,52,0,Hypertension,0,0,0,,f,,2014,58.86,
-PSEU203,97946,0 Rhesus positiv,8,0,Hypertension,0,1,0,,m,213,2010,104.62,23.06
-PSEU204,30386,0 Rhesus positiv,46,0,Hypertension,0,0,1,,m,160,2019,47.75,18.65
-PSEU205,45232,B Rhesus positiv,54,2,Back pain,0,0,1,,m,206,2013,134.69,31.74
-PSEU206,96262,0 Rhesus positiv,63,0,Back pain,0,1,0,,f,141,2011,55.36,27.85
-PSEU207,13637,A Rhesus negativ,58,0,Hypertension,0,0,0,,f,153,2014,44.5,19.01
-PSEU208,27728,A Rhesus positiv,32,0,Back pain,0,1,1,,m,148,2011,,
-PSEU209,49964,A Rhesus positiv,25,2,Lipid metabolism,0,0,0,0,m,110,2012,23.91,19.76
-PSEU210,71984,0 Rhesus positiv,68,2,Hypertension,0,0,0,,f,166,2018,61.92,22.47
-PSEU211,25119,A Rhesus positiv,33,0,Hypertension,0,0,0,,m,113,2015,,
+PSEU203,97946,0 Rhesus positiv,8,0,Hypertension,0,,0,0,m,213,2010,104.62,23.06
+PSEU204,30386,0 Rhesus positiv,46,0,Hypertension,0,0,1,0,m,160,2019,47.75,18.65
+PSEU205,45232,B Rhesus positiv,54,2,Back pain,0,0,1,0,m,206,2013,134.69,31.74
+PSEU206,96262,0 Rhesus positiv,63,0,Back pain,0,1,0,0,f,141,2011,55.36,27.85
+PSEU207,13637,A Rhesus negativ,58,0,Hypertension,1,,0,0,f,153,2014,44.5,19.01
+PSEU208,27728,A Rhesus positiv,32,0,Back pain,0,1,1,0,m,148,2011,,
+PSEU209,49964,A Rhesus positiv,25,2,Lipid metabolism,1,0,0,0,m,110,2012,23.91,19.76
+PSEU210,71984,0 Rhesus positiv,68,2,Hypertension,0,0,0,0,f,166,2018,61.92,22.47
+PSEU211,25119,A Rhesus positiv,33,0,Hypertension,0,,0,0,m,113,2015,,
 PSEU212,5568,0 Rhesus negativ,32,0,Hypertension,0,0,0,0,f,99,2020,13.51,13.78
-PSEU213,80700,0 Rhesus positiv,47,0,Back pain,0,0,0,,m,156,2014,53.1,21.82
+PSEU213,80700,0 Rhesus positiv,47,0,Back pain,1,0,0,0,m,156,2014,53.1,21.82
 PSEU214,97359,0 Rhesus positiv,53,0,Hypertension,0,0,0,0,m,157,2011,,
 PSEU215,42538,A Rhesus positiv,5,0,Back pain,0,0,0,0,m,185,2013,87.55,25.58
-PSEU216,53230,A Rhesus positiv,76,1,Hypertension,0,0,0,,m,186,2012,46.57,13.46
-PSEU217,23450,A Rhesus positiv,27,1,Hypertension,0,0,0,,f,52,2020,5.49,20.3
-PSEU218,43694,0 Rhesus positiv,26,0,Hypertension,0,0,0,0,f,65,2011,10.21,24.17
-PSEU219,20677,A Rhesus negativ,37,0,Back pain,0,0,0,0,f,53,2014,,
-PSEU220,295,B Rhesus positiv,54,2,Hypertension,0,0,0,,m,196,2018,68.13,17.73
+PSEU216,53230,A Rhesus positiv,76,1,Hypertension,0,0,0,0,m,186,2012,46.57,13.46
+PSEU217,23450,A Rhesus positiv,27,1,Hypertension,0,0,0,0,f,52,2020,5.49,20.3
+PSEU218,43694,0 Rhesus positiv,26,0,Hypertension,1,0,0,0,f,65,2011,10.21,24.17
+PSEU219,20677,A Rhesus negativ,37,0,Back pain,1,0,0,0,f,53,2014,,
+PSEU220,295,B Rhesus positiv,54,2,Hypertension,0,,0,0,m,196,2018,68.13,17.73
 PSEU221,89669,AB Rhesus positiv,65,0,Hypertension,0,0,1,0,f,212,2012,,
 PSEU222,66820,0 Rhesus positiv,77,0,Hypertension,0,0,0,0,f,,2018,87.62,
 PSEU223,48218,A Rhesus positiv,59,0,Hypertension,0,0,0,0,m,73,2012,13.48,25.3
-PSEU224,19703,0 Rhesus positiv,11,2,Hypertension,0,0,1,,f,155,2013,67.67,28.17
-PSEU225,80454,0 Rhesus negativ,20,0,Lipid metabolism,0,0,1,0,m,57,2014,8.11,24.96
+PSEU224,19703,0 Rhesus positiv,11,2,Hypertension,1,,1,0,f,155,2013,67.67,28.17
+PSEU225,80454,0 Rhesus negativ,20,0,Lipid metabolism,1,0,1,0,m,57,2014,8.11,24.96
 PSEU226,38114,0 Rhesus positiv,45,2,Hypertension,0,0,0,0,m,99,2015,21.67,22.11
-PSEU227,27277,0 Rhesus negativ,43,1,Hypertension,0,0,0,0,m,,2018,48.38,
-PSEU228,30257,0 Rhesus positiv,72,0,Hypertension,0,0,0,,f,136,2010,,
+PSEU227,27277,0 Rhesus negativ,43,1,Hypertension,1,0,0,0,m,,2018,48.38,
+PSEU228,30257,0 Rhesus positiv,72,0,Hypertension,0,0,0,0,f,136,2010,,
 PSEU229,25120,0 Rhesus negativ,41,1,Hypertension,0,1,0,0,m,66,2019,8.76,20.11
 PSEU230,74264,0 Rhesus positiv,34,0,Hypertension,0,0,0,0,m,134,2013,54.68,30.45
 PSEU231,98103,A Rhesus positiv,51,0,Back pain,0,0,0,0,m,218,2016,104.42,21.97
-PSEU232,52599,A Rhesus positiv,52,0,Back pain,0,0,0,,f,172,2013,,
-PSEU233,77846,0 Rhesus positiv,42,1,Hypertension,0,0,0,,f,203,2020,102.89,24.97
-PSEU234,2502,0 Rhesus positiv,92,0,Hypertension,0,0,0,,m,146,2020,54.07,25.37
+PSEU232,52599,A Rhesus positiv,52,0,Back pain,1,0,0,0,f,172,2013,,
+PSEU233,77846,0 Rhesus positiv,42,1,Hypertension,0,0,0,0,f,203,2020,102.89,24.97
+PSEU234,2502,0 Rhesus positiv,92,0,Hypertension,0,,0,0,m,146,2020,54.07,25.37
 PSEU235,73161,A Rhesus positiv,74,0,Back pain,0,0,0,,m,156,2017,73.77,30.31
-PSEU236,91134,A Rhesus positiv,40,0,Hypertension,0,0,0,,f,175,2016,,
+PSEU236,91134,A Rhesus positiv,40,0,Hypertension,0,0,0,0,f,175,2016,,
 PSEU237,56319,0 Rhesus negativ,45,0,Flu,0,0,0,,m,136,2015,51.5,27.84
 PSEU238,68078,A Rhesus positiv,76,1,Hypertension,0,0,0,0,m,72,2015,11.2,21.6
-PSEU239,54002,A Rhesus positiv,46,1,Hypertension,0,0,0,,f,125,2012,32.92,21.07
-PSEU240,30572,B Rhesus positiv,49,3,Hypertension,0,0,0,,f,180,2020,50.55,15.6
+PSEU239,54002,A Rhesus positiv,46,1,Hypertension,0,0,0,0,f,125,2012,32.92,21.07
+PSEU240,30572,B Rhesus positiv,49,3,Hypertension,0,0,0,0,f,180,2020,50.55,15.6
 PSEU241,87825,A Rhesus positiv,51,1,Flu,0,0,0,0,m,140,2011,48.77,24.88
-PSEU242,95464,A Rhesus positiv,62,3,Hypertension,0,0,0,,m,119,2012,,
-PSEU243,5333,0 Rhesus positiv,27,0,Hypertension,0,0,0,,f,152,2015,,
+PSEU242,95464,A Rhesus positiv,62,3,Hypertension,0,,0,0,m,119,2012,,
+PSEU243,5333,0 Rhesus positiv,27,0,Hypertension,1,,0,0,f,152,2015,,
 PSEU244,69077,0 Rhesus positiv,81,0,Hypertension,0,0,1,0,m,140,2013,43.11,21.99
-PSEU245,88818,A Rhesus positiv,39,2,Hypertension,0,0,0,,f,207,2015,,
-PSEU246,31900,0 Rhesus negativ,67,0,Hypertension,0,1,1,,m,198,2018,54.85,13.99
-PSEU247,43179,B Rhesus positiv,37,0,Hypertension,0,0,0,,m,,2020,27.2,
+PSEU245,88818,A Rhesus positiv,39,2,Hypertension,1,0,0,,f,207,2015,,
+PSEU246,31900,0 Rhesus negativ,67,0,Hypertension,1,1,1,0,m,198,2018,54.85,13.99
+PSEU247,43179,B Rhesus positiv,37,0,Hypertension,0,0,0,0,m,,2020,27.2,
 PSEU248,84885,0 Rhesus positiv,51,2,Back pain,0,0,0,0,m,196,2020,94.71,24.65
 PSEU249,6615,0 Rhesus positiv,-9,0,Hypertension,1,0,1,0,m,73,2013,13.18,24.73
 PSEU250,41072,0 Rhesus negativ,25,0,Flu,0,0,0,0,m,,2014,15.72,
-PSEU251,69540,A Rhesus positiv,23,0,Back pain,0,0,0,,m,,2010,105.9,
+PSEU251,69540,A Rhesus positiv,23,0,Back pain,0,0,0,0,m,,2010,105.9,
 PSEU252,49288,A Rhesus positiv,28,0,Hypertension,0,0,0,,f,77,2015,7.21,12.16
 PSEU253,12993,0 Rhesus positiv,42,1,Back pain,0,0,0,0,m,200,2017,63.55,15.89
-PSEU254,28404,B Rhesus positiv,99,0,Back pain,0,0,0,,m,52,2011,6.66,24.63
+PSEU254,28404,B Rhesus positiv,99,0,Back pain,1,,0,0,m,52,2011,6.66,24.63
 PSEU255,30356,A Rhesus positiv,81,0,Hypertension,0,0,0,0,f,102,2020,19.65,18.89
-PSEU256,64197,A Rhesus negativ,43,0,Hypertension,0,0,0,0,m,140,2014,57.41,29.29
-PSEU257,2470,A Rhesus positiv,29,1,Hypertension,0,0,0,,m,109,2018,16.29,13.71
+PSEU256,64197,A Rhesus negativ,43,0,Hypertension,1,0,0,0,m,140,2014,57.41,29.29
+PSEU257,2470,A Rhesus positiv,29,1,Hypertension,0,0,0,0,m,109,2018,16.29,13.71
 PSEU258,92876,0 Rhesus negativ,41,0,Hypertension,0,0,0,,f,175,2011,47.65,15.56
-PSEU259,98004,0 Rhesus positiv,51,1,Hypertension,0,0,0,,m,66,2013,10.03,23.03
+PSEU259,98004,0 Rhesus positiv,51,1,Hypertension,0,0,0,0,m,66,2013,10.03,23.03
 PSEU260,11655,0 Rhesus negativ,68,0,Back pain,0,1,0,0,f,102,2014,,
 PSEU261,31797,0 Rhesus positiv,2,0,Hypertension,0,0,0,0,f,156,2012,66.92,27.5
-PSEU262,40269,A Rhesus positiv,-8,3,Hypertension,0,0,0,,f,206,2012,92.03,21.69
+PSEU262,40269,A Rhesus positiv,-8,3,Hypertension,0,0,0,0,f,206,2012,92.03,21.69
 PSEU263,95709,0 Rhesus positiv,83,0,Hypertension,0,0,0,0,m,71,2015,14.57,28.9
-PSEU264,83440,A Rhesus positiv,47,3,Back pain,0,0,0,,f,67,2019,12.04,26.82
-PSEU265,47594,A Rhesus positiv,49,1,Back pain,0,0,0,,m,194,2012,,
-PSEU266,61925,0 Rhesus positiv,10,0,Hypertension,0,1,0,,m,108,2013,,
+PSEU264,83440,A Rhesus positiv,47,3,Back pain,1,,0,0,f,67,2019,12.04,26.82
+PSEU265,47594,A Rhesus positiv,49,1,Back pain,0,,0,0,m,194,2012,,
+PSEU266,61925,0 Rhesus positiv,10,0,Hypertension,1,1,0,0,m,108,2013,,
 PSEU267,22539,A Rhesus positiv,28,2,Hypertension,0,0,0,0,f,159,2019,,
-PSEU268,22178,A Rhesus positiv,19,0,Back pain,0,0,1,,m,87,2014,10.27,13.57
-PSEU269,42253,A Rhesus positiv,55,0,Back pain,0,0,0,,f,152,2011,58.27,25.22
+PSEU268,22178,A Rhesus positiv,19,0,Back pain,0,0,1,0,m,87,2014,10.27,13.57
+PSEU269,42253,A Rhesus positiv,55,0,Back pain,0,0,0,0,f,152,2011,58.27,25.22
 PSEU270,48373,A Rhesus positiv,54,3,Hypertension,0,0,0,0,f,103,2018,20.29,19.13
-PSEU271,79165,0 Rhesus positiv,97,0,Hypertension,0,0,0,,m,,2015,74.17,
-PSEU272,16366,0 Rhesus negativ,43,0,Hypertension,0,0,0,,m,184,2012,55.9,16.51
+PSEU271,79165,0 Rhesus positiv,97,0,Hypertension,0,0,0,0,m,,2015,74.17,
+PSEU272,16366,0 Rhesus negativ,43,0,Hypertension,0,,0,0,m,184,2012,55.9,16.51
 PSEU273,46631,A Rhesus positiv,27,0,Flu,0,0,0,,f,,2010,,
 PSEU274,3164,B Rhesus positiv,19,0,Back pain,0,0,0,,m,,2020,,
-PSEU275,64692,A Rhesus positiv,53,0,Back pain,0,0,0,,f,217,2019,,
+PSEU275,64692,A Rhesus positiv,53,0,Back pain,0,0,0,0,f,217,2019,,
 PSEU276,52053,0 Rhesus negativ,59,0,Hypertension,0,0,0,0,m,146,2018,58.73,27.55
 PSEU277,74112,B Rhesus positiv,48,0,Hypertension,0,0,0,0,f,111,2020,33.87,27.49
 PSEU278,52265,0 Rhesus positiv,25,0,Hypertension,0,0,0,0,m,134,2010,35.21,19.61
-PSEU279,60993,0 Rhesus positiv,63,0,Hypertension,0,0,1,,m,79,2013,20.27,32.48
-PSEU280,21594,A Rhesus positiv,73,2,Hypertension,0,0,0,,m,203,2012,78.9,19.15
-PSEU281,93264,0 Rhesus positiv,53,0,Hypertension,0,1,0,,m,84,2015,,
+PSEU279,60993,0 Rhesus positiv,63,0,Hypertension,1,0,1,0,m,79,2013,20.27,32.48
+PSEU280,21594,A Rhesus positiv,73,2,Hypertension,0,0,0,0,m,203,2012,78.9,19.15
+PSEU281,93264,0 Rhesus positiv,53,0,Hypertension,0,1,0,0,m,84,2015,,
 PSEU282,26546,A Rhesus positiv,52,0,Hypertension,0,0,0,0,m,97,2012,17.44,18.54
-PSEU283,30858,A Rhesus positiv,50,0,Back pain,0,0,0,0,m,179,2017,42.27,13.19
-PSEU284,58506,A Rhesus positiv,36,3,Hypertension,0,0,0,,m,192,2018,,
-PSEU285,50586,A Rhesus positiv,68,0,Back pain,0,0,0,,m,96,2012,22.68,24.61
-PSEU286,64400,A Rhesus positiv,51,0,Flu,0,0,1,,m,57,2011,9.25,28.47
+PSEU283,30858,A Rhesus positiv,50,0,Back pain,1,0,0,0,m,179,2017,42.27,13.19
+PSEU284,58506,A Rhesus positiv,36,3,Hypertension,1,0,0,0,m,192,2018,,
+PSEU285,50586,A Rhesus positiv,68,0,Back pain,0,0,0,0,m,96,2012,22.68,24.61
+PSEU286,64400,A Rhesus positiv,51,0,Flu,0,,1,,m,57,2011,9.25,28.47
 PSEU287,85235,B Rhesus positiv,31,0,Hypertension,0,0,0,0,m,126,2020,48.33,30.44
-PSEU288,4151,0 Rhesus negativ,48,2,Back pain,0,0,0,,m,,2019,37.24,
+PSEU288,4151,0 Rhesus negativ,48,2,Back pain,0,,0,,m,,2019,37.24,
 PSEU289,42124,A Rhesus positiv,60,0,Hypertension,0,0,0,0,m,167,2020,59.25,21.24
-PSEU290,69718,A Rhesus negativ,59,0,Back pain,0,0,0,,f,170,2011,54.56,18.88
+PSEU290,69718,A Rhesus negativ,59,0,Back pain,0,0,0,0,f,170,2011,54.56,18.88
 PSEU291,54817,A Rhesus positiv,33,0,Hypertension,0,0,0,,f,64,2015,,
-PSEU292,8600,A Rhesus positiv,44,0,Back pain,0,0,1,0,f,,2018,105.74,
-PSEU293,36069,A Rhesus negativ,63,0,Hypertension,0,0,0,,m,50,2016,4.35,17.4
-PSEU294,73357,AB Rhesus positiv,51,0,Hypertension,0,0,0,,m,218,2019,114.46,24.08
+PSEU292,8600,A Rhesus positiv,44,0,Back pain,1,0,1,0,f,,2018,105.74,
+PSEU293,36069,A Rhesus negativ,63,0,Hypertension,0,0,0,0,m,50,2016,4.35,17.4
+PSEU294,73357,AB Rhesus positiv,51,0,Hypertension,0,0,0,0,m,218,,114.46,24.08
 PSEU295,16846,A Rhesus positiv,50,0,Hypertension,0,0,1,0,m,205,2013,102.48,24.39
 PSEU296,66486,B Rhesus negativ,44,0,Back pain,0,0,0,0,f,186,2016,57.83,16.72
-PSEU297,74399,A Rhesus negativ,31,0,Back pain,0,0,0,,m,62,2018,8.57,22.29
-PSEU298,64522,A Rhesus positiv,68,0,Hypertension,0,0,0,,f,,2013,19.43,
-PSEU299,79919,0 Rhesus positiv,50,0,Hypertension,0,0,0,0,f,74,2010,,
+PSEU297,74399,A Rhesus negativ,31,0,Back pain,1,,0,0,m,62,2018,8.57,22.29
+PSEU298,64522,A Rhesus positiv,68,0,Hypertension,0,0,0,0,f,,2013,19.43,
+PSEU299,79919,0 Rhesus positiv,50,0,Hypertension,1,0,0,0,f,74,2010,,
 PSEU300,31567,0 Rhesus positiv,81,1,Hypertension,1,0,0,0,m,59,2017,9.26,26.6
 PSEU301,1050,A Rhesus positiv,41,0,Hypertension,0,0,0,0,m,,2013,55.4,
-PSEU302,98618,B Rhesus positiv,52,1,Flu,0,0,1,0,m,120,2010,31.1,21.6
+PSEU302,98618,B Rhesus positiv,52,1,Flu,1,0,1,0,m,120,2010,31.1,21.6
 PSEU303,21229,0 Rhesus positiv,67,0,Hypertension,0,0,0,0,m,67,2020,8.92,19.87
 PSEU304,29934,0 Rhesus positiv,54,0,Hypertension,0,0,0,0,m,124,2020,51.97,33.8
 PSEU305,87854,A Rhesus positiv,17,0,Hypertension,0,0,0,0,m,111,2018,21.84,17.73
-PSEU306,79322,B Rhesus positiv,83,0,Hypertension,0,0,0,0,f,68,2016,,
+PSEU306,79322,B Rhesus positiv,83,0,Hypertension,1,0,0,0,f,68,2016,,
 PSEU307,85424,0 Rhesus negativ,61,0,Hypertension,0,0,0,0,m,54,2020,4.47,15.33
-PSEU308,26616,A Rhesus positiv,72,0,Flu,0,1,0,0,m,109,2015,,
-PSEU309,92434,A Rhesus positiv,26,0,Hypertension,0,0,0,,m,67,2014,,
+PSEU308,26616,A Rhesus positiv,72,0,Flu,1,1,0,0,m,109,2015,,
+PSEU309,92434,A Rhesus positiv,26,0,Hypertension,0,0,0,0,m,67,2014,,
 PSEU310,89917,B Rhesus negativ,48,0,Hypertension,0,0,0,0,m,187,2012,94.96,27.16
 PSEU311,96586,0 Rhesus positiv,32,0,Back pain,0,0,0,0,m,,2015,101.87,
 PSEU312,84705,0 Rhesus negativ,75,1,Hypertension,0,0,0,0,m,210,2012,100.33,22.75
 PSEU313,77072,A Rhesus positiv,24,0,Back pain,0,0,1,0,m,122,2015,33.15,22.27
-PSEU314,18528,0 Rhesus positiv,47,0,Hypertension,1,0,1,,f,161,2011,77.29,29.82
-PSEU315,82057,A Rhesus positiv,82,1,Hypertension,0,1,0,,m,,2015,,
+PSEU314,18528,0 Rhesus positiv,47,0,Hypertension,1,0,1,0,f,161,2011,77.29,29.82
+PSEU315,82057,A Rhesus positiv,82,1,Hypertension,1,,0,0,m,,2015,,
 PSEU316,14224,A Rhesus positiv,80,0,Back pain,0,0,1,0,m,,2018,5.96,
-PSEU317,75844,0 Rhesus positiv,19,0,Hypertension,0,0,1,,f,198,2013,,
+PSEU317,75844,0 Rhesus positiv,19,0,Hypertension,0,0,1,0,f,198,2013,,
 PSEU318,39484,0 Rhesus positiv,24,3,Back pain,0,1,0,0,m,126,2014,23.89,15.05
 PSEU319,91222,0 Rhesus positiv,53,0,Hypertension,0,0,0,0,m,160,2018,50.04,19.55
 PSEU320,12085,A Rhesus positiv,55,0,Back pain,0,0,0,0,f,188,2011,98.82,27.96
@@ -328,139 +328,139 @@ PSEU326,58558,0 Rhesus positiv,58,0,Back pain,0,0,0,0,f,113,2016,17.87,13.99
 PSEU327,8710,A Rhesus positiv,39,0,Hypertension,0,0,0,,f,,2017,,
 PSEU328,30413,0 Rhesus positiv,61,0,Hypertension,0,1,0,0,m,188,2017,66.47,18.81
 PSEU329,20118,0 Rhesus positiv,45,2,Hypertension,0,0,0,0,m,135,2015,33.25,18.24
-PSEU330,67257,0 Rhesus positiv,89,0,Hypertension,0,1,0,,m,103,2017,22.76,21.45
-PSEU331,9268,AB Rhesus positiv,10,2,Hypertension,0,0,0,,m,157,2016,,
+PSEU330,67257,0 Rhesus positiv,89,0,Hypertension,0,1,0,0,m,103,2017,22.76,21.45
+PSEU331,9268,AB Rhesus positiv,10,2,Hypertension,1,,0,0,m,157,2016,,
 PSEU332,70971,A Rhesus positiv,52,0,Hypertension,0,0,0,0,f,214,2019,115.29,25.17
-PSEU333,89255,A Rhesus positiv,39,2,Hypertension,0,0,1,,m,104,2010,15.87,14.67
+PSEU333,89255,A Rhesus positiv,39,2,Hypertension,0,,1,0,m,104,2010,15.87,14.67
 PSEU334,48977,A Rhesus positiv,46,0,Lipid metabolism,0,0,0,0,m,,2019,56.32,
-PSEU335,11278,B Rhesus positiv,74,1,Hypertension,0,0,0,,m,93,2017,16.49,19.07
-PSEU336,57002,0 Rhesus positiv,44,0,Back pain,0,0,0,,f,110,2012,,
-PSEU337,84246,B Rhesus positiv,49,2,Back pain,0,0,1,0,f,,2012,77.91,
+PSEU335,11278,B Rhesus positiv,74,1,Hypertension,0,0,0,0,m,93,2017,16.49,19.07
+PSEU336,57002,0 Rhesus positiv,44,0,Back pain,1,0,0,,f,110,2012,,
+PSEU337,84246,B Rhesus positiv,49,2,Back pain,1,0,1,0,f,,2012,77.91,
 PSEU338,94179,B Rhesus positiv,30,1,Hypertension,0,0,0,0,m,158,2019,36.2,14.5
 PSEU339,61005,A Rhesus negativ,42,2,Hypertension,0,0,0,0,m,83,2012,14.49,21.03
-PSEU340,47874,0 Rhesus negativ,54,0,Hypertension,0,0,0,,f,139,2018,52.64,27.24
+PSEU340,47874,0 Rhesus negativ,54,0,Hypertension,1,,0,0,f,139,2018,52.64,27.24
 PSEU341,36016,0 Rhesus positiv,69,0,Hypertension,0,0,0,0,f,71,2019,8.6,17.06
-PSEU342,61125,A Rhesus negativ,16,0,Flu,0,0,1,0,f,101,2016,28.06,27.51
-PSEU343,95904,AB Rhesus positiv,79,0,Flu,0,0,0,,f,212,2019,82.46,18.35
+PSEU342,61125,A Rhesus negativ,16,0,Flu,1,0,1,0,f,101,2016,28.06,27.51
+PSEU343,95904,AB Rhesus positiv,79,0,Flu,0,,0,0,f,212,2019,82.46,18.35
 PSEU344,31239,A Rhesus positiv,36,0,Flu,0,0,0,0,m,151,2020,,
-PSEU345,31751,A Rhesus positiv,60,0,Flu,0,0,0,,m,,2017,12.93,
+PSEU345,31751,A Rhesus positiv,60,0,Flu,0,0,0,0,m,,2017,12.93,
 PSEU346,69933,A Rhesus positiv,43,1,Hypertension,0,0,0,0,m,193,2018,61.8,16.59
-PSEU347,22654,B Rhesus positiv,48,0,Hypertension,0,0,0,,m,208,2013,78.01,18.03
-PSEU348,81081,A Rhesus negativ,68,0,Back pain,0,0,0,,f,81,2020,17.26,26.31
+PSEU347,22654,B Rhesus positiv,48,0,Hypertension,0,0,0,0,m,208,2013,78.01,18.03
+PSEU348,81081,A Rhesus negativ,68,0,Back pain,1,,0,,f,81,2020,17.26,26.31
 PSEU349,71218,A Rhesus positiv,60,2,Back pain,0,0,1,0,f,,2010,111.8,
-PSEU350,78375,B Rhesus positiv,39,0,Back pain,0,0,0,,f,77,2017,11.75,19.82
+PSEU350,78375,B Rhesus positiv,39,0,Back pain,1,0,0,0,f,77,2017,11.75,19.82
 PSEU351,25286,A Rhesus positiv,29,1,Hypertension,0,0,0,,f,,2015,80.99,
 PSEU352,46662,A Rhesus positiv,48,0,Hypertension,0,0,0,0,f,137,2013,38.07,20.28
-PSEU353,65393,B Rhesus positiv,55,0,Hypertension,0,0,0,,f,104,2011,20.9,19.32
+PSEU353,65393,B Rhesus positiv,55,0,Hypertension,1,0,0,0,f,104,2011,20.9,19.32
 PSEU354,50321,0 Rhesus positiv,62,0,Hypertension,0,0,0,0,m,117,2012,38.35,28.02
-PSEU355,89664,0 Rhesus positiv,93,0,Flu,0,0,0,,f,138,2010,51.95,27.28
-PSEU356,122,B Rhesus positiv,67,0,Hypertension,0,0,1,,m,127,2010,28.56,17.71
+PSEU355,89664,0 Rhesus positiv,93,0,Flu,1,,0,0,f,138,2010,51.95,27.28
+PSEU356,122,B Rhesus positiv,67,0,Hypertension,0,0,1,0,m,127,2010,28.56,17.71
 PSEU357,97716,B Rhesus positiv,54,1,Back pain,0,0,1,0,m,95,2020,19.47,21.57
 PSEU358,26758,A Rhesus positiv,37,0,Back pain,0,0,0,0,m,,2010,46.75,
-PSEU359,79464,B Rhesus positiv,45,0,Back pain,0,0,0,0,m,54,2017,7.02,24.07
+PSEU359,79464,B Rhesus positiv,45,0,Back pain,1,0,0,0,m,54,2017,7.02,24.07
 PSEU360,59648,A Rhesus negativ,66,0,Hypertension,0,0,0,0,m,131,2016,,
-PSEU361,95527,A Rhesus positiv,41,0,Flu,0,0,0,,m,206,2015,,
-PSEU362,54235,0 Rhesus positiv,48,1,Hypertension,0,0,0,,f,81,2011,15.07,22.97
+PSEU361,95527,A Rhesus positiv,41,0,Flu,0,0,0,0,m,206,2015,,
+PSEU362,54235,0 Rhesus positiv,48,1,Hypertension,0,0,0,0,f,81,2011,15.07,22.97
 PSEU363,29405,A Rhesus negativ,73,0,Back pain,0,0,1,0,m,72,2016,11.26,21.72
-PSEU364,4118,0 Rhesus negativ,58,1,Hypertension,0,0,0,0,f,50,2017,,
-PSEU365,54066,0 Rhesus positiv,15,0,Back pain,0,0,0,,f,68,2013,3.8,8.22
-PSEU366,10844,0 Rhesus positiv,20,0,Hypertension,0,0,0,,f,175,2011,67.7,22.11
-PSEU367,75583,A Rhesus positiv,59,0,Hypertension,0,0,0,,m,84,2018,11.5,16.3
+PSEU364,4118,0 Rhesus negativ,58,1,Hypertension,1,0,0,0,f,50,2017,,
+PSEU365,54066,0 Rhesus positiv,15,0,Back pain,0,0,0,0,f,68,2013,3.8,8.22
+PSEU366,10844,0 Rhesus positiv,20,0,Hypertension,0,0,0,0,f,175,2011,67.7,22.11
+PSEU367,75583,A Rhesus positiv,59,0,Hypertension,1,,0,0,m,84,2018,11.5,16.3
 PSEU368,78930,A Rhesus negativ,51,2,Hypertension,0,0,0,0,m,,2019,35.3,
-PSEU369,97478,AB Rhesus positiv,70,0,Hypertension,0,0,1,,m,,2018,19.85,
+PSEU369,97478,AB Rhesus positiv,70,0,Hypertension,0,0,1,0,m,,2018,19.85,
 PSEU370,60272,0 Rhesus positiv,85,3,Back pain,0,0,0,0,m,126,2011,,
-PSEU371,8575,0 Rhesus positiv,49,0,Lipid metabolism,0,0,1,,f,,2016,22.83,
-PSEU372,2260,AB Rhesus negativ,51,0,Hypertension,0,1,0,,f,133,2020,32.32,18.27
+PSEU371,8575,0 Rhesus positiv,49,0,Lipid metabolism,0,0,1,0,f,,2016,22.83,
+PSEU372,2260,AB Rhesus negativ,51,0,Hypertension,0,1,0,0,f,133,2020,32.32,18.27
 PSEU373,18087,A Rhesus negativ,69,3,Hypertension,0,0,0,0,f,189,2016,82.29,23.04
 PSEU374,24593,0 Rhesus positiv,64,2,Hypertension,0,0,0,0,f,52,2018,6.5,24.04
 PSEU375,3550,0 Rhesus positiv,40,0,Hypertension,0,0,0,0,m,204,2016,88.88,21.36
-PSEU376,6885,A Rhesus positiv,32,0,Lipid metabolism,0,0,0,0,m,58,2011,6.94,20.63
+PSEU376,6885,A Rhesus positiv,32,0,Lipid metabolism,1,0,0,0,m,58,2011,6.94,20.63
 PSEU377,67926,0 Rhesus positiv,32,0,Back pain,0,0,0,0,f,174,2018,52.38,17.3
 PSEU378,82095,A Rhesus positiv,29,0,Back pain,0,0,0,0,f,,2017,3.18,
-PSEU379,31205,B Rhesus positiv,20,2,Flu,0,0,0,,m,102,2012,29.78,28.62
+PSEU379,31205,B Rhesus positiv,20,2,Flu,0,0,0,0,m,102,2012,29.78,28.62
 PSEU380,10024,A Rhesus positiv,62,0,Back pain,0,0,0,,m,209,2013,,
 PSEU381,83186,B Rhesus negativ,91,0,Hypertension,0,0,1,0,m,124,2019,33.64,21.88
 PSEU382,71895,0 Rhesus positiv,51,0,Back pain,0,0,0,0,f,184,2019,41.77,12.34
 PSEU383,20475,AB Rhesus positiv,96,0,Back pain,0,0,0,0,f,136,2020,,
 PSEU384,74002,A Rhesus positiv,60,3,Hypertension,0,0,0,0,f,215,2011,83.14,17.99
-PSEU385,37292,B Rhesus positiv,36,0,Hypertension,0,0,0,,m,,2013,98.37,
-PSEU386,89405,0 Rhesus negativ,43,0,Back pain,0,0,0,0,m,123,2020,,
-PSEU387,20857,AB Rhesus negativ,70,0,Hypertension,0,0,0,,m,128,2010,42.35,25.85
-PSEU388,83562,B Rhesus positiv,55,0,Back pain,0,0,0,,m,220,2015,115.43,23.85
+PSEU385,37292,B Rhesus positiv,36,0,Hypertension,1,0,0,0,m,,2013,98.37,
+PSEU386,89405,0 Rhesus negativ,43,0,Back pain,1,0,0,0,m,123,2020,,
+PSEU387,20857,AB Rhesus negativ,70,0,Hypertension,1,0,0,0,m,128,2010,42.35,25.85
+PSEU388,83562,B Rhesus positiv,55,0,Back pain,0,0,0,0,m,220,2015,115.43,23.85
 PSEU389,38849,A Rhesus negativ,54,3,Hypertension,0,0,0,0,f,203,2017,63.36,15.38
 PSEU390,59845,0 Rhesus positiv,62,0,Flu,0,0,0,0,f,213,2014,,
 PSEU391,88354,0 Rhesus positiv,36,0,Back pain,0,0,0,0,f,,2018,77.89,
-PSEU392,25826,A Rhesus positiv,45,0,Back pain,0,0,0,,m,142,2014,27.55,13.66
-PSEU393,62355,A Rhesus positiv,71,0,Hypertension,0,0,0,,m,81,2012,13.99,21.32
-PSEU394,71872,0 Rhesus positiv,35,3,Back pain,0,0,0,0,m,,2015,,
+PSEU392,25826,A Rhesus positiv,45,0,Back pain,0,,0,0,m,142,2014,27.55,13.66
+PSEU393,62355,A Rhesus positiv,71,0,Hypertension,0,0,0,0,m,81,2012,13.99,21.32
+PSEU394,71872,0 Rhesus positiv,35,3,Back pain,1,0,0,0,m,,2015,,
 PSEU395,35386,0 Rhesus positiv,53,0,Back pain,0,0,0,0,f,204,2018,,
 PSEU396,98809,0 Rhesus positiv,37,0,Hypertension,0,0,1,0,f,,2014,19.08,
-PSEU397,55078,A Rhesus negativ,88,0,Back pain,0,0,0,,m,59,2011,7.53,21.63
+PSEU397,55078,A Rhesus negativ,88,0,Back pain,0,0,0,0,m,59,2011,7.53,21.63
 PSEU398,71081,0 Rhesus positiv,61,0,Lipid metabolism,0,0,0,0,f,182,2019,74.79,22.58
 PSEU399,82936,0 Rhesus positiv,50,1,Hypertension,0,0,0,,m,,2012,82,
 PSEU400,54354,0 Rhesus negativ,86,0,Back pain,0,0,0,0,m,138,2015,,
-PSEU401,41999,A Rhesus positiv,76,0,Hypertension,0,0,0,,m,148,2017,65.62,29.96
-PSEU402,15619,A Rhesus positiv,21,0,Hypertension,0,1,0,,m,127,2014,,
-PSEU403,95738,A Rhesus positiv,79,3,Hypertension,0,0,0,,m,203,2017,91.6,22.23
-PSEU404,94822,0 Rhesus positiv,39,0,Hypertension,0,0,1,0,m,,2015,83.76,
+PSEU401,41999,A Rhesus positiv,76,0,Hypertension,0,0,0,0,m,148,2017,65.62,29.96
+PSEU402,15619,A Rhesus positiv,21,0,Hypertension,0,,0,0,m,127,2014,,
+PSEU403,95738,A Rhesus positiv,79,3,Hypertension,0,0,0,1,m,203,2017,91.6,22.23
+PSEU404,94822,0 Rhesus positiv,39,0,Hypertension,1,0,1,0,m,,2015,83.76,
 PSEU405,81508,0 Rhesus positiv,28,1,Lipid metabolism,0,0,0,,f,189,2012,106.62,29.85
 PSEU406,47261,0 Rhesus positiv,75,2,Hypertension,0,0,0,0,m,,2011,6.71,
 PSEU407,71190,B Rhesus positiv,59,0,Back pain,1,0,0,0,m,102,2015,15.93,15.31
 PSEU408,91436,A Rhesus positiv,37,0,Hypertension,0,0,1,0,f,141,2018,48.74,24.52
-PSEU409,27091,A Rhesus negativ,46,0,Hypertension,0,0,0,,m,220,2018,124.78,25.78
-PSEU410,36489,A Rhesus negativ,21,1,Back pain,0,0,0,0,f,69,2018,6.62,13.9
-PSEU411,10262,0 Rhesus positiv,65,2,Back pain,0,0,0,,m,195,2010,57.23,15.05
-PSEU412,21692,0 Rhesus positiv,28,0,Hypertension,0,0,0,,m,55,2014,6.67,22.05
-PSEU413,4626,A Rhesus positiv,39,0,Hypertension,0,0,0,,f,115,2017,17.68,13.37
-PSEU414,18814,0 Rhesus positiv,-22,0,Back pain,0,0,0,,m,172,2013,61.37,20.74
+PSEU409,27091,A Rhesus negativ,46,0,Hypertension,0,0,0,0,m,220,2018,124.78,25.78
+PSEU410,36489,A Rhesus negativ,21,1,Back pain,1,0,0,0,f,69,2018,6.62,13.9
+PSEU411,10262,0 Rhesus positiv,65,2,Back pain,0,0,0,0,m,195,2010,57.23,15.05
+PSEU412,21692,0 Rhesus positiv,28,0,Hypertension,1,0,0,0,m,55,2014,6.67,22.05
+PSEU413,4626,A Rhesus positiv,39,0,Hypertension,0,0,0,0,f,115,2017,17.68,13.37
+PSEU414,18814,0 Rhesus positiv,-22,0,Back pain,0,,0,,m,172,2013,61.37,20.74
 PSEU415,78766,0 Rhesus positiv,16,0,Back pain,0,0,1,,f,119,2016,39.48,27.88
 PSEU416,91220,A Rhesus positiv,43,0,Hypertension,0,0,0,,f,127,2013,41.97,26.02
 PSEU417,74433,0 Rhesus positiv,60,0,Hypertension,0,0,0,0,f,,2012,48.47,
-PSEU418,13513,0 Rhesus positiv,28,0,Flu,0,0,1,,m,96,2010,15.13,16.42
+PSEU418,13513,0 Rhesus positiv,28,0,Flu,0,0,1,0,m,96,2010,15.13,16.42
 PSEU419,79037,B Rhesus negativ,20,1,Hypertension,0,0,0,0,f,81,2020,,
-PSEU420,86780,0 Rhesus positiv,50,0,Back pain,0,0,0,,m,113,2014,30.09,23.56
-PSEU421,99790,B Rhesus positiv,41,0,Hypertension,0,0,0,,f,209,2020,109.37,25.04
+PSEU420,86780,0 Rhesus positiv,50,0,Back pain,0,0,0,0,m,113,2014,30.09,23.56
+PSEU421,99790,B Rhesus positiv,41,0,Hypertension,0,0,0,0,f,209,2020,109.37,25.04
 PSEU422,98541,A Rhesus positiv,28,0,Hypertension,0,0,0,0,f,127,2018,35.93,22.28
 PSEU423,12533,A Rhesus positiv,54,0,Hypertension,0,0,0,0,m,,2011,,
 PSEU424,82363,A Rhesus positiv,52,0,Hypertension,0,0,0,0,m,182,2017,78.04,23.56
 PSEU425,54535,A Rhesus positiv,44,0,Back pain,0,0,0,0,m,195,2017,75.08,19.74
-PSEU426,13038,0 Rhesus positiv,52,1,Back pain,0,0,0,,f,62,2018,7.38,19.2
+PSEU426,13038,0 Rhesus positiv,52,1,Back pain,0,0,0,0,f,62,2018,7.38,19.2
 PSEU427,79056,A Rhesus positiv,51,3,Hypertension,0,0,0,0,m,143,2020,53.29,26.06
-PSEU428,83336,A Rhesus negativ,20,0,Hypertension,0,0,0,,m,107,2017,31.39,27.42
-PSEU429,16526,0 Rhesus positiv,34,0,Hypertension,0,0,0,,f,72,2010,8.88,17.13
+PSEU428,83336,A Rhesus negativ,20,0,Hypertension,0,0,0,0,m,107,2017,31.39,27.42
+PSEU429,16526,0 Rhesus positiv,34,0,Hypertension,0,0,0,0,f,72,2010,8.88,17.13
 PSEU430,67948,A Rhesus positiv,65,2,Hypertension,0,0,0,0,m,66,2020,8.58,19.7
-PSEU431,67032,0 Rhesus positiv,38,0,Back pain,0,0,0,,m,,2011,18.02,
-PSEU432,41332,A Rhesus positiv,20,0,Back pain,0,0,0,,f,,2020,64.82,
-PSEU433,83065,0 Rhesus positiv,77,2,Hypertension,0,0,0,,f,50,2010,,
-PSEU434,52998,0 Rhesus positiv,62,1,Back pain,0,1,0,,m,56,2015,4.2,13.39
+PSEU431,67032,0 Rhesus positiv,38,0,Back pain,1,0,0,0,m,,2011,18.02,
+PSEU432,41332,A Rhesus positiv,20,0,Back pain,0,0,0,0,f,,2020,64.82,
+PSEU433,83065,0 Rhesus positiv,77,2,Hypertension,0,0,0,0,f,50,2010,,
+PSEU434,52998,0 Rhesus positiv,62,1,Back pain,0,1,0,0,m,56,2015,4.2,13.39
 PSEU435,23193,B Rhesus positiv,38,2,Hypertension,0,0,0,0,m,56,2013,7.86,25.06
 PSEU436,83019,A Rhesus positiv,51,0,Hypertension,0,0,0,0,f,67,2019,11.25,25.06
 PSEU437,6205,A Rhesus positiv,51,1,Hypertension,0,0,0,0,m,65,2019,,
-PSEU438,30464,0 Rhesus negativ,49,0,Hypertension,0,1,0,,m,,2011,24.64,
-PSEU439,11777,B Rhesus positiv,58,2,Back pain,0,0,1,0,f,106,2013,33.94,30.21
-PSEU440,65987,0 Rhesus positiv,39,1,Back pain,1,0,0,,m,,2011,54.1,
+PSEU438,30464,0 Rhesus negativ,49,0,Hypertension,1,1,0,0,m,,2011,24.64,
+PSEU439,11777,B Rhesus positiv,58,2,Back pain,1,0,1,0,f,106,2013,33.94,30.21
+PSEU440,65987,0 Rhesus positiv,39,1,Back pain,1,0,0,0,m,,2011,54.1,
 PSEU441,83465,B Rhesus negativ,82,0,Flu,0,0,0,0,f,,2016,12.76,
 PSEU442,55305,0 Rhesus positiv,98,0,Flu,0,1,0,,f,200,2017,53.78,13.45
-PSEU443,16543,0 Rhesus positiv,37,0,Back pain,0,0,0,,m,88,2015,,
+PSEU443,16543,0 Rhesus positiv,37,0,Back pain,0,0,0,0,m,88,2015,,
 PSEU444,39993,0 Rhesus positiv,93,0,Back pain,0,0,1,0,m,165,2016,71.67,26.33
-PSEU445,96820,A Rhesus negativ,46,0,Hypertension,0,0,0,,f,137,2011,65.49,34.89
+PSEU445,96820,A Rhesus negativ,46,0,Hypertension,1,0,0,,f,137,2011,65.49,34.89
 PSEU446,60896,A Rhesus positiv,40,0,Hypertension,0,0,0,0,f,63,2018,8.95,22.55
 PSEU447,87346,A Rhesus positiv,45,0,Hypertension,0,0,1,0,f,58,2017,,
-PSEU448,36578,A Rhesus positiv,70,0,Hypertension,0,0,0,,m,97,2017,24.09,25.6
+PSEU448,36578,A Rhesus positiv,70,0,Hypertension,0,0,0,0,m,97,2017,24.09,25.6
 PSEU449,76688,0 Rhesus positiv,41,2,Flu,0,0,0,,f,,2014,111.24,
-PSEU450,76445,0 Rhesus positiv,28,0,Hypertension,0,0,0,,m,153,2016,57.6,24.61
+PSEU450,76445,0 Rhesus positiv,28,0,Hypertension,0,0,0,0,m,153,2016,57.6,24.61
 PSEU451,40579,B Rhesus positiv,30,0,Hypertension,0,0,0,0,f,,2020,26.23,
 PSEU452,81394,0 Rhesus positiv,84,0,Flu,0,0,0,0,f,76,2015,,
 PSEU453,75539,0 Rhesus positiv,46,0,Back pain,0,0,0,,f,214,2017,88.65,19.36
 PSEU454,95424,0 Rhesus positiv,36,2,Back pain,0,0,0,0,f,54,2019,,
-PSEU455,62567,0 Rhesus positiv,34,1,Hypertension,0,0,0,0,m,126,2013,20.17,12.7
+PSEU455,62567,0 Rhesus positiv,34,1,Hypertension,1,0,0,0,m,126,2013,20.17,12.7
 PSEU456,75382,0 Rhesus positiv,45,0,Back pain,0,0,0,0,m,135,2017,46.55,25.54
-PSEU457,88097,A Rhesus positiv,36,0,Hypertension,0,0,0,,m,53,2018,3.87,13.78
+PSEU457,88097,A Rhesus positiv,36,0,Hypertension,0,,0,,m,53,2018,3.87,13.78
 PSEU458,9676,0 Rhesus positiv,51,0,Back pain,0,0,1,0,m,,2018,22.89,
 PSEU459,66393,A Rhesus positiv,29,0,Hypertension,0,0,0,,f,60,2010,5.87,16.31
 PSEU460,70585,0 Rhesus negativ,51,3,Hypertension,0,0,0,,f,216,2020,93.39,20.02
 PSEU461,25111,0 Rhesus positiv,74,1,Hypertension,0,0,0,0,m,64,2017,12.54,30.62
-PSEU462,8959,0 Rhesus positiv,44,0,Hypertension,0,0,1,0,f,138,2016,,
+PSEU462,8959,0 Rhesus positiv,44,0,Hypertension,1,0,1,0,f,138,2016,,
 PSEU463,19530,0 Rhesus positiv,9,0,Back pain,0,0,0,0,m,107,2020,,
 PSEU464,43780,A Rhesus negativ,5,0,Hypertension,0,0,0,0,m,96,2014,14.79,16.05
 PSEU465,68710,B Rhesus negativ,61,0,Back pain,0,1,0,0,f,172,2019,,
@@ -468,48 +468,48 @@ PSEU466,14982,A Rhesus positiv,45,0,Back pain,0,0,0,0,m,69,2014,10.61,22.29
 PSEU467,56439,0 Rhesus positiv,20,0,Hypertension,0,0,0,0,m,151,2012,31.27,13.71
 PSEU468,84821,A Rhesus positiv,6,0,Hypertension,0,0,0,0,f,203,2010,90.39,21.93
 PSEU469,82819,A Rhesus positiv,33,0,Hypertension,0,0,0,0,m,95,2013,6.14,6.8
-PSEU470,48109,A Rhesus negativ,58,0,Hypertension,0,0,0,,m,89,2017,18.6,23.48
-PSEU471,36917,0 Rhesus positiv,59,0,Hypertension,0,0,0,,m,,2019,55.45,
-PSEU472,73671,0 Rhesus positiv,52,0,Hypertension,0,0,0,,m,62,2019,6.48,16.86
+PSEU470,48109,A Rhesus negativ,58,0,Hypertension,0,,0,0,m,89,2017,18.6,23.48
+PSEU471,36917,0 Rhesus positiv,59,0,Hypertension,1,,0,0,m,,2019,55.45,
+PSEU472,73671,0 Rhesus positiv,52,0,Hypertension,0,,0,0,m,62,2019,6.48,16.86
 PSEU473,12278,0 Rhesus negativ,44,2,Hypertension,0,0,0,0,f,122,2015,37.66,25.3
-PSEU474,60752,0 Rhesus positiv,55,0,Hypertension,0,0,0,,m,119,2010,,
+PSEU474,60752,0 Rhesus positiv,55,0,Hypertension,0,0,0,0,m,119,2010,,
 PSEU475,75907,0 Rhesus positiv,71,0,Hypertension,0,0,1,0,f,,2020,,
-PSEU476,48816,A Rhesus positiv,22,0,Back pain,0,0,0,,f,162,2015,57.39,21.87
+PSEU476,48816,A Rhesus positiv,22,0,Back pain,0,0,0,0,f,162,2015,57.39,21.87
 PSEU477,11062,A Rhesus positiv,54,0,Flu,0,0,0,0,m,,2013,19.34,
-PSEU478,78604,0 Rhesus negativ,45,3,Hypertension,0,0,0,,f,,2013,47.02,
-PSEU479,12463,A Rhesus positiv,53,0,Hypertension,0,0,0,,m,,2010,6.7,
+PSEU478,78604,0 Rhesus negativ,45,3,Hypertension,0,,0,0,f,,2013,47.02,
+PSEU479,12463,A Rhesus positiv,53,0,Hypertension,0,,0,0,m,,2010,6.7,
 PSEU480,92651,B Rhesus positiv,81,0,Back pain,0,0,0,0,m,132,2018,,
-PSEU481,56963,0 Rhesus negativ,55,0,Back pain,0,0,0,,m,140,2015,35.17,17.94
-PSEU482,3570,A Rhesus negativ,54,0,Flu,0,0,0,,m,103,2012,22.97,21.65
+PSEU481,56963,0 Rhesus negativ,55,0,Back pain,1,0,0,0,m,140,2015,35.17,17.94
+PSEU482,3570,A Rhesus negativ,54,0,Flu,0,0,0,0,m,103,2012,22.97,21.65
 PSEU483,41228,A Rhesus positiv,50,0,Hypertension,0,0,0,0,m,,2015,19.51,
 PSEU484,99483,0 Rhesus positiv,41,0,Hypertension,0,0,0,0,m,,2018,26.49,
-PSEU485,40239,0 Rhesus positiv,35,2,Back pain,0,0,0,,m,85,2012,16.32,22.59
+PSEU485,40239,0 Rhesus positiv,35,2,Back pain,0,,0,0,m,85,2012,16.32,22.59
 PSEU486,12511,B Rhesus positiv,28,0,Hypertension,0,0,0,,m,219,2016,,
 PSEU487,84147,A Rhesus positiv,24,0,Back pain,0,0,0,0,f,191,2013,73.42,20.13
 PSEU488,10707,A Rhesus positiv,24,3,Hypertension,0,0,0,0,m,197,2015,84.19,21.69
-PSEU489,58133,0 Rhesus positiv,55,1,Hypertension,0,0,0,0,m,177,2017,64.13,20.47
+PSEU489,58133,0 Rhesus positiv,55,1,Hypertension,1,0,0,0,m,177,2017,64.13,20.47
 PSEU490,34518,0 Rhesus positiv,62,0,Hypertension,0,0,0,0,f,,2016,136.39,
 PSEU491,57394,0 Rhesus positiv,30,0,Hypertension,0,1,0,0,m,217,2018,,
-PSEU492,208,A Rhesus positiv,52,0,Hypertension,0,0,0,,f,188,2012,58.13,16.45
-PSEU493,66967,A Rhesus positiv,54,0,Back pain,0,0,0,,f,148,2014,51.37,23.45
+PSEU492,208,A Rhesus positiv,52,0,Hypertension,0,0,0,0,f,188,2012,58.13,16.45
+PSEU493,66967,A Rhesus positiv,54,0,Back pain,1,0,0,,f,148,2014,51.37,23.45
 PSEU494,34055,0 Rhesus positiv,66,0,Flu,0,0,0,0,m,72,2019,7.16,13.81
 PSEU495,70986,0 Rhesus positiv,42,0,Hypertension,0,0,0,0,f,115,2018,,
-PSEU496,94361,0 Rhesus positiv,54,0,Hypertension,0,0,0,,f,75,2018,18.19,32.34
-PSEU497,93589,0 Rhesus positiv,41,1,Back pain,1,0,0,,m,152,2018,37.03,16.03
+PSEU496,94361,0 Rhesus positiv,54,0,Hypertension,0,0,0,0,f,75,2018,18.19,32.34
+PSEU497,93589,0 Rhesus positiv,41,1,Back pain,1,0,0,0,m,152,2018,37.03,16.03
 PSEU498,51155,0 Rhesus negativ,38,0,Hypertension,0,0,0,,f,,2016,31.4,
-PSEU499,94711,A Rhesus positiv,47,1,Back pain,0,0,0,,m,134,2011,,
+PSEU499,94711,A Rhesus positiv,47,1,Back pain,0,0,0,0,m,134,2011,,
 PSEU500,78855,B Rhesus positiv,62,0,Back pain,0,0,0,0,m,78,2016,,
-PSEU501,37846,A Rhesus positiv,89,2,Back pain,0,0,1,,m,105,2011,22.11,20.05
-PSEU502,55853,0 Rhesus positiv,70,0,Hypertension,0,0,0,,m,104,2017,,
-PSEU503,22076,A Rhesus positiv,63,0,Lipid metabolism,0,0,1,0,m,207,2012,,
+PSEU501,37846,A Rhesus positiv,89,2,Back pain,0,0,1,0,m,105,2011,22.11,20.05
+PSEU502,55853,0 Rhesus positiv,70,0,Hypertension,0,0,0,0,m,104,2017,,
+PSEU503,22076,A Rhesus positiv,63,0,Lipid metabolism,1,0,1,0,m,207,2012,,
 PSEU504,30990,0 Rhesus positiv,26,0,Lipid metabolism,0,0,0,0,m,127,2020,42.23,26.18
-PSEU505,79536,AB Rhesus positiv,67,0,Back pain,0,0,0,,f,,2010,43.6,
+PSEU505,79536,AB Rhesus positiv,67,0,Back pain,0,,0,0,f,,2010,43.6,
 PSEU506,22408,A Rhesus positiv,62,0,Flu,0,0,0,0,f,118,2016,35.73,25.66
 PSEU507,84955,A Rhesus positiv,41,0,Hypertension,0,0,0,0,f,113,2012,32.07,25.12
 PSEU508,76662,0 Rhesus positiv,71,1,Back pain,0,0,0,0,f,177,2015,75.66,24.15
 PSEU509,86783,0 Rhesus negativ,27,0,Back pain,0,0,0,0,m,88,2016,15.93,20.57
-PSEU510,31481,0 Rhesus positiv,27,0,Hypertension,0,0,1,,m,81,2010,16.3,24.84
-PSEU511,90650,A Rhesus negativ,66,0,Hypertension,0,0,0,,f,122,2013,22.52,15.13
+PSEU510,31481,0 Rhesus positiv,27,0,Hypertension,0,0,1,0,m,81,2010,16.3,24.84
+PSEU511,90650,A Rhesus negativ,66,0,Hypertension,0,0,0,0,f,122,2013,22.52,15.13
 PSEU512,97225,A Rhesus positiv,22,0,Hypertension,0,0,0,0,m,,2015,7.76,
 PSEU513,27805,0 Rhesus positiv,25,1,Hypertension,0,0,0,0,f,,2017,96.96,
 PSEU514,70711,A Rhesus positiv,41,0,Flu,0,0,0,0,f,209,2019,95.17,21.79
@@ -518,43 +518,43 @@ PSEU516,17431,A Rhesus positiv,52,0,Hypertension,0,0,1,0,m,72,2011,15.97,30.81
 PSEU517,31132,A Rhesus positiv,36,0,Back pain,0,1,0,0,m,,2015,82.62,
 PSEU518,5069,B Rhesus positiv,50,0,Hypertension,0,0,1,0,m,64,2016,9.45,23.07
 PSEU519,5315,0 Rhesus positiv,65,0,Back pain,0,0,0,0,f,118,2012,,
-PSEU520,69761,0 Rhesus positiv,51,1,Hypertension,0,0,1,,f,136,2011,43.21,23.36
-PSEU521,45644,A Rhesus positiv,36,0,Back pain,0,0,0,0,m,110,2016,22.21,18.36
-PSEU522,32716,0 Rhesus positiv,49,0,Back pain,1,0,0,,f,,2014,23.09,
+PSEU520,69761,0 Rhesus positiv,51,1,Hypertension,1,0,1,0,f,136,2011,43.21,23.36
+PSEU521,45644,A Rhesus positiv,36,0,Back pain,1,0,0,0,m,110,2016,22.21,18.36
+PSEU522,32716,0 Rhesus positiv,49,0,Back pain,1,0,0,0,f,,2014,23.09,
 PSEU523,38808,B Rhesus positiv,36,0,Back pain,0,0,0,0,f,185,2019,,
 PSEU524,21277,A Rhesus positiv,37,3,Back pain,0,0,0,0,m,167,2018,60.71,21.77
 PSEU525,6832,A Rhesus positiv,29,0,Back pain,0,0,0,0,m,92,2013,,
 PSEU526,96431,0 Rhesus positiv,71,1,Back pain,0,1,0,0,f,176,2019,,
-PSEU527,75647,AB Rhesus positiv,45,0,Hypertension,0,0,1,,m,140,2014,50.73,25.88
+PSEU527,75647,AB Rhesus positiv,45,0,Hypertension,0,0,1,0,m,140,2014,50.73,25.88
 PSEU528,60661,B Rhesus positiv,35,0,Hypertension,0,0,0,0,m,,2012,90.64,
-PSEU529,9339,0 Rhesus positiv,47,1,Hypertension,1,0,0,,m,145,2019,39.24,18.66
+PSEU529,9339,0 Rhesus positiv,47,1,Hypertension,1,0,0,0,m,145,2019,39.24,18.66
 PSEU530,96474,B Rhesus positiv,55,4,Back pain,0,0,0,,m,,2019,91.93,
-PSEU531,98706,A Rhesus positiv,2,0,Hypertension,0,0,0,0,m,91,2010,16.08,19.42
+PSEU531,98706,A Rhesus positiv,2,0,Hypertension,1,0,0,0,m,91,2010,16.08,19.42
 PSEU532,79768,A Rhesus positiv,88,3,Hypertension,0,0,0,0,m,70,2011,13.59,27.73
 PSEU533,86562,0 Rhesus positiv,17,0,Hypertension,0,0,0,0,m,155,2019,,
-PSEU534,68484,0 Rhesus positiv,27,0,Hypertension,0,0,0,,m,139,2015,57.6,29.81
-PSEU535,31161,AB Rhesus negativ,44,1,Hypertension,0,0,0,,f,159,2011,,
+PSEU534,68484,0 Rhesus positiv,27,0,Hypertension,0,,0,0,m,139,2015,57.6,29.81
+PSEU535,31161,AB Rhesus negativ,44,1,Hypertension,0,0,0,0,f,159,2011,,
 PSEU536,80619,A Rhesus positiv,58,2,Back pain,0,0,0,0,m,53,2018,,
 PSEU537,8055,0 Rhesus positiv,50,0,Hypertension,0,0,0,0,f,59,2016,6.66,19.13
-PSEU538,14443,0 Rhesus positiv,74,0,Hypertension,0,0,0,,m,61,2016,,
+PSEU538,14443,0 Rhesus positiv,74,0,Hypertension,0,0,0,1,m,61,2016,,
 PSEU539,84499,A Rhesus positiv,91,0,Back pain,0,1,0,0,m,162,2017,89.08,33.94
 PSEU540,31096,A Rhesus positiv,58,1,Hypertension,0,0,1,0,f,121,2019,49.43,33.76
 PSEU541,13691,0 Rhesus positiv,69,2,Hypertension,0,1,0,0,f,,2011,106.66,
-PSEU542,46326,A Rhesus positiv,52,0,Hypertension,0,0,0,,m,191,2016,76.91,21.08
+PSEU542,46326,A Rhesus positiv,52,0,Hypertension,0,,0,0,m,191,2016,76.91,21.08
 PSEU543,27902,AB Rhesus negativ,30,0,Hypertension,0,1,0,0,m,144,2011,,
 PSEU544,88451,0 Rhesus positiv,3,2,Hypertension,0,0,1,0,m,177,2016,61.13,19.51
 PSEU545,60864,AB Rhesus positiv,52,0,Lipid metabolism,0,0,0,0,m,115,2016,37.94,28.69
-PSEU546,40717,A Rhesus positiv,66,0,Back pain,0,0,0,,m,193,2011,75.6,20.3
-PSEU547,33720,A Rhesus positiv,24,0,Hypertension,0,0,0,0,f,167,2010,79.55,28.52
-PSEU548,66095,B Rhesus positiv,56,1,Back pain,0,0,0,0,m,,2015,22.27,
-PSEU549,6498,0 Rhesus positiv,67,0,Hypertension,0,0,0,,f,112,2014,24.97,19.91
-PSEU550,64886,B Rhesus positiv,59,0,Hypertension,0,0,0,,m,,2012,16.73,
-PSEU551,2323,0 Rhesus positiv,20,1,Hypertension,0,1,0,0,m,217,2016,,
+PSEU546,40717,A Rhesus positiv,66,0,Back pain,0,0,0,0,m,193,2011,75.6,20.3
+PSEU547,33720,A Rhesus positiv,24,0,Hypertension,1,0,0,0,f,167,2010,79.55,28.52
+PSEU548,66095,B Rhesus positiv,56,1,Back pain,1,0,0,0,m,,2015,22.27,
+PSEU549,6498,0 Rhesus positiv,67,0,Hypertension,0,,0,0,f,112,2014,24.97,19.91
+PSEU550,64886,B Rhesus positiv,59,0,Hypertension,0,0,0,0,m,,2012,16.73,
+PSEU551,2323,0 Rhesus positiv,20,1,Hypertension,1,1,0,0,m,217,2016,,
 PSEU552,62647,0 Rhesus positiv,50,3,Back pain,0,0,0,0,f,94,2018,,
 PSEU553,92056,A Rhesus positiv,115,2,Hypertension,0,0,0,,m,105,2014,21.88,19.85
-PSEU554,30188,0 Rhesus positiv,65,0,Hypertension,0,0,0,,f,116,2017,32.78,24.36
+PSEU554,30188,0 Rhesus positiv,65,0,Hypertension,0,0,0,0,f,116,2017,32.78,24.36
 PSEU555,7586,B Rhesus negativ,78,0,Back pain,0,0,1,,f,,2017,14.84,
-PSEU556,3044,B Rhesus positiv,69,0,Back pain,0,0,0,,f,,2015,44.04,
+PSEU556,3044,B Rhesus positiv,69,0,Back pain,0,0,0,0,f,,2015,44.04,
 PSEU557,96771,A Rhesus positiv,60,0,Hypertension,0,0,0,0,m,,2010,,
 PSEU558,25347,0 Rhesus positiv,-1,0,Back pain,0,0,0,0,m,50,2012,,
 PSEU559,52010,B Rhesus positiv,19,0,Back pain,0,0,0,,m,161,2014,32.05,12.36
@@ -562,156 +562,156 @@ PSEU560,39761,0 Rhesus positiv,32,0,Flu,0,0,0,0,f,96,2012,,
 PSEU561,75721,A Rhesus positiv,15,0,Back pain,0,0,0,0,m,169,2018,38.67,13.54
 PSEU562,27191,0 Rhesus positiv,109,0,Hypertension,0,0,0,0,f,80,2020,,
 PSEU563,37760,0 Rhesus positiv,35,0,Hypertension,0,0,0,0,m,151,2020,26.85,11.78
-PSEU564,17349,A Rhesus positiv,33,0,Hypertension,0,0,0,,f,,2016,,
+PSEU564,17349,A Rhesus positiv,33,0,Hypertension,1,,0,0,f,,2016,,
 PSEU565,74288,A Rhesus positiv,24,1,Back pain,0,1,0,0,m,195,2015,50.7,13.33
 PSEU566,5119,0 Rhesus positiv,99,0,Back pain,0,0,0,0,f,174,2012,77.98,25.76
-PSEU567,416,A Rhesus negativ,43,2,Hypertension,0,0,0,,m,,2016,49.29,
+PSEU567,416,A Rhesus negativ,43,2,Hypertension,0,0,0,0,m,,2016,49.29,
 PSEU568,12957,0 Rhesus positiv,63,0,Hypertension,0,0,0,0,m,202,2013,,
 PSEU569,4310,A Rhesus positiv,32,0,Hypertension,0,0,0,0,m,157,2019,,
 PSEU570,5500,A Rhesus positiv,87,1,Back pain,0,0,0,0,f,206,2019,76.03,17.92
-PSEU571,56919,0 Rhesus positiv,43,0,Back pain,0,0,1,,m,68,2011,10.68,23.1
-PSEU572,20601,0 Rhesus positiv,64,2,Lipid metabolism,0,0,0,,m,159,2012,45.07,17.83
+PSEU571,56919,0 Rhesus positiv,43,0,Back pain,0,0,1,0,m,68,2011,10.68,23.1
+PSEU572,20601,0 Rhesus positiv,64,2,Lipid metabolism,0,,0,0,m,159,2012,45.07,17.83
 PSEU573,74246,A Rhesus positiv,46,0,Hypertension,0,0,0,0,m,109,2015,21.66,18.23
 PSEU574,31544,0 Rhesus positiv,63,0,Hypertension,0,0,0,0,f,148,2017,63.8,29.13
 PSEU575,65218,0 Rhesus positiv,54,0,Flu,0,0,0,0,m,102,2011,17.98,17.28
 PSEU576,79234,AB Rhesus negativ,65,0,Hypertension,0,0,0,,f,193,2011,91.6,24.59
-PSEU577,6753,0 Rhesus positiv,75,1,Hypertension,0,0,0,0,m,65,2019,,
+PSEU577,6753,0 Rhesus positiv,75,1,Hypertension,1,0,0,0,m,65,2019,,
 PSEU578,16751,A Rhesus positiv,46,0,Back pain,0,0,0,,f,120,2011,24.69,17.15
-PSEU579,90530,A Rhesus positiv,70,1,Hypertension,0,0,1,,m,110,2018,,
+PSEU579,90530,A Rhesus positiv,70,1,Hypertension,0,0,1,0,m,110,2018,,
 PSEU580,62268,0 Rhesus positiv,63,1,Hypertension,0,0,0,0,m,,2014,,
 PSEU581,65505,0 Rhesus positiv,40,0,Hypertension,0,0,0,0,f,,2020,85.78,
-PSEU582,3587,0 Rhesus positiv,58,0,Hypertension,0,1,0,,m,127,2016,,
-PSEU583,60558,0 Rhesus positiv,24,0,Back pain,0,0,0,,m,78,2011,10.42,17.13
-PSEU584,68394,A Rhesus positiv,50,0,Back pain,0,0,1,,m,136,2015,40.83,22.08
-PSEU585,55076,A Rhesus positiv,40,0,Back pain,0,0,0,,f,183,2013,67.58,20.18
+PSEU582,3587,0 Rhesus positiv,58,0,Hypertension,1,1,0,0,m,127,2016,,
+PSEU583,60558,0 Rhesus positiv,24,0,Back pain,0,0,0,0,m,78,2011,10.42,17.13
+PSEU584,68394,A Rhesus positiv,50,0,Back pain,0,,1,0,m,136,2015,40.83,22.08
+PSEU585,55076,A Rhesus positiv,40,0,Back pain,0,0,0,0,f,183,2013,67.58,20.18
 PSEU586,44996,A Rhesus positiv,57,0,Hypertension,0,0,0,0,f,174,2019,77.89,25.73
-PSEU587,44418,0 Rhesus positiv,77,0,Hypertension,0,0,0,0,f,68,2010,10.15,21.95
-PSEU588,35257,A Rhesus negativ,22,0,Hypertension,0,0,0,,f,,2019,18.84,
-PSEU589,47951,A Rhesus positiv,40,0,Hypertension,0,0,0,,m,,2015,39.01,
+PSEU587,44418,0 Rhesus positiv,77,0,Hypertension,1,0,0,0,f,68,2010,10.15,21.95
+PSEU588,35257,A Rhesus negativ,22,0,Hypertension,1,0,0,0,f,,2019,18.84,
+PSEU589,47951,A Rhesus positiv,40,0,Hypertension,1,0,0,0,m,,2015,39.01,
 PSEU590,60380,A Rhesus positiv,72,0,Hypertension,0,0,1,,m,123,2018,32.41,21.42
 PSEU591,51393,AB Rhesus positiv,51,0,Hypertension,0,0,0,0,f,80,2019,,
-PSEU592,2524,AB Rhesus positiv,36,0,Back pain,0,0,1,,m,69,2011,11.17,23.46
-PSEU593,30484,AB Rhesus positiv,62,0,Hypertension,1,0,0,,f,67,2018,8.48,18.89
-PSEU594,45546,0 Rhesus negativ,8,0,Hypertension,0,0,0,,f,114,2015,,
-PSEU595,74317,B Rhesus positiv,7,0,Hypertension,0,0,0,,f,164,2014,55.44,20.61
+PSEU592,2524,AB Rhesus positiv,36,0,Back pain,1,0,1,0,m,69,2011,11.17,23.46
+PSEU593,30484,AB Rhesus positiv,62,0,Hypertension,1,,0,0,f,67,2018,8.48,18.89
+PSEU594,45546,0 Rhesus negativ,8,0,Hypertension,0,,0,0,f,114,2015,,
+PSEU595,74317,B Rhesus positiv,7,0,Hypertension,0,,0,0,f,164,2014,55.44,20.61
 PSEU596,38544,A Rhesus positiv,49,3,Lipid metabolism,0,0,0,0,m,136,2015,54.18,29.29
-PSEU597,48812,AB Rhesus positiv,61,1,Hypertension,0,0,0,,m,198,2013,,
+PSEU597,48812,AB Rhesus positiv,61,1,Hypertension,0,0,0,0,m,198,2013,,
 PSEU598,68643,A Rhesus negativ,29,0,Hypertension,0,0,0,,m,,2014,,
 PSEU599,16338,A Rhesus positiv,50,0,Back pain,0,0,0,0,f,,2016,122.74,
-PSEU600,43083,A Rhesus positiv,31,0,Hypertension,0,0,0,,f,,2016,54.4,
-PSEU601,72353,A Rhesus positiv,33,0,Back pain,0,0,0,0,m,78,2020,,
+PSEU600,43083,A Rhesus positiv,31,0,Hypertension,1,0,0,0,f,,2016,54.4,
+PSEU601,72353,A Rhesus positiv,33,0,Back pain,1,0,0,0,m,78,2020,,
 PSEU602,16637,A Rhesus positiv,57,2,Hypertension,0,0,1,0,f,192,2011,80.15,21.74
 PSEU603,54796,0 Rhesus negativ,72,0,Flu,0,0,0,0,f,180,2015,84.22,25.99
 PSEU604,3170,0 Rhesus positiv,34,0,Back pain,0,0,0,0,f,,2011,,
 PSEU605,73095,A Rhesus positiv,72,0,Hypertension,0,0,1,0,m,,2014,103.96,
 PSEU606,71476,A Rhesus positiv,51,0,Hypertension,0,0,0,0,f,64,2019,10.04,24.51
-PSEU607,54167,A Rhesus negativ,59,0,Hypertension,0,0,0,,m,61,2015,9.68,26.01
+PSEU607,54167,A Rhesus negativ,59,0,Hypertension,0,0,0,0,m,61,2015,9.68,26.01
 PSEU608,98010,A Rhesus positiv,42,2,Back pain,0,0,0,0,m,,2015,75.64,
-PSEU609,62340,A Rhesus positiv,31,0,Back pain,0,0,0,,f,,2017,42.6,
+PSEU609,62340,A Rhesus positiv,31,0,Back pain,0,0,0,0,f,,2017,42.6,
 PSEU610,13314,A Rhesus positiv,45,0,Hypertension,0,0,0,0,m,124,2018,34.65,22.54
 PSEU611,28469,0 Rhesus positiv,43,0,Hypertension,1,0,1,0,f,176,2017,61.94,20
-PSEU612,89555,0 Rhesus positiv,79,0,Hypertension,0,0,0,,m,88,2019,18.08,23.35
-PSEU613,39684,AB Rhesus positiv,49,0,Hypertension,0,0,0,,m,145,2015,50.53,24.03
-PSEU614,83977,0 Rhesus negativ,21,0,Hypertension,0,0,0,,m,180,2010,47.67,14.71
+PSEU612,89555,0 Rhesus positiv,79,0,Hypertension,0,0,0,0,m,88,2019,18.08,23.35
+PSEU613,39684,AB Rhesus positiv,49,0,Hypertension,0,0,0,0,m,145,2015,50.53,24.03
+PSEU614,83977,0 Rhesus negativ,21,0,Hypertension,1,0,0,0,m,180,2010,47.67,14.71
 PSEU615,84815,A Rhesus positiv,60,1,Hypertension,0,0,0,0,m,,2012,7.04,
-PSEU616,72601,A Rhesus positiv,70,0,Hypertension,0,0,0,,m,96,2018,24.45,26.53
+PSEU616,72601,A Rhesus positiv,70,0,Hypertension,0,0,0,0,m,96,2018,24.45,26.53
 PSEU617,79727,A Rhesus positiv,52,0,Back pain,0,1,0,0,f,165,2019,56.52,20.76
-PSEU618,92896,A Rhesus positiv,90,0,Lipid metabolism,0,0,0,,m,129,2011,31.77,19.09
+PSEU618,92896,A Rhesus positiv,90,0,Lipid metabolism,0,0,0,0,m,129,2011,31.77,19.09
 PSEU619,49190,A Rhesus positiv,47,2,Flu,0,0,0,0,m,65,2016,7.32,17.33
 PSEU620,58440,0 Rhesus positiv,63,1,Back pain,0,0,0,0,m,142,2010,,
-PSEU621,43330,0 Rhesus positiv,19,1,Back pain,0,0,1,,f,,2014,27.34,
-PSEU622,87162,A Rhesus positiv,74,0,Hypertension,0,1,0,,f,132,2012,32.34,18.56
+PSEU621,43330,0 Rhesus positiv,19,1,Back pain,0,0,1,0,f,,2014,27.34,
+PSEU622,87162,A Rhesus positiv,74,0,Hypertension,0,1,0,0,f,132,2012,32.34,18.56
 PSEU623,51115,0 Rhesus positiv,66,0,Hypertension,0,0,0,0,m,,2017,7.59,
 PSEU624,91494,A Rhesus positiv,39,2,Hypertension,0,0,0,0,f,173,2014,71.15,23.77
-PSEU625,55394,A Rhesus positiv,74,0,Hypertension,0,1,0,,f,,2016,12.56,
-PSEU626,22307,0 Rhesus positiv,80,0,Back pain,0,0,0,,m,149,2010,46.62,21
-PSEU627,43574,A Rhesus negativ,44,0,Back pain,0,0,0,,f,166,2010,,
-PSEU628,62644,A Rhesus positiv,36,0,Back pain,0,0,0,,f,102,2010,15.25,14.66
-PSEU629,87288,0 Rhesus positiv,39,0,Back pain,0,0,0,,m,214,2016,117.88,25.74
+PSEU625,55394,A Rhesus positiv,74,0,Hypertension,0,1,0,0,f,,2016,12.56,
+PSEU626,22307,0 Rhesus positiv,80,0,Back pain,0,0,0,0,m,149,2010,46.62,21
+PSEU627,43574,A Rhesus negativ,44,0,Back pain,1,0,0,0,f,166,2010,,
+PSEU628,62644,A Rhesus positiv,36,0,Back pain,0,0,0,0,f,102,2010,15.25,14.66
+PSEU629,87288,0 Rhesus positiv,39,0,Back pain,0,0,0,0,m,214,2016,117.88,25.74
 PSEU630,61353,0 Rhesus positiv,73,0,Back pain,0,0,0,0,m,83,2011,12.23,17.75
 PSEU631,64059,A Rhesus negativ,65,0,Flu,0,0,0,0,m,93,2018,17.38,20.09
 PSEU632,66859,A Rhesus positiv,32,0,Back pain,0,0,0,0,m,88,2014,,
-PSEU633,61231,0 Rhesus positiv,51,0,Hypertension,0,0,0,,f,186,2019,62.76,18.14
+PSEU633,61231,0 Rhesus positiv,51,0,Hypertension,0,0,0,0,f,186,2019,62.76,18.14
 PSEU634,99081,0 Rhesus positiv,101,0,Back pain,0,0,0,0,f,,2013,41.24,
-PSEU635,52603,A Rhesus positiv,82,2,Flu,0,0,0,,f,,2015,,
-PSEU636,78757,A Rhesus positiv,66,3,Hypertension,0,0,0,,m,98,2018,,
+PSEU635,52603,A Rhesus positiv,82,2,Flu,0,0,0,0,f,,2015,,
+PSEU636,78757,A Rhesus positiv,66,3,Hypertension,0,,0,0,m,98,2018,,
 PSEU637,28322,B Rhesus positiv,40,0,Hypertension,0,1,0,0,m,102,2019,,
 PSEU638,5107,0 Rhesus negativ,60,1,Hypertension,0,0,0,1,m,,2013,8.16,
-PSEU639,47433,A Rhesus positiv,70,1,Flu,0,0,1,,f,191,2019,69.79,19.13
+PSEU639,47433,A Rhesus positiv,70,1,Flu,0,0,1,0,f,191,2019,69.79,19.13
 PSEU640,99048,0 Rhesus positiv,46,0,Lipid metabolism,0,0,1,0,m,94,2015,23.23,26.29
 PSEU641,88291,A Rhesus positiv,36,0,Hypertension,0,0,0,0,f,198,2012,82.39,21.02
 PSEU642,66420,0 Rhesus negativ,38,0,Hypertension,0,1,0,0,f,149,2010,41.32,18.61
-PSEU643,10317,0 Rhesus positiv,38,0,Back pain,0,0,0,0,m,220,2019,75.99,15.7
-PSEU644,57594,0 Rhesus positiv,77,1,Flu,0,0,0,,m,164,2018,36,13.38
-PSEU645,46015,A Rhesus positiv,68,0,Back pain,0,0,0,,f,122,2015,33.66,22.61
-PSEU646,33609,0 Rhesus positiv,42,0,Hypertension,0,0,0,,m,208,2010,,
+PSEU643,10317,0 Rhesus positiv,38,0,Back pain,1,0,0,0,m,220,2019,75.99,15.7
+PSEU644,57594,0 Rhesus positiv,77,1,Flu,0,0,0,0,m,164,2018,36,13.38
+PSEU645,46015,A Rhesus positiv,68,0,Back pain,1,0,0,0,f,122,2015,33.66,22.61
+PSEU646,33609,0 Rhesus positiv,42,0,Hypertension,0,,0,0,m,208,2010,,
 PSEU647,85541,0 Rhesus positiv,23,0,Flu,0,0,0,0,f,218,2010,90.09,18.96
 PSEU648,54397,0 Rhesus negativ,52,1,Hypertension,0,0,0,,f,74,2019,11.54,21.07
-PSEU649,86807,0 Rhesus positiv,80,0,Back pain,0,0,0,,f,146,2018,48.38,22.7
-PSEU650,38265,A Rhesus positiv,30,1,Hypertension,0,1,0,,m,,2018,12.84,
+PSEU649,86807,0 Rhesus positiv,80,0,Back pain,0,0,0,0,f,146,2018,48.38,22.7
+PSEU650,38265,A Rhesus positiv,30,1,Hypertension,0,1,0,0,m,,2018,12.84,
 PSEU651,56318,0 Rhesus positiv,48,0,Back pain,0,0,0,0,m,170,2017,95.07,32.9
 PSEU652,12338,0 Rhesus negativ,42,2,Hypertension,0,0,0,,f,98,2012,22.49,23.42
-PSEU653,27262,B Rhesus negativ,20,0,Back pain,0,0,0,0,m,197,2020,113.96,29.36
-PSEU654,28778,A Rhesus positiv,71,3,Hypertension,0,1,0,,f,191,2019,,
-PSEU655,18653,B Rhesus positiv,49,0,Back pain,0,0,1,0,m,175,2017,58.88,19.23
-PSEU656,72853,0 Rhesus positiv,2,0,Hypertension,0,0,0,,m,149,2018,34.1,15.36
-PSEU657,83134,B Rhesus positiv,6,0,Hypertension,0,0,0,,m,,2012,81.86,
+PSEU653,27262,B Rhesus negativ,20,0,Back pain,1,0,0,0,m,197,2020,113.96,29.36
+PSEU654,28778,A Rhesus positiv,71,3,Hypertension,0,,0,0,f,191,2019,,
+PSEU655,18653,B Rhesus positiv,49,0,Back pain,1,0,1,0,m,175,2017,58.88,19.23
+PSEU656,72853,0 Rhesus positiv,2,0,Hypertension,0,,0,0,m,149,2018,34.1,15.36
+PSEU657,83134,B Rhesus positiv,6,0,Hypertension,1,,0,0,m,,2012,81.86,
 PSEU658,46714,0 Rhesus positiv,36,1,Hypertension,0,0,0,0,m,175,2017,76.45,24.96
-PSEU659,61956,AB Rhesus negativ,20,3,Hypertension,0,0,0,,m,68,2012,9.93,21.47
+PSEU659,61956,AB Rhesus negativ,20,3,Hypertension,1,0,0,0,m,68,2012,9.93,21.47
 PSEU660,96472,0 Rhesus negativ,25,0,Hypertension,0,0,1,0,m,145,2015,48.19,22.92
-PSEU661,29210,0 Rhesus positiv,71,0,Flu,0,0,0,,m,,2011,19.07,
-PSEU662,68167,A Rhesus positiv,43,0,Hypertension,0,0,0,0,m,132,2010,43.29,24.85
+PSEU661,29210,0 Rhesus positiv,71,0,Flu,0,,0,0,m,,2011,19.07,
+PSEU662,68167,A Rhesus positiv,43,0,Hypertension,1,0,0,0,m,132,2010,43.29,24.85
 PSEU663,9583,AB Rhesus positiv,54,3,Hypertension,0,0,0,,m,71,2020,13.15,26.09
-PSEU664,60025,0 Rhesus positiv,44,1,Hypertension,0,0,0,,f,88,2012,21.08,27.22
+PSEU664,60025,0 Rhesus positiv,44,1,Hypertension,0,,0,0,f,88,2012,21.08,27.22
 PSEU665,52836,0 Rhesus positiv,25,1,Hypertension,0,0,0,0,m,146,2020,45.05,21.13
-PSEU666,89037,A Rhesus positiv,60,1,Hypertension,0,0,0,,m,103,2012,,
-PSEU667,39027,0 Rhesus positiv,43,0,Hypertension,0,0,0,,m,211,2011,121.05,27.19
-PSEU668,7361,0 Rhesus positiv,45,2,Hypertension,0,0,0,0,m,71,2012,8.63,17.12
-PSEU669,8247,0 Rhesus negativ,50,0,Hypertension,0,1,0,0,m,53,2010,7.16,25.49
-PSEU670,23556,0 Rhesus positiv,59,0,Hypertension,0,0,1,,m,112,2015,13.66,10.89
-PSEU671,14009,A Rhesus positiv,39,1,Hypertension,0,0,0,,f,,2012,59.76,
+PSEU666,89037,A Rhesus positiv,60,1,Hypertension,0,0,0,0,m,103,2012,,
+PSEU667,39027,0 Rhesus positiv,43,0,Hypertension,0,0,0,0,m,211,2011,121.05,27.19
+PSEU668,7361,0 Rhesus positiv,45,2,Hypertension,1,0,0,0,m,71,2012,8.63,17.12
+PSEU669,8247,0 Rhesus negativ,50,0,Hypertension,1,1,0,0,m,53,2010,7.16,25.49
+PSEU670,23556,0 Rhesus positiv,59,0,Hypertension,0,0,1,0,m,112,2015,13.66,10.89
+PSEU671,14009,A Rhesus positiv,39,1,Hypertension,0,0,0,0,f,,2012,59.76,
 PSEU672,78037,A Rhesus negativ,67,2,Hypertension,0,0,0,1,m,,2018,13.76,
-PSEU673,95145,B Rhesus negativ,46,0,Hypertension,0,0,0,,m,,2014,82.48,
+PSEU673,95145,B Rhesus negativ,46,0,Hypertension,0,0,0,0,m,,2014,82.48,
 PSEU674,90788,0 Rhesus positiv,7,1,Hypertension,1,0,0,,f,,2014,,
-PSEU675,23712,0 Rhesus positiv,43,3,Hypertension,0,0,0,,f,158,2018,,
-PSEU676,42315,A Rhesus positiv,46,0,Back pain,0,0,1,,f,72,2012,9.38,18.09
-PSEU677,42467,A Rhesus positiv,73,0,Hypertension,0,0,1,,f,185,2010,74.98,21.91
-PSEU678,69002,B Rhesus positiv,41,0,Hypertension,0,0,1,,m,,2014,17.21,
-PSEU679,92249,A Rhesus negativ,44,0,Hypertension,0,0,0,,f,,2015,67.97,
+PSEU675,23712,0 Rhesus positiv,43,3,Hypertension,0,0,0,0,f,158,2018,,
+PSEU676,42315,A Rhesus positiv,46,0,Back pain,0,0,1,0,f,72,2012,9.38,18.09
+PSEU677,42467,A Rhesus positiv,73,0,Hypertension,1,0,1,0,f,185,2010,74.98,21.91
+PSEU678,69002,B Rhesus positiv,41,0,Hypertension,0,0,1,0,m,,2014,17.21,
+PSEU679,92249,A Rhesus negativ,44,0,Hypertension,0,,0,0,f,,2015,67.97,
 PSEU680,23727,A Rhesus positiv,66,0,Back pain,0,0,0,,m,210,2012,112.91,25.6
-PSEU681,99051,0 Rhesus positiv,44,0,Hypertension,0,0,0,,f,118,2016,28.65,20.58
-PSEU682,24211,A Rhesus negativ,71,0,Back pain,0,0,0,,f,209,2017,123.95,28.38
+PSEU681,99051,0 Rhesus positiv,44,0,Hypertension,0,,0,0,f,118,2016,28.65,20.58
+PSEU682,24211,A Rhesus negativ,71,0,Back pain,0,,0,0,f,209,2017,123.95,28.38
 PSEU683,61883,B Rhesus positiv,24,0,Hypertension,0,0,0,0,m,50,2015,,
-PSEU684,79099,B Rhesus positiv,39,0,Hypertension,0,0,0,,f,122,2017,35.1,23.58
-PSEU685,36201,A Rhesus negativ,25,0,Hypertension,0,0,0,,f,210,2011,99.85,22.64
+PSEU684,79099,B Rhesus positiv,39,0,Hypertension,0,0,0,0,f,122,2017,35.1,23.58
+PSEU685,36201,A Rhesus negativ,25,0,Hypertension,0,,0,,f,210,2011,99.85,22.64
 PSEU686,46463,A Rhesus positiv,46,0,Hypertension,0,0,0,0,m,,2013,11.48,
 PSEU687,30581,B Rhesus positiv,43,0,Hypertension,0,1,0,,f,111,2010,,
-PSEU688,66481,0 Rhesus positiv,34,0,Hypertension,0,0,0,,m,93,2012,,
-PSEU689,41068,A Rhesus positiv,67,0,Hypertension,0,0,0,,f,189,2010,,
+PSEU688,66481,0 Rhesus positiv,34,0,Hypertension,1,0,0,0,m,93,2012,,
+PSEU689,41068,A Rhesus positiv,67,0,Hypertension,0,0,0,0,f,189,2010,,
 PSEU690,24771,A Rhesus positiv,47,2,Back pain,0,0,0,0,m,135,2011,45.71,25.08
-PSEU691,21128,0 Rhesus positiv,49,0,Back pain,0,0,0,,m,130,2011,40.81,24.15
+PSEU691,21128,0 Rhesus positiv,49,0,Back pain,0,,0,0,m,130,2011,40.81,24.15
 PSEU692,35274,0 Rhesus positiv,65,0,Back pain,0,0,0,0,f,149,2017,58.91,26.53
 PSEU693,18772,B Rhesus positiv,86,3,Hypertension,0,0,0,0,f,180,2012,,
-PSEU694,70426,0 Rhesus negativ,72,0,Hypertension,0,0,0,,f,83,2016,16.53,23.99
+PSEU694,70426,0 Rhesus negativ,72,0,Hypertension,0,0,0,0,f,83,2016,16.53,23.99
 PSEU695,33213,0 Rhesus positiv,62,2,Flu,0,0,0,0,m,159,2015,68.6,27.14
 PSEU696,67248,A Rhesus positiv,47,0,Back pain,0,0,0,0,m,,2018,,
-PSEU697,29275,A Rhesus negativ,65,2,Hypertension,0,0,0,,f,100,2014,28.32,28.32
+PSEU697,29275,A Rhesus negativ,65,2,Hypertension,0,0,0,0,f,100,2014,28.32,28.32
 PSEU698,62808,B Rhesus negativ,38,4,Hypertension,0,0,0,0,f,,2019,121.71,
-PSEU699,32008,A Rhesus positiv,34,0,Hypertension,0,0,0,,f,128,2016,39.8,24.29
+PSEU699,32008,A Rhesus positiv,34,0,Hypertension,0,,0,0,f,128,2016,39.8,24.29
 PSEU700,71900,A Rhesus negativ,44,0,Back pain,0,0,0,0,m,,2012,47.97,
-PSEU701,85247,0 Rhesus positiv,47,0,Hypertension,0,0,0,,m,64,2014,,
-PSEU702,15391,0 Rhesus positiv,40,0,Back pain,0,0,0,,m,142,2014,41.19,20.43
+PSEU701,85247,0 Rhesus positiv,47,0,Hypertension,0,0,0,0,m,64,2014,,
+PSEU702,15391,0 Rhesus positiv,40,0,Back pain,0,,0,0,m,142,2014,41.19,20.43
 PSEU703,70488,0 Rhesus negativ,35,0,Back pain,0,0,0,0,m,197,2014,47.89,12.34
-PSEU704,24055,B Rhesus negativ,50,0,Hypertension,0,0,0,0,f,121,2017,,
+PSEU704,24055,B Rhesus negativ,50,0,Hypertension,1,0,0,0,f,121,2017,,
 PSEU705,58969,A Rhesus positiv,76,0,Back pain,0,0,0,,m,194,2017,66.81,17.75
 PSEU706,20651,0 Rhesus positiv,82,0,Hypertension,0,0,0,0,m,111,2013,,
 PSEU707,64492,0 Rhesus positiv,74,1,Hypertension,0,0,1,0,f,111,2014,17.39,14.11
-PSEU708,69399,AB Rhesus positiv,38,0,Hypertension,0,0,0,,f,,2020,78.02,
-PSEU709,73879,A Rhesus positiv,50,1,Hypertension,0,0,0,,m,196,2011,,
-PSEU710,35713,A Rhesus positiv,23,0,Back pain,0,0,1,,m,65,2018,9.12,21.59
+PSEU708,69399,AB Rhesus positiv,38,0,Hypertension,0,,0,,f,,2020,78.02,
+PSEU709,73879,A Rhesus positiv,50,1,Hypertension,0,0,0,0,m,196,2011,,
+PSEU710,35713,A Rhesus positiv,23,0,Back pain,0,0,1,0,m,65,2018,9.12,21.59
 PSEU711,55342,0 Rhesus negativ,128,0,Hypertension,0,0,0,0,m,69,2020,10.6,22.26
-PSEU712,14150,0 Rhesus positiv,97,0,Hypertension,0,0,0,,f,,2019,,
-PSEU713,83161,0 Rhesus positiv,31,1,Hypertension,0,1,0,,f,185,2015,,
+PSEU712,14150,0 Rhesus positiv,97,0,Hypertension,0,0,0,0,f,,2019,,
+PSEU713,83161,0 Rhesus positiv,31,1,Hypertension,1,1,0,0,f,185,2015,,
 PSEU714,31697,A Rhesus positiv,34,0,Hypertension,0,0,1,0,m,84,2011,20.63,29.24
 PSEU715,90107,0 Rhesus negativ,45,1,Lipid metabolism,0,0,0,0,f,81,2019,21.96,33.47
 PSEU716,53053,A Rhesus positiv,58,0,Hypertension,0,0,0,,m,65,2017,12.04,28.5
@@ -719,155 +719,155 @@ PSEU717,65954,0 Rhesus positiv,30,0,Hypertension,0,0,0,0,m,168,2013,,
 PSEU718,40970,0 Rhesus negativ,43,0,Hypertension,0,0,0,,m,145,2010,53.24,25.32
 PSEU719,25759,A Rhesus positiv,36,0,Hypertension,0,0,0,0,m,,2016,54.94,
 PSEU720,87559,A Rhesus negativ,50,0,Hypertension,0,0,0,0,m,,2015,13.58,
-PSEU721,51797,A Rhesus positiv,66,0,Hypertension,0,0,0,,m,,2018,38.22,
-PSEU722,61130,0 Rhesus positiv,42,0,Back pain,0,1,0,,m,180,2010,63.52,19.6
-PSEU723,13901,A Rhesus positiv,53,0,Flu,0,0,0,0,m,85,2017,19.81,27.42
+PSEU721,51797,A Rhesus positiv,66,0,Hypertension,0,0,0,0,m,,2018,38.22,
+PSEU722,61130,0 Rhesus positiv,42,0,Back pain,0,1,0,0,m,180,2010,63.52,19.6
+PSEU723,13901,A Rhesus positiv,53,0,Flu,1,0,0,0,m,85,2017,19.81,27.42
 PSEU724,1306,0 Rhesus positiv,68,0,Hypertension,0,0,0,,m,,2017,54.18,
-PSEU725,12388,A Rhesus positiv,69,0,Back pain,0,1,1,0,m,153,2017,51.92,22.18
-PSEU726,37357,0 Rhesus positiv,39,2,Hypertension,0,0,0,,f,99,2015,,
+PSEU725,12388,A Rhesus positiv,69,0,Back pain,1,1,1,0,m,153,2017,51.92,22.18
+PSEU726,37357,0 Rhesus positiv,39,2,Hypertension,1,0,0,,f,99,2015,,
 PSEU727,81668,A Rhesus negativ,93,1,Back pain,1,0,0,0,m,113,2018,22.23,17.41
-PSEU728,32184,0 Rhesus positiv,46,0,Back pain,0,0,0,,f,206,2011,112,26.39
-PSEU729,37509,A Rhesus positiv,66,0,Hypertension,0,0,0,,f,160,2014,58.02,22.66
+PSEU728,32184,0 Rhesus positiv,46,0,Back pain,0,,0,0,f,206,2011,112,26.39
+PSEU729,37509,A Rhesus positiv,66,0,Hypertension,0,0,0,0,f,160,2014,58.02,22.66
 PSEU730,51624,A Rhesus positiv,68,0,Hypertension,1,0,0,,f,105,2010,18.78,17.03
 PSEU731,6468,0 Rhesus positiv,57,0,Back pain,0,0,0,0,f,59,2012,,
-PSEU732,88142,0 Rhesus positiv,41,0,Hypertension,0,0,0,,f,179,2014,67.27,20.99
-PSEU733,26917,B Rhesus positiv,75,0,Back pain,0,0,1,,f,129,2020,36.31,21.82
-PSEU734,38720,AB Rhesus positiv,31,0,Back pain,0,1,0,,f,184,2010,92.95,27.45
-PSEU735,51874,A Rhesus negativ,83,0,Back pain,0,1,0,0,f,91,2019,18.01,21.75
-PSEU736,34842,0 Rhesus negativ,45,0,Back pain,0,0,0,,m,156,2014,61.87,25.42
-PSEU737,44017,B Rhesus positiv,66,0,Back pain,0,0,0,,f,65,2019,9.78,23.15
-PSEU738,39740,A Rhesus negativ,49,0,Hypertension,0,0,1,,f,61,2010,7.6,20.42
-PSEU739,25311,A Rhesus positiv,45,0,Hypertension,0,0,0,0,f,124,2019,30.69,19.96
-PSEU740,10292,0 Rhesus positiv,60,0,Hypertension,0,1,0,,f,93,2012,19.31,22.33
-PSEU741,76661,0 Rhesus positiv,35,2,Hypertension,0,0,0,0,m,95,2015,14.39,15.94
-PSEU742,63301,0 Rhesus positiv,46,0,Hypertension,0,0,0,,m,172,2013,79.46,26.86
-PSEU743,76514,A Rhesus positiv,27,0,Hypertension,0,0,0,,m,169,2017,64.13,22.45
-PSEU744,92487,A Rhesus positiv,37,0,Hypertension,0,0,0,,m,56,2016,7.63,24.33
-PSEU745,81733,0 Rhesus positiv,60,1,Back pain,0,0,0,,m,80,2012,15.22,23.78
+PSEU732,88142,0 Rhesus positiv,41,0,Hypertension,0,0,0,0,f,179,2014,67.27,20.99
+PSEU733,26917,B Rhesus positiv,75,0,Back pain,1,0,1,0,f,129,2020,36.31,21.82
+PSEU734,38720,AB Rhesus positiv,31,0,Back pain,0,1,0,0,f,184,2010,92.95,27.45
+PSEU735,51874,A Rhesus negativ,83,0,Back pain,1,1,0,0,f,91,2019,18.01,21.75
+PSEU736,34842,0 Rhesus negativ,45,0,Back pain,0,0,0,0,m,156,2014,61.87,25.42
+PSEU737,44017,B Rhesus positiv,66,0,Back pain,0,0,0,0,f,65,2019,9.78,23.15
+PSEU738,39740,A Rhesus negativ,49,0,Hypertension,0,0,1,0,f,61,2010,7.6,20.42
+PSEU739,25311,A Rhesus positiv,45,0,Hypertension,1,0,0,0,f,124,2019,30.69,19.96
+PSEU740,10292,0 Rhesus positiv,60,0,Hypertension,0,,0,0,f,93,2012,19.31,22.33
+PSEU741,76661,0 Rhesus positiv,35,2,Hypertension,1,0,0,0,m,95,2015,14.39,15.94
+PSEU742,63301,0 Rhesus positiv,46,0,Hypertension,1,0,0,0,m,172,2013,79.46,26.86
+PSEU743,76514,A Rhesus positiv,27,0,Hypertension,0,,0,0,m,169,2017,64.13,22.45
+PSEU744,92487,A Rhesus positiv,37,0,Hypertension,0,0,0,0,m,56,2016,7.63,24.33
+PSEU745,81733,0 Rhesus positiv,60,1,Back pain,0,0,0,0,m,80,2012,15.22,23.78
 PSEU746,87211,0 Rhesus positiv,58,4,Flu,0,0,1,0,f,96,2015,21.41,23.23
 PSEU747,87904,0 Rhesus positiv,88,0,Hypertension,0,0,0,0,m,108,2012,28.3,24.26
 PSEU748,65627,0 Rhesus positiv,51,0,Hypertension,0,1,1,0,m,166,2017,64.68,23.47
-PSEU749,84197,0 Rhesus positiv,45,3,Back pain,1,0,0,,m,209,2020,121.35,27.78
-PSEU750,9943,0 Rhesus positiv,69,2,Back pain,0,0,0,,f,217,2020,98.35,20.89
+PSEU749,84197,0 Rhesus positiv,45,3,Back pain,1,,0,0,m,209,2020,121.35,27.78
+PSEU750,9943,0 Rhesus positiv,69,2,Back pain,1,0,0,0,f,217,2020,98.35,20.89
 PSEU751,54940,A Rhesus positiv,8,0,Hypertension,0,0,0,1,f,,2016,48.52,
-PSEU752,95683,B Rhesus positiv,37,0,Hypertension,0,0,0,,f,207,2013,110.56,25.8
-PSEU753,50361,0 Rhesus positiv,53,0,Back pain,0,0,0,,m,213,2012,,
+PSEU752,95683,B Rhesus positiv,37,0,Hypertension,0,,0,0,f,207,2013,110.56,25.8
+PSEU753,50361,0 Rhesus positiv,53,0,Back pain,0,0,0,0,m,213,2012,,
 PSEU754,40300,0 Rhesus positiv,89,0,Back pain,0,0,0,0,m,115,2012,,
-PSEU755,68242,0 Rhesus positiv,33,0,Flu,0,0,0,,m,166,2017,41.05,14.9
-PSEU756,8306,0 Rhesus positiv,40,0,Hypertension,0,0,0,0,f,,2017,53.71,
+PSEU755,68242,0 Rhesus positiv,33,0,Flu,0,0,0,0,m,166,2017,41.05,14.9
+PSEU756,8306,0 Rhesus positiv,40,0,Hypertension,1,0,0,0,f,,2017,53.71,
 PSEU757,79767,B Rhesus positiv,48,0,Flu,0,0,1,0,f,185,2014,62.39,18.23
 PSEU758,6228,B Rhesus positiv,57,0,Hypertension,0,0,0,0,m,66,2013,14.34,32.92
 PSEU759,57263,A Rhesus positiv,39,0,Hypertension,0,0,0,0,m,,2011,,
-PSEU760,98732,A Rhesus positiv,45,0,Back pain,0,0,0,,f,190,2010,65.91,18.26
-PSEU761,20744,0 Rhesus positiv,47,0,Hypertension,0,0,1,,m,102,2012,20.04,19.26
-PSEU762,48550,0 Rhesus positiv,39,0,Hypertension,0,0,0,,m,93,2015,,
+PSEU760,98732,A Rhesus positiv,45,0,Back pain,0,0,0,0,f,190,2010,65.91,18.26
+PSEU761,20744,0 Rhesus positiv,47,0,Hypertension,0,0,1,0,m,102,2012,20.04,19.26
+PSEU762,48550,0 Rhesus positiv,39,0,Hypertension,0,0,0,0,m,93,2015,,
 PSEU763,37969,A Rhesus negativ,40,0,Back pain,0,1,0,0,m,148,2016,46.47,21.22
-PSEU764,78096,B Rhesus positiv,-6,2,Back pain,0,0,1,,f,127,2013,33.84,20.98
-PSEU765,74261,A Rhesus positiv,36,0,Back pain,0,0,0,,m,169,2017,77.26,27.05
+PSEU764,78096,B Rhesus positiv,-6,2,Back pain,0,0,1,0,f,127,2013,33.84,20.98
+PSEU765,74261,A Rhesus positiv,36,0,Back pain,0,0,0,0,m,169,2017,77.26,27.05
 PSEU766,65594,0 Rhesus positiv,45,1,Hypertension,0,0,0,0,f,213,2010,108.94,24.01
-PSEU767,72222,B Rhesus positiv,61,1,Back pain,0,0,0,,m,,2019,31.25,
+PSEU767,72222,B Rhesus positiv,61,1,Back pain,0,0,0,0,m,,2019,31.25,
 PSEU768,99662,A Rhesus negativ,58,0,Hypertension,0,0,0,0,m,132,2011,42,24.1
 PSEU769,72184,AB Rhesus positiv,75,0,Lipid metabolism,0,0,0,0,m,81,2016,13.03,19.86
-PSEU770,80754,AB Rhesus negativ,54,3,Hypertension,0,0,0,,m,212,2017,78.75,17.52
+PSEU770,80754,AB Rhesus negativ,54,3,Hypertension,0,0,0,0,m,212,2017,78.75,17.52
 PSEU771,75670,0 Rhesus positiv,66,0,Flu,0,0,0,0,m,,2020,33.8,
 PSEU772,94133,0 Rhesus positiv,27,0,Hypertension,0,0,0,1,m,182,2015,,
-PSEU773,30664,A Rhesus positiv,46,1,Back pain,0,0,0,,m,61,2018,7.22,19.4
+PSEU773,30664,A Rhesus positiv,46,1,Back pain,0,0,0,0,m,61,2018,7.22,19.4
 PSEU774,98511,0 Rhesus negativ,55,1,Hypertension,0,0,0,0,m,102,2018,25.14,24.16
 PSEU775,7849,A Rhesus positiv,21,3,Hypertension,0,1,1,,m,,2020,54.09,
 PSEU776,43673,0 Rhesus positiv,56,0,Hypertension,0,0,0,0,f,185,2013,,
 PSEU777,94746,A Rhesus positiv,21,2,Hypertension,0,1,1,0,f,80,2011,16.14,25.22
 PSEU778,75132,A Rhesus positiv,30,0,Back pain,0,0,0,,m,56,2011,7.14,22.77
-PSEU779,14272,0 Rhesus negativ,41,0,Back pain,0,0,0,,m,87,2017,17.13,22.63
-PSEU780,98438,0 Rhesus positiv,74,1,Hypertension,0,0,0,0,f,69,2014,12.93,27.16
-PSEU781,35240,A Rhesus positiv,36,0,Hypertension,0,0,0,,f,85,2019,13.84,19.16
+PSEU779,14272,0 Rhesus negativ,41,0,Back pain,0,0,0,0,m,87,2017,17.13,22.63
+PSEU780,98438,0 Rhesus positiv,74,1,Hypertension,1,0,0,0,f,69,2014,12.93,27.16
+PSEU781,35240,A Rhesus positiv,36,0,Hypertension,0,0,0,0,f,85,2019,13.84,19.16
 PSEU782,2119,0 Rhesus positiv,61,1,Hypertension,0,0,0,0,f,133,2014,28.77,16.26
 PSEU783,1969,0 Rhesus positiv,72,1,Hypertension,0,0,0,0,f,213,2020,104.17,22.96
 PSEU784,18021,A Rhesus positiv,11,2,Back pain,0,0,0,,m,87,2012,12.63,16.69
 PSEU785,35891,A Rhesus positiv,29,4,Hypertension,0,0,0,,m,74,2012,10.86,19.83
-PSEU786,13325,0 Rhesus positiv,27,0,Hypertension,0,0,0,,m,197,2020,79.82,20.57
-PSEU787,37700,A Rhesus positiv,27,0,Hypertension,0,0,0,,f,106,2018,25.76,22.93
-PSEU788,32780,A Rhesus positiv,51,0,Hypertension,0,0,0,0,f,153,2018,47.38,20.24
-PSEU789,95217,0 Rhesus positiv,60,0,Back pain,0,0,0,,f,123,2015,25,16.52
+PSEU786,13325,0 Rhesus positiv,27,0,Hypertension,0,0,0,0,m,197,2020,79.82,20.57
+PSEU787,37700,A Rhesus positiv,27,0,Hypertension,0,,0,0,f,106,2018,25.76,22.93
+PSEU788,32780,A Rhesus positiv,51,0,Hypertension,1,0,0,0,f,153,2018,47.38,20.24
+PSEU789,95217,0 Rhesus positiv,60,0,Back pain,1,0,0,0,f,123,2015,25,16.52
 PSEU790,74470,A Rhesus positiv,13,0,Back pain,0,0,0,0,m,172,2013,67.72,22.89
-PSEU791,10884,A Rhesus positiv,45,0,Hypertension,0,0,0,,m,122,2015,31.03,20.85
-PSEU792,53096,0 Rhesus positiv,47,2,Hypertension,0,0,0,,m,117,2014,32.8,23.96
-PSEU793,66514,A Rhesus positiv,58,0,Hypertension,0,1,0,,f,62,2015,,
+PSEU791,10884,A Rhesus positiv,45,0,Hypertension,0,,0,0,m,122,2015,31.03,20.85
+PSEU792,53096,0 Rhesus positiv,47,2,Hypertension,0,,0,0,m,117,2014,32.8,23.96
+PSEU793,66514,A Rhesus positiv,58,0,Hypertension,1,1,0,0,f,62,2015,,
 PSEU794,3818,A Rhesus positiv,72,0,Hypertension,0,0,0,0,m,,2016,26.82,
 PSEU795,1549,0 Rhesus positiv,30,3,Hypertension,0,0,0,0,m,194,2011,72.71,19.32
 PSEU796,58733,A Rhesus positiv,37,4,Back pain,0,0,0,0,f,193,2019,76.25,20.47
-PSEU797,35874,A Rhesus negativ,61,0,Back pain,0,0,0,0,m,217,2013,117.53,24.96
-PSEU798,82461,A Rhesus positiv,32,0,Hypertension,0,0,0,,m,205,2020,,
-PSEU799,47920,0 Rhesus positiv,62,0,Back pain,0,0,0,,m,199,2015,93.6,23.64
+PSEU797,35874,A Rhesus negativ,61,0,Back pain,1,0,0,0,m,217,2013,117.53,24.96
+PSEU798,82461,A Rhesus positiv,32,0,Hypertension,1,,0,1,m,205,2020,,
+PSEU799,47920,0 Rhesus positiv,62,0,Back pain,0,0,0,0,m,199,2015,93.6,23.64
 PSEU800,22201,0 Rhesus positiv,44,0,Back pain,0,0,1,0,f,,2012,33.96,
 PSEU801,16504,A Rhesus positiv,46,0,Hypertension,0,0,0,0,f,187,2012,99.37,28.42
 PSEU802,19580,B Rhesus positiv,53,0,Flu,0,1,1,0,f,95,2015,22.74,25.2
-PSEU803,37786,0 Rhesus positiv,66,0,Back pain,0,0,1,,m,,2019,66.39,
-PSEU804,26610,A Rhesus positiv,39,0,Hypertension,0,0,0,,f,106,2010,31.42,27.96
+PSEU803,37786,0 Rhesus positiv,66,0,Back pain,0,0,1,0,m,,2019,66.39,
+PSEU804,26610,A Rhesus positiv,39,0,Hypertension,0,0,0,0,f,106,2010,31.42,27.96
 PSEU805,87520,A Rhesus positiv,56,0,Hypertension,0,0,1,0,f,197,2013,49.33,12.71
-PSEU806,20272,A Rhesus positiv,46,0,Hypertension,1,0,0,,f,,2010,98.29,
+PSEU806,20272,A Rhesus positiv,46,0,Hypertension,1,0,0,0,f,,2010,98.29,
 PSEU807,22198,A Rhesus positiv,67,0,Hypertension,0,0,0,0,m,213,2018,143.76,31.69
-PSEU808,41963,0 Rhesus positiv,58,1,Flu,0,0,0,,m,81,2020,12.92,19.69
+PSEU808,41963,0 Rhesus positiv,58,1,Flu,0,0,0,0,m,81,2020,12.92,19.69
 PSEU809,54502,0 Rhesus positiv,51,1,Back pain,0,0,0,0,m,,2014,26.31,
 PSEU810,74916,0 Rhesus negativ,70,0,Hypertension,0,0,0,0,f,75,2014,15.12,26.88
 PSEU811,41711,0 Rhesus positiv,74,1,Back pain,0,0,1,0,m,213,2016,148.4,32.71
-PSEU812,48105,A Rhesus positiv,49,0,Lipid metabolism,0,0,0,0,m,50,2016,7.09,28.36
+PSEU812,48105,A Rhesus positiv,49,0,Lipid metabolism,1,0,0,0,m,50,2016,7.09,28.36
 PSEU813,89637,A Rhesus positiv,49,0,Hypertension,0,0,0,0,f,,2015,6.15,
 PSEU814,50074,A Rhesus negativ,64,0,Hypertension,0,0,1,0,m,,2019,27.74,
-PSEU815,22012,A Rhesus positiv,19,2,Hypertension,0,0,0,,f,,2020,128.68,
-PSEU816,9480,A Rhesus positiv,51,1,Back pain,0,0,1,,f,54,2017,,
-PSEU817,40188,A Rhesus positiv,45,0,Hypertension,0,0,0,,m,55,2017,5.49,18.15
+PSEU815,22012,A Rhesus positiv,19,2,Hypertension,1,0,0,,f,,2020,128.68,
+PSEU816,9480,A Rhesus positiv,51,1,Back pain,0,0,1,0,f,54,2017,,
+PSEU817,40188,A Rhesus positiv,45,0,Hypertension,1,0,0,,m,55,2017,5.49,18.15
 PSEU818,90620,0 Rhesus positiv,19,0,Back pain,0,0,0,0,m,103,2016,24.27,22.88
-PSEU819,88196,A Rhesus positiv,29,2,Back pain,0,0,0,,f,100,2016,,
+PSEU819,88196,A Rhesus positiv,29,2,Back pain,1,0,0,,f,100,2016,,
 PSEU820,98283,AB Rhesus positiv,89,0,Hypertension,0,0,0,0,m,124,2014,29.96,19.48
-PSEU821,18412,A Rhesus negativ,34,0,Hypertension,0,0,0,,f,143,2013,49.55,24.23
+PSEU821,18412,A Rhesus negativ,34,0,Hypertension,0,,0,0,f,143,2013,49.55,24.23
 PSEU822,67644,B Rhesus positiv,20,0,Hypertension,0,0,0,0,m,67,2011,12.25,27.29
-PSEU823,67721,A Rhesus negativ,30,0,Flu,0,1,0,,f,187,2017,,
-PSEU824,43826,A Rhesus positiv,10,0,Back pain,0,1,0,,m,76,2017,14.3,24.76
-PSEU825,64976,0 Rhesus positiv,39,0,Flu,0,1,0,,f,216,2014,106.8,22.89
+PSEU823,67721,A Rhesus negativ,30,0,Flu,0,1,0,0,f,187,2017,,
+PSEU824,43826,A Rhesus positiv,10,0,Back pain,0,1,0,0,m,76,2017,14.3,24.76
+PSEU825,64976,0 Rhesus positiv,39,0,Flu,0,1,0,1,f,216,2014,106.8,22.89
 PSEU826,63549,0 Rhesus positiv,55,0,Hypertension,0,0,0,0,f,196,2015,104.3,27.15
-PSEU827,26229,A Rhesus positiv,73,0,Back pain,0,0,0,,m,66,2015,9.58,21.99
+PSEU827,26229,A Rhesus positiv,73,0,Back pain,1,0,0,0,m,66,2015,9.58,21.99
 PSEU828,54673,0 Rhesus positiv,41,0,Back pain,0,0,1,0,m,113,2016,29.78,23.32
-PSEU829,56026,A Rhesus positiv,63,2,Back pain,0,1,0,,f,143,2018,,
-PSEU830,71632,0 Rhesus positiv,59,2,Hypertension,0,0,0,,m,215,2018,108.16,23.4
-PSEU831,4917,0 Rhesus positiv,37,0,Hypertension,0,0,0,,f,143,2012,,
+PSEU829,56026,A Rhesus positiv,63,2,Back pain,0,1,0,0,f,143,2018,,
+PSEU830,71632,0 Rhesus positiv,59,2,Hypertension,0,0,0,0,m,215,2018,108.16,23.4
+PSEU831,4917,0 Rhesus positiv,37,0,Hypertension,0,0,0,0,f,143,2012,,
 PSEU832,95638,A Rhesus positiv,42,0,Lipid metabolism,0,0,0,,m,137,2017,43.03,22.93
 PSEU833,22153,A Rhesus positiv,44,1,Hypertension,0,0,0,,f,,2010,136.83,
 PSEU834,27472,B Rhesus positiv,24,0,Hypertension,0,0,0,0,f,142,2019,53.7,26.63
-PSEU835,25099,0 Rhesus positiv,16,1,Back pain,0,0,0,,m,178,2013,103.82,32.77
-PSEU836,94596,A Rhesus positiv,29,0,Hypertension,0,0,0,,f,61,2012,8.37,22.49
+PSEU835,25099,0 Rhesus positiv,16,1,Back pain,0,0,0,0,m,178,2013,103.82,32.77
+PSEU836,94596,A Rhesus positiv,29,0,Hypertension,0,0,0,0,f,61,2012,8.37,22.49
 PSEU837,5468,A Rhesus negativ,63,0,Back pain,0,1,0,0,f,203,2020,62.79,15.24
 PSEU838,42923,A Rhesus positiv,58,0,Flu,0,0,1,,f,174,2016,,
 PSEU839,86203,A Rhesus positiv,19,0,Hypertension,0,1,0,0,f,117,2013,19.26,14.07
 PSEU840,50062,A Rhesus positiv,59,0,Hypertension,1,0,0,,m,,2017,79.27,
-PSEU841,71431,0 Rhesus positiv,14,1,Hypertension,0,0,0,,f,211,2012,50.86,11.42
-PSEU842,30978,A Rhesus positiv,46,0,Hypertension,0,0,1,,m,131,2017,30.3,17.66
+PSEU841,71431,0 Rhesus positiv,14,1,Hypertension,0,0,0,0,f,211,2012,50.86,11.42
+PSEU842,30978,A Rhesus positiv,46,0,Hypertension,0,0,1,0,m,131,2017,30.3,17.66
 PSEU843,4922,0 Rhesus positiv,71,0,Hypertension,0,0,0,0,f,,2011,51.34,
-PSEU844,77799,0 Rhesus negativ,78,0,Hypertension,0,0,0,,f,67,2014,,
+PSEU844,77799,0 Rhesus negativ,78,0,Hypertension,0,,0,0,f,67,2014,,
 PSEU845,5101,0 Rhesus positiv,31,2,Flu,0,0,0,0,f,147,2016,57.72,26.71
-PSEU846,47855,A Rhesus negativ,29,0,Lipid metabolism,0,0,0,,m,,2011,10.53,
-PSEU847,4705,A Rhesus positiv,73,0,Hypertension,0,0,0,0,m,139,2016,34.37,17.79
+PSEU846,47855,A Rhesus negativ,29,0,Lipid metabolism,0,0,0,0,m,,2011,10.53,
+PSEU847,4705,A Rhesus positiv,73,0,Hypertension,1,0,0,0,m,139,2016,34.37,17.79
 PSEU848,90211,A Rhesus positiv,51,0,Hypertension,0,0,0,0,m,,2012,,
-PSEU849,11617,0 Rhesus negativ,63,0,Hypertension,0,0,0,,m,182,2014,58.74,17.73
-PSEU850,92889,A Rhesus positiv,61,3,Hypertension,0,0,0,,m,202,2013,102.18,25.04
-PSEU851,62360,B Rhesus positiv,72,1,Hypertension,0,1,0,0,f,98,2014,24.83,25.85
+PSEU849,11617,0 Rhesus negativ,63,0,Hypertension,0,0,0,0,m,182,2014,58.74,17.73
+PSEU850,92889,A Rhesus positiv,61,3,Hypertension,0,0,0,0,m,202,2013,102.18,25.04
+PSEU851,62360,B Rhesus positiv,72,1,Hypertension,1,1,0,0,f,98,2014,24.83,25.85
 PSEU852,43170,0 Rhesus positiv,73,0,Flu,0,0,0,0,f,123,2015,30.89,20.42
 PSEU853,44083,A Rhesus positiv,32,1,Hypertension,0,0,1,0,m,94,2016,24.7,27.95
 PSEU854,32351,A Rhesus negativ,38,0,Hypertension,0,0,0,0,f,139,2013,38.16,19.75
-PSEU855,54086,A Rhesus positiv,34,3,Hypertension,0,1,0,,m,219,2017,,
-PSEU856,62860,0 Rhesus negativ,71,0,Back pain,0,0,0,,m,68,2016,10.04,21.71
-PSEU857,60919,0 Rhesus positiv,23,0,Hypertension,0,0,1,0,m,75,2010,13.96,24.82
-PSEU858,46481,0 Rhesus positiv,45,0,Flu,0,0,0,0,f,109,2019,26.66,22.44
-PSEU859,69834,0 Rhesus positiv,45,0,Hypertension,0,0,0,,m,180,2013,58.25,17.98
-PSEU860,29173,A Rhesus positiv,21,0,Back pain,0,0,0,,m,150,2013,44.47,19.76
-PSEU861,35687,AB Rhesus positiv,38,1,Hypertension,0,0,0,,m,,2012,62.47,
-PSEU862,43310,AB Rhesus positiv,43,0,Hypertension,0,0,0,,f,80,2019,11.52,18
-PSEU863,89073,0 Rhesus positiv,54,0,Hypertension,0,0,1,,m,,2019,7.76,
+PSEU855,54086,A Rhesus positiv,34,3,Hypertension,0,,0,0,m,219,2017,,
+PSEU856,62860,0 Rhesus negativ,71,0,Back pain,0,0,0,0,m,68,2016,10.04,21.71
+PSEU857,60919,0 Rhesus positiv,23,0,Hypertension,1,0,1,0,m,75,2010,13.96,24.82
+PSEU858,46481,0 Rhesus positiv,45,0,Flu,1,0,0,,f,109,2019,26.66,22.44
+PSEU859,69834,0 Rhesus positiv,45,0,Hypertension,0,,0,0,m,180,2013,58.25,17.98
+PSEU860,29173,A Rhesus positiv,21,0,Back pain,0,0,0,0,m,150,2013,44.47,19.76
+PSEU861,35687,AB Rhesus positiv,38,1,Hypertension,0,,0,0,m,,2012,62.47,
+PSEU862,43310,AB Rhesus positiv,43,0,Hypertension,0,0,0,0,f,80,2019,11.52,18
+PSEU863,89073,0 Rhesus positiv,54,0,Hypertension,0,0,1,0,m,,2019,7.76,
 PSEU864,13360,A Rhesus positiv,71,2,Flu,0,0,0,0,f,153,2013,45.04,19.24
-PSEU865,6771,A Rhesus negativ,65,1,Lipid metabolism,0,0,0,,f,190,2011,79.06,21.9
+PSEU865,6771,A Rhesus negativ,65,1,Lipid metabolism,0,0,0,0,f,190,2011,79.06,21.9
 PSEU866,80187,0 Rhesus positiv,82,1,Back pain,0,0,0,0,f,103,2018,27.93,26.33
 PSEU867,58806,AB Rhesus positiv,80,0,Hypertension,0,0,0,0,m,180,2019,54.31,16.76
 PSEU868,37897,B Rhesus positiv,83,2,Back pain,0,0,0,0,m,75,2020,11.78,20.94
-PSEU869,66332,0 Rhesus positiv,36,0,Back pain,0,0,1,,f,204,2012,105.97,25.46
+PSEU869,66332,0 Rhesus positiv,36,0,Back pain,1,,1,0,f,204,2012,105.97,25.46
 PSEU870,90261,A Rhesus positiv,87,0,Hypertension,0,0,1,0,f,124,2014,35.95,23.38
 PSEU871,66421,0 Rhesus positiv,60,0,Back pain,0,0,0,0,f,198,2018,,
 PSEU872,18632,0 Rhesus positiv,66,0,Hypertension,0,0,0,0,f,83,2018,18.5,26.85
@@ -875,127 +875,127 @@ PSEU873,75632,0 Rhesus negativ,84,4,Flu,0,0,1,0,f,91,2013,21.37,25.81
 PSEU874,1830,0 Rhesus positiv,39,0,Back pain,0,0,0,0,m,,2019,23.44,
 PSEU875,90492,A Rhesus positiv,67,0,Back pain,0,0,0,0,f,112,2016,33.98,27.09
 PSEU876,16252,0 Rhesus positiv,2,0,Flu,0,0,0,0,m,133,2010,,
-PSEU877,42404,0 Rhesus positiv,31,0,Back pain,0,0,0,0,m,67,2016,11.01,24.53
-PSEU878,22386,0 Rhesus positiv,70,0,Hypertension,0,0,0,,f,113,2017,43.03,33.7
+PSEU877,42404,0 Rhesus positiv,31,0,Back pain,0,0,0,,m,67,2016,11.01,24.53
+PSEU878,22386,0 Rhesus positiv,70,0,Hypertension,0,0,0,0,f,113,2017,43.03,33.7
 PSEU879,98650,A Rhesus positiv,49,0,Back pain,0,0,0,0,m,,2010,19.51,
-PSEU880,94902,A Rhesus positiv,39,0,Hypertension,0,0,0,,f,55,2014,6.28,20.76
-PSEU881,52404,0 Rhesus positiv,55,0,Hypertension,0,0,0,,f,,2017,7.26,
-PSEU882,22122,0 Rhesus positiv,45,0,Flu,0,0,1,,f,142,2010,,
-PSEU883,77063,B Rhesus positiv,63,1,Hypertension,0,0,0,,m,,2016,75.76,
-PSEU884,46508,0 Rhesus positiv,82,0,Back pain,0,0,0,,m,194,2013,106.17,28.21
-PSEU885,15566,A Rhesus positiv,63,0,Back pain,0,0,0,,f,97,2010,10.96,11.65
+PSEU880,94902,A Rhesus positiv,39,0,Hypertension,1,0,0,0,f,55,2014,6.28,20.76
+PSEU881,52404,0 Rhesus positiv,55,0,Hypertension,1,0,0,,f,,2017,7.26,
+PSEU882,22122,0 Rhesus positiv,45,0,Flu,0,0,1,0,f,142,2010,,
+PSEU883,77063,B Rhesus positiv,63,1,Hypertension,0,0,0,0,m,,2016,75.76,
+PSEU884,46508,0 Rhesus positiv,82,0,Back pain,0,0,0,0,m,194,2013,106.17,28.21
+PSEU885,15566,A Rhesus positiv,63,0,Back pain,0,0,0,0,f,97,2010,10.96,11.65
 PSEU886,56198,AB Rhesus positiv,30,0,Back pain,1,0,0,0,f,105,2013,16.55,15.01
-PSEU887,18989,A Rhesus positiv,-3,2,Hypertension,0,0,0,,m,57,2014,,
-PSEU888,90862,0 Rhesus positiv,46,0,Back pain,0,0,0,0,m,162,2012,68.55,26.12
+PSEU887,18989,A Rhesus positiv,-3,2,Hypertension,0,,0,0,m,57,2014,,
+PSEU888,90862,0 Rhesus positiv,46,0,Back pain,1,0,0,0,m,162,2012,68.55,26.12
 PSEU889,68957,A Rhesus positiv,41,2,Hypertension,0,0,0,0,f,63,2014,7.56,19.05
 PSEU890,10504,AB Rhesus positiv,62,0,Back pain,0,0,0,0,f,89,2018,,
 PSEU891,65474,0 Rhesus negativ,46,0,Hypertension,0,0,0,0,f,,2016,,
-PSEU892,50065,B Rhesus negativ,39,0,Hypertension,0,0,0,,f,,2015,40.11,
-PSEU893,88705,A Rhesus positiv,39,0,Back pain,0,0,0,,m,167,2010,36.11,12.95
-PSEU894,82300,A Rhesus positiv,38,0,Flu,0,0,0,,f,145,2016,46.43,22.08
+PSEU892,50065,B Rhesus negativ,39,0,Hypertension,0,0,0,0,f,,2015,40.11,
+PSEU893,88705,A Rhesus positiv,39,0,Back pain,0,0,0,0,m,167,2010,36.11,12.95
+PSEU894,82300,A Rhesus positiv,38,0,Flu,0,0,0,0,f,145,2016,46.43,22.08
 PSEU895,52409,0 Rhesus positiv,52,0,Hypertension,1,0,1,0,m,153,2013,61.13,26.11
-PSEU896,78314,A Rhesus positiv,30,0,Hypertension,0,0,0,,m,66,2011,,
-PSEU897,44831,B Rhesus positiv,34,0,Hypertension,0,0,0,,m,,2019,17.11,
-PSEU898,76086,0 Rhesus positiv,16,2,Hypertension,0,0,0,,f,,2013,,
-PSEU899,37750,A Rhesus positiv,86,0,Back pain,0,1,0,,m,,2019,78.82,
-PSEU900,68677,0 Rhesus positiv,51,0,Back pain,0,0,0,,f,,2018,39.61,
+PSEU896,78314,A Rhesus positiv,30,0,Hypertension,0,,0,0,m,66,2011,,
+PSEU897,44831,B Rhesus positiv,34,0,Hypertension,0,0,0,0,m,,2019,17.11,
+PSEU898,76086,0 Rhesus positiv,16,2,Hypertension,0,,0,0,f,,2013,,
+PSEU899,37750,A Rhesus positiv,86,0,Back pain,0,1,0,0,m,,2019,78.82,
+PSEU900,68677,0 Rhesus positiv,51,0,Back pain,0,0,0,0,f,,2018,39.61,
 PSEU901,6159,A Rhesus positiv,39,0,Hypertension,0,0,0,0,m,,2014,19.85,
-PSEU902,41645,AB Rhesus positiv,55,0,Back pain,0,0,0,0,m,204,2018,,
+PSEU902,41645,AB Rhesus positiv,55,0,Back pain,1,0,0,0,m,204,2018,,
 PSEU903,77250,0 Rhesus positiv,62,0,Flu,0,0,0,0,m,55,2011,,
 PSEU904,7116,B Rhesus positiv,47,1,Hypertension,0,0,0,0,m,,2012,7.7,
-PSEU905,33209,0 Rhesus positiv,41,1,Hypertension,0,0,0,0,m,,2014,,
+PSEU905,33209,0 Rhesus positiv,41,1,Hypertension,1,0,0,0,m,,2014,,
 PSEU906,5227,0 Rhesus positiv,47,3,Hypertension,0,0,0,0,m,164,2012,69.93,26
-PSEU907,28077,0 Rhesus positiv,60,2,Hypertension,0,0,0,,f,,2017,76.34,
-PSEU908,27715,A Rhesus positiv,57,1,Hypertension,1,0,0,0,f,72,2020,7.41,14.29
-PSEU909,49870,0 Rhesus positiv,65,3,Flu,0,0,0,,m,179,2010,58.77,18.34
-PSEU910,43898,AB Rhesus positiv,84,0,Back pain,0,0,0,,m,80,2019,10.73,16.77
-PSEU911,25397,0 Rhesus positiv,40,0,Hypertension,0,0,0,,m,,2012,14.44,
-PSEU912,31781,0 Rhesus positiv,40,0,Hypertension,0,0,0,,m,88,2017,17.8,22.99
-PSEU913,77268,B Rhesus negativ,39,3,Flu,0,0,0,,m,156,2016,30.58,12.57
-PSEU914,23371,0 Rhesus positiv,28,2,Back pain,0,0,0,0,m,140,2014,51.43,26.24
-PSEU915,77576,0 Rhesus positiv,88,0,Hypertension,0,0,0,,m,129,2020,,
+PSEU907,28077,0 Rhesus positiv,60,2,Hypertension,1,0,0,0,f,,2017,76.34,
+PSEU908,27715,A Rhesus positiv,57,1,Hypertension,1,0,0,,f,72,2020,7.41,14.29
+PSEU909,49870,0 Rhesus positiv,65,3,Flu,0,0,0,0,m,179,2010,58.77,18.34
+PSEU910,43898,AB Rhesus positiv,84,0,Back pain,0,0,0,0,m,80,2019,10.73,16.77
+PSEU911,25397,0 Rhesus positiv,40,0,Hypertension,0,0,0,0,m,,2012,14.44,
+PSEU912,31781,0 Rhesus positiv,40,0,Hypertension,0,0,0,0,m,88,2017,17.8,22.99
+PSEU913,77268,B Rhesus negativ,39,3,Flu,0,0,0,0,m,156,2016,30.58,12.57
+PSEU914,23371,0 Rhesus positiv,28,2,Back pain,0,0,0,,m,140,2014,51.43,26.24
+PSEU915,77576,0 Rhesus positiv,88,0,Hypertension,0,0,0,0,m,129,2020,,
 PSEU916,70989,0 Rhesus positiv,59,0,Hypertension,0,0,1,0,f,187,2010,100.9,28.85
-PSEU917,71100,A Rhesus positiv,7,4,Back pain,0,0,0,,f,142,2011,,
-PSEU918,54652,A Rhesus negativ,14,0,Back pain,0,0,0,,m,141,2020,49.93,25.11
-PSEU919,19730,0 Rhesus negativ,75,2,Hypertension,0,0,1,,f,220,2010,129.03,26.66
+PSEU917,71100,A Rhesus positiv,7,4,Back pain,0,,0,0,f,142,2011,,
+PSEU918,54652,A Rhesus negativ,14,0,Back pain,0,,0,0,m,141,2020,49.93,25.11
+PSEU919,19730,0 Rhesus negativ,75,2,Hypertension,0,0,1,0,f,220,2010,129.03,26.66
 PSEU920,4108,AB Rhesus positiv,34,0,Hypertension,0,0,0,0,m,,2012,,
 PSEU921,11462,A Rhesus positiv,63,0,Back pain,0,0,0,0,m,102,2018,,
 PSEU922,51163,B Rhesus positiv,58,2,Back pain,0,0,0,0,m,170,2016,76.32,26.41
 PSEU923,63652,0 Rhesus positiv,46,1,Hypertension,0,0,1,0,f,,2010,67.04,
 PSEU924,88664,A Rhesus positiv,79,4,Hypertension,0,0,0,0,f,189,2020,74.16,20.76
-PSEU925,84878,A Rhesus positiv,54,0,Hypertension,0,0,0,,f,,2010,4.73,
-PSEU926,45725,0 Rhesus positiv,25,1,Hypertension,0,0,0,0,m,54,2015,6.4,21.95
-PSEU927,36492,0 Rhesus positiv,37,0,Back pain,0,1,0,,f,,2018,51.79,
+PSEU925,84878,A Rhesus positiv,54,0,Hypertension,0,0,0,0,f,,2010,4.73,
+PSEU926,45725,0 Rhesus positiv,25,1,Hypertension,1,0,0,0,m,54,2015,6.4,21.95
+PSEU927,36492,0 Rhesus positiv,37,0,Back pain,0,1,0,0,f,,2018,51.79,
 PSEU928,97036,A Rhesus positiv,43,0,Hypertension,0,0,0,0,m,169,2020,59.87,20.96
 PSEU929,37190,A Rhesus positiv,19,0,Back pain,0,0,0,,f,51,2010,4.21,16.19
 PSEU930,89613,0 Rhesus positiv,44,0,Hypertension,0,0,0,0,m,176,2018,,
-PSEU931,28469,0 Rhesus positiv,75,0,Hypertension,0,0,0,,m,,2010,12.88,
-PSEU932,25083,A Rhesus negativ,47,2,Hypertension,0,0,0,,m,180,2016,,
-PSEU933,38423,0 Rhesus positiv,63,0,Back pain,0,0,0,,m,203,2010,,
+PSEU931,28469,0 Rhesus positiv,75,0,Hypertension,0,0,0,0,m,,2010,12.88,
+PSEU932,25083,A Rhesus negativ,47,2,Hypertension,0,0,0,0,m,180,2016,,
+PSEU933,38423,0 Rhesus positiv,63,0,Back pain,0,0,0,0,m,203,2010,,
 PSEU934,40731,0 Rhesus positiv,63,0,Hypertension,0,0,0,0,m,206,2014,54.78,12.91
 PSEU935,89431,AB Rhesus positiv,43,2,Hypertension,0,0,0,0,f,125,2016,30.79,19.71
 PSEU936,97979,A Rhesus negativ,29,0,Flu,0,0,0,,f,89,2014,15.13,19.1
-PSEU937,38308,A Rhesus positiv,21,0,Hypertension,0,0,0,0,m,146,2016,32.33,15.17
+PSEU937,38308,A Rhesus positiv,21,0,Hypertension,1,0,0,0,m,146,2016,32.33,15.17
 PSEU938,3662,0 Rhesus positiv,48,0,Back pain,0,0,1,0,m,157,2015,48.76,19.78
 PSEU939,99403,0 Rhesus positiv,72,0,Lipid metabolism,0,1,0,0,f,153,2016,58.38,24.94
 PSEU940,33783,0 Rhesus positiv,68,0,Back pain,0,0,0,0,m,163,2014,53.92,20.29
-PSEU941,41572,0 Rhesus positiv,40,0,Back pain,0,0,0,,m,59,2014,7.93,22.78
+PSEU941,41572,0 Rhesus positiv,40,0,Back pain,0,0,0,1,m,59,2014,7.93,22.78
 PSEU942,24676,B Rhesus negativ,64,1,Hypertension,0,0,0,0,m,113,2010,,
 PSEU943,12253,0 Rhesus positiv,56,0,Hypertension,1,0,0,,m,,2012,34.04,
-PSEU944,38797,A Rhesus positiv,36,0,Hypertension,0,0,1,,f,,2018,8.57,
-PSEU945,66865,B Rhesus positiv,68,0,Hypertension,0,0,0,,m,61,2011,7.15,19.22
-PSEU946,6743,A Rhesus positiv,26,0,Hypertension,0,0,1,,m,102,2014,27.17,26.11
-PSEU947,39121,A Rhesus positiv,65,3,Hypertension,0,0,0,,f,182,2019,73.5,22.19
+PSEU944,38797,A Rhesus positiv,36,0,Hypertension,1,0,1,0,f,,2018,8.57,
+PSEU945,66865,B Rhesus positiv,68,0,Hypertension,0,0,0,0,m,61,2011,7.15,19.22
+PSEU946,6743,A Rhesus positiv,26,0,Hypertension,0,0,1,0,m,102,2014,27.17,26.11
+PSEU947,39121,A Rhesus positiv,65,3,Hypertension,0,0,0,0,f,182,2019,73.5,22.19
 PSEU948,61934,A Rhesus negativ,64,0,Back pain,0,0,0,,m,137,2015,43.26,23.05
-PSEU949,26278,A Rhesus positiv,34,1,Flu,0,0,1,,f,210,2017,95.72,21.71
-PSEU950,95627,0 Rhesus positiv,78,0,Hypertension,0,0,0,,m,198,2020,59.15,15.09
-PSEU951,74119,B Rhesus positiv,37,2,Hypertension,0,0,1,,f,219,2012,83.47,17.4
+PSEU949,26278,A Rhesus positiv,34,1,Flu,1,0,1,0,f,210,2017,95.72,21.71
+PSEU950,95627,0 Rhesus positiv,78,0,Hypertension,0,,0,0,m,198,2020,59.15,15.09
+PSEU951,74119,B Rhesus positiv,37,2,Hypertension,0,0,1,0,f,219,2012,83.47,17.4
 PSEU952,69668,B Rhesus positiv,54,1,Hypertension,0,0,1,0,f,73,2010,10.85,20.36
 PSEU953,72976,A Rhesus negativ,72,0,Hypertension,0,0,0,0,m,93,2013,,
-PSEU954,52023,0 Rhesus positiv,34,0,Hypertension,0,0,0,,m,174,2016,70.02,23.13
-PSEU955,82371,0 Rhesus negativ,36,0,Back pain,0,0,0,,f,214,2019,111.15,24.27
+PSEU954,52023,0 Rhesus positiv,34,0,Hypertension,0,0,0,0,m,174,2016,70.02,23.13
+PSEU955,82371,0 Rhesus negativ,36,0,Back pain,0,0,0,0,f,214,2019,111.15,24.27
 PSEU956,79231,0 Rhesus negativ,45,0,Hypertension,0,0,0,0,f,,2012,,
-PSEU957,14347,0 Rhesus negativ,86,0,Back pain,0,0,1,0,m,209,2020,80.78,18.49
-PSEU958,41149,0 Rhesus positiv,41,0,Back pain,0,0,0,,m,,2014,43.47,
+PSEU957,14347,0 Rhesus negativ,86,0,Back pain,1,0,1,0,m,209,2020,80.78,18.49
+PSEU958,41149,0 Rhesus positiv,41,0,Back pain,0,0,0,0,m,,2014,43.47,
 PSEU959,87778,0 Rhesus positiv,44,0,Hypertension,0,0,1,0,m,148,2010,56.84,25.95
-PSEU960,75916,0 Rhesus positiv,47,3,Lipid metabolism,0,0,1,,f,207,2016,94.08,21.96
-PSEU961,31557,B Rhesus positiv,59,0,Hypertension,0,0,1,,f,180,2015,72.49,22.37
-PSEU962,22093,A Rhesus negativ,56,0,Hypertension,0,1,0,0,m,70,2015,11.01,22.47
-PSEU963,60318,A Rhesus negativ,25,0,Hypertension,0,0,0,,f,54,2012,4.92,16.87
-PSEU964,5337,A Rhesus positiv,40,0,Back pain,0,0,0,0,f,,2011,9.62,
-PSEU965,76270,B Rhesus positiv,23,0,Back pain,0,0,1,,m,85,2015,16.89,23.38
-PSEU966,96585,A Rhesus positiv,33,0,Hypertension,0,0,0,,m,,2011,44.49,
-PSEU967,29365,A Rhesus negativ,40,0,Lipid metabolism,0,0,0,,m,71,2016,10.2,20.23
+PSEU960,75916,0 Rhesus positiv,47,3,Lipid metabolism,0,0,1,0,f,207,2016,94.08,21.96
+PSEU961,31557,B Rhesus positiv,59,0,Hypertension,0,0,1,0,f,180,2015,72.49,22.37
+PSEU962,22093,A Rhesus negativ,56,0,Hypertension,1,1,0,0,m,70,2015,11.01,22.47
+PSEU963,60318,A Rhesus negativ,25,0,Hypertension,0,0,0,0,f,54,2012,4.92,16.87
+PSEU964,5337,A Rhesus positiv,40,0,Back pain,0,0,0,,f,,2011,9.62,
+PSEU965,76270,B Rhesus positiv,23,0,Back pain,1,0,1,0,m,85,2015,16.89,23.38
+PSEU966,96585,A Rhesus positiv,33,0,Hypertension,0,0,0,0,m,,2011,44.49,
+PSEU967,29365,A Rhesus negativ,40,0,Lipid metabolism,0,0,0,0,m,71,2016,10.2,20.23
 PSEU968,28178,0 Rhesus positiv,58,0,Back pain,0,0,0,0,f,200,2014,98.98,24.75
 PSEU969,79018,0 Rhesus positiv,60,2,Hypertension,0,0,1,0,f,220,2016,88.12,18.21
-PSEU970,52520,A Rhesus positiv,66,0,Hypertension,0,0,0,,f,,2013,16.71,
+PSEU970,52520,A Rhesus positiv,66,0,Hypertension,0,0,0,0,f,,2013,16.71,
 PSEU971,8250,B Rhesus positiv,56,3,Back pain,0,0,0,0,m,90,2019,20.1,24.81
 PSEU972,15876,A Rhesus negativ,45,0,Hypertension,0,0,0,0,f,197,2017,76.87,19.81
-PSEU973,44239,A Rhesus positiv,25,0,Back pain,0,0,0,,m,,2018,,
-PSEU974,6532,0 Rhesus positiv,67,3,Hypertension,0,0,1,,m,218,2010,132.96,27.98
-PSEU975,120,A Rhesus negativ,49,0,Back pain,0,0,0,,m,152,2013,61.69,26.7
+PSEU973,44239,A Rhesus positiv,25,0,Back pain,0,0,0,0,m,,2018,,
+PSEU974,6532,0 Rhesus positiv,67,3,Hypertension,0,0,1,0,m,218,2010,132.96,27.98
+PSEU975,120,A Rhesus negativ,49,0,Back pain,0,0,0,0,m,152,2013,61.69,26.7
 PSEU976,16623,0 Rhesus positiv,35,0,Back pain,0,0,0,0,f,151,2016,39.58,17.36
-PSEU977,72231,B Rhesus positiv,36,0,Back pain,0,1,0,0,f,,2015,22.73,
-PSEU978,77556,B Rhesus negativ,67,0,Hypertension,0,0,0,,f,103,2018,25.35,23.89
+PSEU977,72231,B Rhesus positiv,36,0,Back pain,0,1,0,,f,,2015,22.73,
+PSEU978,77556,B Rhesus negativ,67,0,Hypertension,0,0,0,0,f,103,2018,25.35,23.89
 PSEU979,10342,A Rhesus positiv,48,0,Hypertension,0,0,0,,f,109,2011,16.39,13.8
 PSEU980,28507,0 Rhesus positiv,34,0,Back pain,0,0,0,0,f,,2017,77.49,
-PSEU981,72310,0 Rhesus negativ,7,0,Hypertension,0,0,0,,f,,2016,,
-PSEU982,1967,A Rhesus positiv,42,0,Back pain,0,0,0,0,f,,2012,,
-PSEU983,45487,AB Rhesus positiv,69,0,Back pain,0,0,0,0,f,114,2016,26.72,20.56
-PSEU984,4979,0 Rhesus negativ,54,0,Flu,0,0,0,,m,92,2011,,
-PSEU985,4285,A Rhesus positiv,23,0,Back pain,0,0,0,0,f,,2016,7.4,
-PSEU986,40332,0 Rhesus positiv,36,1,Hypertension,0,0,0,0,f,,2015,30.23,
+PSEU981,72310,0 Rhesus negativ,7,0,Hypertension,0,0,0,0,f,,2016,,
+PSEU982,1967,A Rhesus positiv,42,0,Back pain,0,0,0,,f,,2012,,
+PSEU983,45487,AB Rhesus positiv,69,0,Back pain,1,0,0,0,f,114,2016,26.72,20.56
+PSEU984,4979,0 Rhesus negativ,54,0,Flu,0,0,0,0,m,92,2011,,
+PSEU985,4285,A Rhesus positiv,23,0,Back pain,1,0,0,0,f,,2016,7.4,
+PSEU986,40332,0 Rhesus positiv,36,1,Hypertension,1,0,0,0,f,,2015,30.23,
 PSEU987,52668,A Rhesus positiv,65,0,Hypertension,0,0,0,0,f,151,2014,71.89,31.53
 PSEU988,26679,AB Rhesus positiv,47,0,Hypertension,0,1,0,0,f,212,2020,98.78,21.98
 PSEU989,62538,0 Rhesus positiv,80,0,Back pain,0,1,0,0,m,131,2014,23.64,13.78
-PSEU990,17868,A Rhesus positiv,39,0,Hypertension,0,0,0,,m,211,2012,106.31,23.88
+PSEU990,17868,A Rhesus positiv,39,0,Hypertension,0,0,0,0,m,211,2012,106.31,23.88
 PSEU991,80415,0 Rhesus positiv,54,2,Back pain,0,0,0,1,f,219,2017,128.06,26.7
-PSEU992,5097,0 Rhesus positiv,35,2,Hypertension,0,0,0,0,m,153,2017,38.39,16.4
-PSEU993,77933,0 Rhesus positiv,59,0,Hypertension,0,0,0,0,f,201,2015,108.32,26.81
+PSEU992,5097,0 Rhesus positiv,35,2,Hypertension,1,0,0,0,m,153,2017,38.39,16.4
+PSEU993,77933,0 Rhesus positiv,59,0,Hypertension,0,0,0,,f,201,2015,108.32,26.81
 PSEU994,44459,B Rhesus positiv,80,3,Hypertension,0,0,0,0,m,127,2019,,
-PSEU995,94236,0 Rhesus positiv,52,3,Back pain,0,0,0,0,m,,2019,,
-PSEU996,2702,A Rhesus positiv,55,0,Back pain,0,0,0,0,m,109,2018,30.42,25.6
+PSEU995,94236,0 Rhesus positiv,52,3,Back pain,0,0,0,,m,,2019,,
+PSEU996,2702,A Rhesus positiv,55,0,Back pain,1,0,0,0,m,109,2018,30.42,25.6
 PSEU997,21034,A Rhesus positiv,24,0,Hypertension,0,0,0,,f,142,2011,44.56,22.1
-PSEU998,36407,B Rhesus negativ,59,1,Hypertension,0,0,0,,m,83,2016,17.29,25.1
+PSEU998,36407,B Rhesus negativ,59,1,Hypertension,0,0,0,0,m,83,2016,17.29,25.1
 PSEU999,86101,A Rhesus positiv,56,0,Lipid metabolism,0,0,0,0,f,98,2013,25.08,26.11
-PSEU1000,1376,A Rhesus positiv,74,0,Back pain,0,0,0,,f,145,2010,35.43,16.85
+PSEU1000,1376,A Rhesus positiv,74,0,Back pain,0,,0,0,f,145,2010,35.43,16.85
