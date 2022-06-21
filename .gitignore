@@ -13,6 +13,11 @@
 !/R/*.R
 
 !/Rmd
+/Rmd/**
+!/Rmd/*.Rmd
+!/Rmd/*.qmd
+!/Rmd/*.md
+
 
 !/data
 /data/**
