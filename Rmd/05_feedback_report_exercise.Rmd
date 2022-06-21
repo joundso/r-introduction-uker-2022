@@ -26,6 +26,10 @@ Um das finale Dokument zu erzeugen, wird folgendes Kommando benötigt:
 rmarkdown::render("/path/to/05_feedback_report_template.qmd")
 ```
 
+```{r knit-document-internal, eval=FALSE, include=FALSE}
+rmarkdown::render("./Rmd/05_feedback_report_template.qmd")
+```
+
 ## Aufgabe 1
 
 Erstellen Sie einen Plot, der die Zufriedenheit der Schulung für jede Gruppe „Vorwissen“ zeigt. (Beispiel)[]

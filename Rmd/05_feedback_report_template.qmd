@@ -105,8 +105,6 @@ data$max_dauer_schulung <- as.numeric(data$max_dauer_schulung)
 library(ggplot2)
 theme_set(theme_bw())  # pre-set the bw theme.
 
-
-
 ```
 
 ## Introduction
@@ -122,16 +120,27 @@ REDCap was used to create user satisfaction questionnaires and collect user feed
 ```{r}
 #| echo: false
 
-data <- data.table::as.data.table(data)
-# data[,.SD, .SDcols = c("vorwissen", "zufriedenheit")]
-best_zufriedenheit_class <- min(data$zufriedenheit)
-best_zufriedenheit <-
-  data[zufriedenheit == best_zufriedenheit_class,][, by = vorwissen, .N][order(N, decreasing = T), ]
-best_zufriedenheit_n <- best_zufriedenheit[[1,"N"]]
+### Aufgabe 2
+
+## Hint: All data is available in the `data`-object.
+## Pseudocode:
+## 1. Was ist die beste vergebene (!) Zufriedenheit (min/max)?
+## 2. Welche Vorwissen-Klassen sind für diese Zufriedenheits-Klasse vorhanden?
+## 3. Diese Zufriedenheitsklassen nach Häufigkeit sortieren
+## 4. Die häufigste Zufriedenheitsklasse der Variable
+##   `pos_feedback_vorwissen` zuweisen.
+
+## Häufigkeitsauszählungen:
+# table(data$zufriedenheit)
+
+## Objekt in data.frame umwandeln:
+# as.data.frame(object)
+
+pos_feedback_vorwissen <- "TODO Aufgabe 2"
 
 ```
 
-`r nrow(data)` people participated in the survey. The group of participants with the previous knowledge "`r best_zufriedenheit[[1,"vorwissen"]]`" have thereby evaluated the training most positively.
+`r nrow(data)` people participated in the survey. The group of participants with the previous knowledge "`r pos_feedback_vorwissen`" have thereby evaluated the training most positively.
 
 ### User feedback
 
@@ -144,15 +153,11 @@ best_zufriedenheit_n <- best_zufriedenheit[[1,"N"]]
 
 library(ggplot2)
 
-# plot(data$zufriedenheit)
+plot(data$zufriedenheit)
 
-ggplot(data = data,
-       mapping = aes(x = zufriedenheit, fill = vorwissen)) + geom_histogram(stat = "count") +
-  xlab("Zufriedenheit (1 = sehr zufrieden; 5 = sehr unzufrieden)") +
-  ylab("Anzahl") +
-  # xlim(c(1, 5)) +
-  guides(fill = guide_legend(title = "Vorwissen"))
 
+## TODO: Aufgabe 1
+## Hint: Vielleicht bietet sich ein Histogramm mit ggplot2 an?
 
 ```
 
