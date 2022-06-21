@@ -120,7 +120,7 @@ REDCap was used to create user satisfaction questionnaires and collect user feed
 ```{r}
 #| echo: false
 
-### Aufgabe 2
+### TODO: Aufgabe 2 (Aufgabe 1 siehe unten)
 
 ## Hint: All data is available in the `data`-object.
 ## Pseudocode:
