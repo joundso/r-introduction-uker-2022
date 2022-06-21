@@ -1,0 +1,45 @@
+---
+title: "05 Reproducible analyses - Exercise"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Vorbereitung
+
+Erstellen Sie zwei Umgebungsvariablen, die für die Verbindung zu REDCap benötigt werden:
+
+```{r redcap-settings, eval=FALSE}
+## Set credentials to sign in to REDCap:
+Sys.setenv("REDCAP_API_URL" = "https://your.hospital.org")
+Sys.setenv("REDCAP_API_KEY" = "123456789")
+```
+
+Laden Sie sich die Vorlage herunter. Diese können Sie für die folgenden Aufgaben erweitern.
+
+Um das finale Dokument zu erzeugen, wird folgendes Kommando benötigt:
+
+```{r knit-document, eval=FALSE}
+rmarkdown::render("/path/to/05_feedback_report_template.qmd")
+# rmarkdown::render("./Rmd/05_feedback_report_template.qmd")
+```
+
+
+## Aufgabe 1
+
+Erstellen Sie einen Plot, der die Zufriedenheit der Schulung für jede Gruppe „Vorwissen“ zeigt.
+
+### Tipps
+
+```{r function-help, eval=FALSE}
+## Read the manual for some functions that might be helpful:
+?ggplot2::ggplot
+?ggplot2::geom_histogram
+```
+
+
+## Aufgabe 2
+
+Versuchen Sie programmatisch zu bestätigen, welche Gruppe mit welchem Vorwissen am zufriedensten ist.
