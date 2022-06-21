@@ -20,7 +20,8 @@ required_packages <- c("rmarkdown"
                        , "data.table"
                        , "ggplot2"
                        , "tinytex"
-                       , "quarto")
+                       , "quarto"
+                       , "REDCapR")
 ## Loop over packages and install missing ones:
 sapply(
   X = required_packages,
