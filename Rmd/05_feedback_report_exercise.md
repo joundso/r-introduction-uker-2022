@@ -12,9 +12,9 @@ Sys.setenv("REDCAP_API_URL" = "https://your.hospital.org")
 Sys.setenv("REDCAP_API_KEY" = "123456789")
 ```
 
-Laden Sie sich [die Vorlage](./Rmd/05_feedback_report_template.qmd)
-herunter und speichern Sie die Datei auf Ihrem PC. Die Vorlage können
-Sie für die folgenden Aufgaben erweitern.
+Laden Sie sich [die Vorlage](./05_feedback_report_template.qmd) herunter
+und speichern Sie die Datei auf Ihrem PC. Die Vorlage können Sie für die
+folgenden Aufgaben erweitern.
 
 Um das finale Dokument zu erzeugen, wird folgendes Kommando benötigt:
 
