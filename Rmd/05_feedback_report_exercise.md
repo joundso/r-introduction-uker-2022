@@ -21,9 +21,16 @@ folgenden Aufgaben erweitern.
 Um das finale Dokument zu erzeugen, wird folgendes Kommando benötigt:
 
 ``` r
-install.packages("rmarkdown")
+install.packages("rmarkdown") # Einmalig!
 rmarkdown::render("/path/to/05_feedback_report_template.qmd")
 ```
+
+:bulb: Das Ergebnis ist eine html-Datei mit demselben Dateinamen wie die
+Input-Datei, die Sie im Browser öffnen können, um die Ergebnisse zu
+betrachten. Ändern Sie den Quellcode (in
+`05_feedback_report_template.qmd`), müssen Sie die Ergebnisdatei mit
+obigem Kommando erneut rendern, um die Änderungen auch im
+Ergebnisdokument zu sehen.
 
 ## Aufgabe 1
 
