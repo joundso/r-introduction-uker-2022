@@ -1,0 +1,186 @@
+---
+title: "R Introduction Feedback"
+author: "Jonathan Mang"
+date: "`r Sys.Date()`"
+format: html
+editor: visual
+---
+
+```{r}
+#| echo: false
+#| include: false
+
+## Set credentials to sign in to REDCap:
+# Sys.setenv("REDCAP_API_URL" = "https://your.hospital.org")
+# Sys.setenv("REDCAP_API_KEY" = "123456789")
+
+
+## Install necessary packages:
+required_packages <- c("rmarkdown"
+                       , "data.table"
+                       , "ggplot2"
+                       , "tinytex"
+                       , "quarto"
+                       , "REDCapR")
+## Loop over packages and install missing ones:
+sapply(
+  X = required_packages,
+  FUN = function(x) {
+    ## only install packages that are not already present:
+    if (!x %in% installed.packages()[, "Package"]) {
+      install.packages(x)
+      return(paste0("Downloaded and installed package '", x, "'."))
+    } else {
+      return(paste0("Package '", x, "' is already installed."))
+    }
+  },
+  USE.NAMES = TRUE,
+  simplify = FALSE
+)
+
+
+
+## Load the data from REDCap:
+col_types <- readr::cols(.default = readr::col_character())
+
+redcap_export <-
+  REDCapR::redcap_read(
+    redcap_uri = Sys.getenv("REDCAP_API_URL"),
+    token = Sys.getenv("REDCAP_API_KEY"),
+    col_types = col_types,
+    raw_or_label = "label"
+  )
+
+stopifnot(redcap_export$success)
+
+data <- redcap_export$data
+
+rm(redcap_export)
+
+
+## Load the data dictionary to get the meta data of the data:
+redcap_dict <-
+  REDCapR::redcap_metadata_read(redcap_uri = Sys.getenv("REDCAP_API_URL"),
+                                token = Sys.getenv("REDCAP_API_KEY"))
+
+stopifnot(redcap_dict$success)
+
+dict <- redcap_dict$data
+
+rm(redcap_dict)
+
+
+## Order "Vorwissen":
+vorwissen_order <- c("kein Vorwissen",
+                     "Grundlagen",
+                     "Selbstbewusst",
+                     "Expertenwissen")
+data$vorwissen <-
+  factor(x = data$vorwissen,
+         levels = vorwissen_order,
+         ordered = TRUE)
+
+
+## Convert characters to numerics where necessary:
+data$zufriedenheit <- as.numeric(data$zufriedenheit)
+data$max_dauer_schulung <- as.numeric(data$max_dauer_schulung)
+
+
+### Add "Themen" labels:
+## Get labels from data dictionary:
+# labels <-
+#   data.table::as.data.table(dict)[field_name == "themen", select_choices_or_calculations]
+# 
+# ## Separate the labels from each other (all are in one long string):
+# labels <- strsplit(x = labels, split = " | ", fixed = TRUE)
+# 
+# ## Remove the prefix number:
+# labels <- gsub(pattern = "^(*).(, )",
+#      replacement = "",
+#      x = labels[[1]])
+# labels <- data.table::as.data.table(labels)
+# labels[, "id" := seq.int(length(labels))]
+
+
+
+## Plot defaults:
+library(ggplot2)
+theme_set(theme_bw())  # pre-set the bw theme.
+
+
+
+```
+
+## Introduction
+
+A high level of satisfaction is elementary for good receptivity. In order to estimate the satisfaction of the participants, a possibility should be created to reproducibly determine the satisfaction of the participants.
+
+## Methods
+
+REDCap was used to create user satisfaction questionnaires and collect user feedback in the form of a survey.
+
+## Results
+
+```{r}
+#| echo: false
+
+data <- data.table::as.data.table(data)
+# data[,.SD, .SDcols = c("vorwissen", "zufriedenheit")]
+best_zufriedenheit_class <- min(data$zufriedenheit)
+best_zufriedenheit <-
+  data[zufriedenheit == best_zufriedenheit_class,][, by = vorwissen, .N][order(N, decreasing = T), ]
+best_zufriedenheit_n <- best_zufriedenheit[[1,"N"]]
+
+```
+
+`r nrow(data)` people participated in the survey.
+The group of participants with the previous knowledge "`r best_zufriedenheit[[1,"vorwissen"]]`" have thereby evaluated the training most positively.
+
+### User feedback
+
+```{r}
+#| echo: false
+#| label: fig-training-satisfaction
+#| fig-cap: "Q: How satisfied were you with the training you received?"
+#| warning: false
+
+
+library(ggplot2)
+
+# plot(data$zufriedenheit)
+
+ggplot(data = data,
+       mapping = aes(x = zufriedenheit, fill = vorwissen)) + geom_histogram(stat = "count") +
+  xlab("Zufriedenheit (1 = sehr zufrieden; 5 = sehr unzufrieden)") +
+  ylab("Anzahl") +
+  # xlim(c(1, 5)) +
+  guides(fill = guide_legend(title = "Vorwissen"))
+
+
+```
+
+```{r}
+#| echo: false
+#| label: fig-training-max-duration
+#| fig-cap: "Q: What is the maximum duration of an R training course?"
+#| warning: false
+#| fig-width: 5
+#| fig-height: 3
+
+# plot(data$max_dauer_schulung)
+
+ggplot(data, aes(y = max_dauer_schulung)) + geom_boxplot(varwidth=TRUE) +
+  labs(y="Maximale Dauer der Schulung [h]"
+       # x="", 
+       # title="Scatterplot with overlapping points", 
+       # caption="Source: midwest"
+       )
+
+
+```
+
+## Discussion
+
+All well and good, but how can R and the knowledge of the need for reproducible research now concretely improve your daily research routine?
+
+

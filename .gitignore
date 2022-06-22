@@ -18,7 +18,7 @@
 !/Rmd/*.qmd
 !/Rmd/*.md
 # !/Rmd/*.html
-/Rmd/*solution.*
+# /Rmd/*solution.*
 
 !/data
 /data/**
