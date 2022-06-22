@@ -9,7 +9,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Vorbereitung
 
-Erstellen Sie zwei Umgebungsvariablen, die für die Verbindung zu REDCap benötigt werden:
+1. Installieren Sie [`pandoc`](https://pandoc.org/installing.html) (Hinweis: R danach neustarten)
+2. Erstellen Sie zwei Umgebungsvariablen, die für die Verbindung zu REDCap benötigt werden:
 
 ```{r redcap-settings, eval=FALSE}
 ## Set correct credentials to sign in to REDCap:
@@ -20,9 +21,12 @@ Sys.setenv("REDCAP_API_KEY" = "7994055EF43AE2B6439FBCF18B09EC0A")
 Laden Sie sich [die Vorlage](./05_feedback_report_template.qmd) herunter und speichern Sie die Datei auf Ihrem PC.
 Die Vorlage können Sie für die folgenden Aufgaben erweitern.
 
+
+
 Um das finale Dokument zu erzeugen, wird folgendes Kommando benötigt:
 
 ```{r knit-document, eval=FALSE}
+install.packages("rmarkdown")
 rmarkdown::render("/path/to/05_feedback_report_template.qmd")
 ```
 

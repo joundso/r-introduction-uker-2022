@@ -3,8 +3,10 @@
 
 ## Vorbereitung
 
-Erstellen Sie zwei Umgebungsvariablen, die für die Verbindung zu REDCap
-benötigt werden:
+1.  Installieren Sie [`pandoc`](https://pandoc.org/installing.html)
+    (Hinweis: R danach neustarten)
+2.  Erstellen Sie zwei Umgebungsvariablen, die für die Verbindung zu
+    REDCap benötigt werden:
 
 ``` r
 ## Set correct credentials to sign in to REDCap:
@@ -19,6 +21,7 @@ folgenden Aufgaben erweitern.
 Um das finale Dokument zu erzeugen, wird folgendes Kommando benötigt:
 
 ``` r
+install.packages("rmarkdown")
 rmarkdown::render("/path/to/05_feedback_report_template.qmd")
 ```
 
