@@ -38,7 +38,7 @@ rmarkdown::render("./Rmd/05_feedback_report_template.qmd")
 
 ## Aufgabe 1
 
-Erstellen Sie einen Plot, der die Zufriedenheit der Schulung für jede Gruppe „Vorwissen“ zeigt. (Beispiel)[]
+Erstellen Sie einen Plot, der die Zufriedenheit der Schulung für jede Gruppe „Vorwissen“ zeigt.
 
 ### Tipps
 

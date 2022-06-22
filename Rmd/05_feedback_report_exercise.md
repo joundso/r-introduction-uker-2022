@@ -35,7 +35,7 @@ Ergebnisdokument zu sehen.
 ## Aufgabe 1
 
 Erstellen Sie einen Plot, der die Zufriedenheit der Schulung für jede
-Gruppe „Vorwissen“ zeigt. (Beispiel)\[\]
+Gruppe „Vorwissen“ zeigt.
 
 ### Tipps
 
