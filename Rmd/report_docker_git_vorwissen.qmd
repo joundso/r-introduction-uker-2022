@@ -1,0 +1,227 @@
+---
+title: "Reproducible analysis methods"
+author: "Jonathan Mang"
+date: "`r Sys.Date()`"
+format: html
+editor: visual
+---
+
+```{r}
+#| echo: false
+#| include: false
+
+## Set credentials to sign in to REDCap:
+# Sys.setenv("REDCAP_API_URL" = "https://your.hospital.org")
+# Sys.setenv("REDCAP_API_KEY" = "123456789")
+
+
+## Install necessary packages:
+required_packages <- c("rmarkdown"
+                       , "data.table"
+                       , "ggplot2"
+                       , "tinytex"
+                       , "quarto"
+                       , "REDCapR")
+## Loop over packages and install missing ones:
+sapply(
+  X = required_packages,
+  FUN = function(x) {
+    ## only install packages that are not already present:
+    if (!x %in% installed.packages()[, "Package"]) {
+      install.packages(x)
+      return(paste0("Downloaded and installed package '", x, "'."))
+    } else {
+      return(paste0("Package '", x, "' is already installed."))
+    }
+  },
+  USE.NAMES = TRUE,
+  simplify = FALSE
+)
+
+
+
+## Load the data from REDCap:
+col_types <- readr::cols(.default = readr::col_character())
+
+redcap_export <-
+  REDCapR::redcap_read(
+    redcap_uri = Sys.getenv("REDCAP_API_URL"),
+    token = Sys.getenv("REDCAP_API_KEY"),
+    col_types = col_types,
+    raw_or_label = "label"
+  )
+
+stopifnot(redcap_export$success)
+
+data <- redcap_export$data
+
+rm(redcap_export)
+
+
+## Load the data dictionary to get the meta data of the data:
+redcap_dict <-
+  REDCapR::redcap_metadata_read(redcap_uri = Sys.getenv("REDCAP_API_URL"),
+                                token = Sys.getenv("REDCAP_API_KEY"))
+
+stopifnot(redcap_dict$success)
+
+dict <- redcap_dict$data
+
+rm(redcap_dict)
+
+
+## Order "Vorwissen":
+vorwissen_order <- c("Kein Vorwissen / nie gehört",
+                     "Davon gehört, aber nicht genutzt",
+                     "Grundlagen",
+                     "Selbstbewusst",
+                     "Expertenwissen")
+data$docker_vorwissen <-
+  factor(x = data$docker_vorwissen,
+         levels = vorwissen_order,
+         ordered = TRUE)
+
+data$git_vorwissen <-
+  factor(x = data$git_vorwissen,
+         levels = vorwissen_order,
+         ordered = TRUE)
+
+
+## Convert characters to numerics where necessary:
+# data$zufriedenheit <- as.numeric(data$zufriedenheit)
+# data$max_dauer_schulung <- as.numeric(data$max_dauer_schulung)
+
+
+### Add "Themen" labels:
+## Get labels from data dictionary:
+# labels <-
+#   data.table::as.data.table(dict)[field_name == "themen", select_choices_or_calculations]
+# 
+# ## Separate the labels from each other (all are in one long string):
+# labels <- strsplit(x = labels, split = " | ", fixed = TRUE)
+# 
+# ## Remove the prefix number:
+# labels <- gsub(pattern = "^(*).(, )",
+#      replacement = "",
+#      x = labels[[1]])
+# labels <- data.table::as.data.table(labels)
+# labels[, "id" := seq.int(length(labels))]
+
+
+
+## Plot defaults:
+library(ggplot2)
+theme_set(theme_bw())  # pre-set the bw theme.
+
+
+
+```
+
+## Introduction
+
+A high level of satisfaction is elementary for good receptivity. In order to estimate the satisfaction of the participants, a possibility should be created to reproducibly determine the satisfaction of the participants.
+
+## Methods
+
+REDCap was used to create the questionnaires and collect user feedback in the form of a survey.
+
+## Results
+
+`r nrow(data)` people participated in the survey.
+
+### Prior knowledge
+
+#### Docker
+
+```{r}
+#| echo: false
+#| label: fig-knowledge-docker
+#| fig-cap: "Distribution of Docker prior knowledge of all participants"
+#| warning: false
+
+
+library(ggplot2)
+
+# plot(data$zufriedenheit)
+
+ggplot(data = data,
+       mapping = aes(
+         x = docker_vorwissen
+         ,fill = docker_dockerfile_written,
+         # ,color = docker_started
+         )) + geom_histogram(stat = "count") +
+  xlab("Docker Vorwissen") +
+  ylab("Anzahl") +
+  # xlim(c(1, 5)) +
+  guides(fill = guide_legend(title = "Docker Deployment geschrieben"))
+  # facet_grid(docker_started ~ docker_dockerfile_written)
+
+
+```
+
+#### Git
+
+```{r}
+#| echo: false
+#| label: fig-knowledge-git
+#| fig-cap: "Distribution of Git prior knowledge of all participants"
+#| warning: false
+
+
+library(ggplot2)
+
+# plot(data$zufriedenheit)
+
+ggplot(data = data,
+       mapping = aes(x = git_vorwissen)) + geom_histogram(stat = "count") +
+  xlab("Git Vorwissen") +
+  ylab("Anzahl") +
+  # xlim(c(1, 5)) +
+  guides(fill = guide_legend(title = "Vorwissen"))
+
+
+```
+
+```{r}
+#| echo: false
+#| label: fig-git-tools
+#| fig-cap: "Distribution of git frameworks used"
+#| warning: false
+
+# plot(data$max_dauer_schulung)
+
+choices <- data.table::as.data.table(dict)[get("field_name") == "git_tools", get("select_choices_or_calculations")]
+choices <- strsplit(x = choices, split = " | ", fixed = T)[[1]]
+
+data[["git_tools_plot"]] <- NULL
+tmp <- data.table::data.table(
+  "tool" = character(),
+  "n" = numeric()
+)
+for(i in c(1:3, 99)) {
+  if(i == 99){
+    index <- length(choices)
+  } else {
+    index <- i
+  }
+  tmp <- data.table::rbindlist(list(tmp, list(
+    "tool" = choices[[index]],
+    "n" = sum(data[[paste0("git_tools___", i)]] == "Checked")
+  )))
+}
+
+ggplot(data = tmp,
+       mapping = aes(x = tool, y = n)) + geom_bar(stat = "identity") +
+  xlab("Git Tools") +
+  ylab("Anzahl")
+  # xlim(c(1, 5)) +
+
+rm(tmp)
+```
+
+Next to the mentioned tools, these tools were also used by the participants: `r paste(unique(data$git_tools_sonstige[!is.na(data$git_tools_sonstige)]), collapse = ", ")`.
+
+
+## Discussion
+
+All well and good, but how can R and the knowledge of the need for reproducible research now concretely improve your daily research routine?

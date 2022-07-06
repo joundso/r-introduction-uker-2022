@@ -1,0 +1,8 @@
+participant_id,redcap_survey_identifier,vorwissen_docker_git_timestamp,docker_vorwissen,docker_started,docker_dockerfile_written,git_vorwissen,git_tools___1,git_tools___2,git_tools___3,git_tools___99,git_tools_sonstige,vorwissen_docker_git_complete
+1,,"2022-07-06 12:36:04",3,1,1,3,1,1,0,1,,2
+2,,"2022-07-06 14:36:29",3,1,1,3,1,1,1,0,,2
+3,,"2022-07-06 14:36:41",5,1,,5,1,0,1,0,,2
+4,,"2022-07-06 14:36:54",3,0,1,1,0,0,0,0,,2
+5,,"2022-07-06 14:42:59",4,1,0,,0,0,0,0,,2
+6,,"2022-07-06 15:49:23",3,0,0,5,0,0,0,1,"System 1, System2",2
+7,,"2022-07-06 15:49:35",,,,3,0,0,1,1,Blabal,2
